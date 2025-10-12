@@ -1,9 +1,11 @@
 """映画情報収集とLINE通知のメインスクリプト"""
 
 import sys
+import os
 from scraper import MovieScraper
 from storage import MovieStorage
 from diff_detector import MovieDiffDetector
+from line_notifier import LineNotifier
 
 
 def main():
@@ -45,7 +47,7 @@ def main():
     print(summary)
     print()
     
-    # 4. 新着映画の表示
+    # 4. 新着映画の表示とLINE通知
     if new_movies:
         print(f"🎬 新着映画が {len(new_movies)}件 見つかりました！")
         print()
@@ -55,8 +57,21 @@ def main():
             print(f"     URL: {movie['url']}")
             print()
         
-        # TODO: LINE通知を送信（Phase 4で実装）
-        print("ℹ️  LINE通知機能は Phase 4 で実装予定です")
+        # LINE通知を送信
+        print("--- LINE通知 ---")
+        if os.getenv('LINE_CHANNEL_ACCESS_TOKEN') and os.getenv('LINE_USER_ID'):
+            try:
+                notifier = LineNotifier()
+                success = notifier.send_movie_notifications(new_movies)
+                if success:
+                    print("✓ LINE通知を送信しました")
+                else:
+                    print("⚠️  LINE通知の送信に失敗しました")
+            except Exception as e:
+                print(f"エラー: LINE通知でエラーが発生しました - {e}")
+        else:
+            print("ℹ️  LINE通知は環境変数が設定されていないためスキップされました")
+            print("   環境変数を設定すると、新着映画をLINEで受け取ることができます")
         print()
     else:
         print("ℹ️  新着映画はありません")
