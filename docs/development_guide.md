@@ -6,9 +6,9 @@
 
 ### 前提条件
 
-- Python 3.11以上
+- Python 3.11 以上
 - Git
-- テキストエディタ（VS Code推奨）
+- テキストエディタ（VS Code 推奨）
 
 ### 1. リポジトリのクローン
 
@@ -46,7 +46,7 @@ LINE_USER_ID=your_user_id_here
 EOF
 ```
 
-**注意**: `.env`ファイルは`.gitignore`に含まれているため、Gitにコミットされません。
+**注意**: `.env`ファイルは`.gitignore`に含まれているため、Git にコミットされません。
 
 ## 開発ワークフロー
 
@@ -91,6 +91,7 @@ python src/scraper.py
 ```
 
 **期待される出力**:
+
 ```
 映画情報のスクレイピングを開始します...
 映画情報を取得中: https://eiga.com/movie/
@@ -112,6 +113,7 @@ python src/storage.py
 ```
 
 **期待される出力**:
+
 ```
 データ永続化機能のテスト...
 
@@ -129,7 +131,7 @@ python src/storage.py
 python src/diff_detector.py
 ```
 
-### 4. LINE通知のテスト
+### 4. LINE 通知のテスト
 
 ```bash
 # 環境変数を設定してから実行
@@ -210,9 +212,9 @@ pip install flake8
 flake8 src/
 ```
 
-### Import順序
+### Import 順序
 
-PEP 8に従い、以下の順序でインポート：
+PEP 8 に従い、以下の順序でインポート：
 
 ```python
 # 1. 標準ライブラリ
@@ -323,7 +325,7 @@ git config --global alias.lg "log --oneline --graph --all"
 ### コミット前のチェックリスト
 
 - [ ] コードがフォーマットされている
-- [ ] Lintエラーがない
+- [ ] Lint エラーがない
 - [ ] テストが通る
 - [ ] 不要なデバッグコードを削除
 - [ ] コミットメッセージが明確
@@ -342,19 +344,19 @@ act -j check-and-notify
 
 ## 本番環境との違い
 
-| 項目 | ローカル | GitHub Actions |
-|------|---------|----------------|
-| OS | macOS/Windows/Linux | Ubuntu |
-| Python | システムのPython | Python 3.11 |
-| 環境変数 | .env または export | GitHub Secrets |
-| データ保存 | ローカルファイル | Gitコミット |
+| 項目       | ローカル            | GitHub Actions |
+| ---------- | ------------------- | -------------- |
+| OS         | macOS/Windows/Linux | Ubuntu         |
+| Python     | システムの Python   | Python 3.11    |
+| 環境変数   | .env または export  | GitHub Secrets |
+| データ保存 | ローカルファイル    | Git コミット   |
 
 ## 次のステップ
 
 開発環境が整ったら：
 
 1. [実装詳細](implementation_details.md)で内部構造を理解
-2. [技術仕様書](technical_specifications.md)でAPI仕様を確認
+2. [技術仕様書](technical_specifications.md)で API 仕様を確認
 3. 新機能の実装を開始
 4. プルリクエストを作成
 
@@ -363,4 +365,3 @@ act -j check-and-notify
 - GitHub Issues で質問
 - Pull Request で改善提案
 - ドキュメントの改善も歓迎！
-

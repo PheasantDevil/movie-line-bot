@@ -7,18 +7,18 @@
 - **プログラミング言語**: Python 3.11+
 - **実行環境**: GitHub Actions (Ubuntu latest)
 - **依存ライブラリ**:
-  - `requests>=2.31.0` - HTTP通信
-  - `beautifulsoup4>=4.12.0` - HTMLパース
+  - `requests>=2.31.0` - HTTP 通信
+  - `beautifulsoup4>=4.12.0` - HTML パース
   - `lxml>=4.9.0` - パーサーバックエンド
   - `python-dotenv>=1.0.0` - 環境変数管理（開発用）
 
-### 外部API
+### 外部 API
 
 #### LINE Messaging API
 
 - **バージョン**: v2
 - **使用機能**: Push Message
-- **制限**: 無料プラン 1,000通/月
+- **制限**: 無料プラン 1,000 通/月
 - **エンドポイント**: `https://api.line.me/v2/bot/message/push`
 - **認証**: Bearer Token
 
@@ -26,7 +26,7 @@
 
 - **スクレイピング対象**: https://eiga.com/movie/
 - **取得情報**: 今週公開の映画一覧
-- **アクセス頻度**: 1回/日
+- **アクセス頻度**: 1 回/日
 
 ### データ仕様
 
@@ -34,21 +34,21 @@
 
 ```typescript
 interface MovieData {
-  updated_at: string;     // ISO 8601形式の更新日時
-  count: number;          // 映画数
-  movies: Movie[];        // 映画配列
+  updated_at: string; // ISO 8601形式の更新日時
+  count: number; // 映画数
+  movies: Movie[]; // 映画配列
 }
 
 interface Movie {
-  title: string;          // 映画タイトル
-  url: string;           // 映画.comの詳細URL
-  release_date: string;  // 公開日（例: "10月10日"）
-  thumbnail: string;     // サムネイル画像URL
-  scraped_at: string;    // 取得日時（ISO 8601）
+  title: string; // 映画タイトル
+  url: string; // 映画.comの詳細URL
+  release_date: string; // 公開日（例: "10月10日"）
+  thumbnail: string; // サムネイル画像URL
+  scraped_at: string; // 取得日時（ISO 8601）
 }
 ```
 
-## API仕様
+## API 仕様
 
 ### MovieScraper
 
@@ -56,14 +56,14 @@ interface Movie {
 class MovieScraper:
     def __init__(self):
         """スクレイパーを初期化"""
-        
+
     def fetch_upcoming_movies(self) -> List[Dict]:
         """
         今週公開の映画情報を取得
-        
+
         Returns:
             List[Dict]: 映画情報のリスト
-            
+
         Raises:
             requests.RequestException: HTTP通信エラー
         """
@@ -75,33 +75,33 @@ class MovieScraper:
 class MovieStorage:
     def __init__(self, data_dir: str = "data"):
         """ストレージを初期化"""
-        
+
     def save_movies(self, movies: List[Dict]) -> bool:
         """
         映画情報を保存
-        
+
         Args:
             movies: 映画情報のリスト
-            
+
         Returns:
             bool: 保存成功したか
         """
-        
+
     def load_movies(self) -> Optional[Dict]:
         """
         映画情報を読み込み
-        
+
         Returns:
             Dict | None: 映画データ、存在しない場合はNone
         """
-        
+
     def get_movie_titles(self, data: Optional[Dict] = None) -> set:
         """
         映画タイトルのセットを取得
-        
+
         Args:
             data: 映画データ（Noneの場合は保存データを読み込み）
-            
+
         Returns:
             set: タイトルのセット
         """
@@ -118,15 +118,15 @@ class MovieDiffDetector:
     ) -> Tuple[List[Dict], List[str]]:
         """
         新着映画を検出
-        
+
         Args:
             current_movies: 現在の映画リスト
             previous_movies: 前回の映画リスト
-            
+
         Returns:
             Tuple[List[Dict], List[str]]: (新着映画リスト, タイトルリスト)
         """
-        
+
     @staticmethod
     def format_summary(
         current_count: int,
@@ -135,12 +135,12 @@ class MovieDiffDetector:
     ) -> str:
         """
         サマリー文字列を生成
-        
+
         Args:
             current_count: 現在の映画数
             previous_count: 前回の映画数
             new_count: 新着映画数
-            
+
         Returns:
             str: フォーマットされたサマリー
         """
@@ -157,44 +157,44 @@ class LineNotifier:
     ):
         """
         LINE通知クライアントを初期化
-        
+
         Args:
             channel_access_token: LINEチャネルアクセストークン
             user_id: 通知先のユーザーID
-            
+
         Raises:
             ValueError: 必要な環境変数が設定されていない
         """
-        
+
     def send_text_message(self, text: str) -> bool:
         """
         テキストメッセージを送信
-        
+
         Args:
             text: 送信するテキスト
-            
+
         Returns:
             bool: 送信成功したか
-            
+
         Raises:
             requests.RequestException: API通信エラー
         """
-        
+
     def send_movie_notifications(self, movies: List[Dict]) -> bool:
         """
         映画情報を通知
-        
+
         Args:
             movies: 映画情報のリスト
-            
+
         Returns:
             bool: 送信成功したか
         """
-        
+
     def test_connection(self) -> bool:
         """
         接続テスト
-        
+
         Returns:
             bool: テスト成功したか
         """
@@ -209,13 +209,13 @@ name: 映画情報チェック & LINE通知
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 毎日UTC 0時（JST 9時）
-  workflow_dispatch:     # 手動実行可能
+    - cron: '0 0 * * *' # 毎日UTC 0時（JST 9時）
+  workflow_dispatch: # 手動実行可能
 
 jobs:
   check-and-notify:
     runs-on: ubuntu-latest
-    
+
     steps:
       - チェックアウト
       - Python環境セットアップ
@@ -227,10 +227,10 @@ jobs:
 
 ### 必要な Secrets
 
-| Secret名 | 説明 | 取得方法 |
-|---------|------|---------|
-| LINE_CHANNEL_ACCESS_TOKEN | LINEチャネルアクセストークン | LINE Developers Console |
-| LINE_USER_ID | 通知先のLINE User ID | LINE公式アカウントで確認 |
+| Secret 名                 | 説明                          | 取得方法                  |
+| ------------------------- | ----------------------------- | ------------------------- |
+| LINE_CHANNEL_ACCESS_TOKEN | LINE チャネルアクセストークン | LINE Developers Console   |
+| LINE_USER_ID              | 通知先の LINE User ID         | LINE 公式アカウントで確認 |
 
 ### 必要な Permissions
 
@@ -244,13 +244,15 @@ Settings > Actions > General > Workflow permissions:
 ### 機密情報管理
 
 1. **環境変数**
+
    - すべての機密情報は環境変数で管理
-   - GitHub Secretsで暗号化保存
+   - GitHub Secrets で暗号化保存
    - コードには一切含めない
 
 2. **アクセス制御**
-   - GitHub Actionsのみがデータファイルを変更可能
-   - ユーザーはSecrets設定権限が必要
+
+   - GitHub Actions のみがデータファイルを変更可能
+   - ユーザーは Secrets 設定権限が必要
 
 3. **ログ出力**
    - トークンや機密情報はログに出力しない
@@ -259,10 +261,12 @@ Settings > Actions > General > Workflow permissions:
 ### スクレイピング倫理
 
 1. **アクセス頻度**
-   - 1日1回のみアクセス
+
+   - 1 日 1 回のみアクセス
    - サーバー負荷を最小化
 
-2. **User-Agent設定**
+2. **User-Agent 設定**
+
    ```python
    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
    ```
@@ -275,13 +279,13 @@ Settings > Actions > General > Workflow permissions:
 
 ### レスポンス時間目標
 
-| 処理 | 目標時間 | 実測値 |
-|------|----------|--------|
-| スクレイピング | < 30秒 | ~10秒 |
-| 差分検知 | < 5秒 | <1秒 |
-| LINE通知 | < 10秒 | ~2秒 |
-| データ保存 | < 5秒 | <1秒 |
-| **合計** | **< 60秒** | **~15秒** |
+| 処理           | 目標時間    | 実測値     |
+| -------------- | ----------- | ---------- |
+| スクレイピング | < 30 秒     | ~10 秒     |
+| 差分検知       | < 5 秒      | <1 秒      |
+| LINE 通知      | < 10 秒     | ~2 秒      |
+| データ保存     | < 5 秒      | <1 秒      |
+| **合計**       | **< 60 秒** | **~15 秒** |
 
 ### メモリ使用量
 
@@ -297,13 +301,13 @@ Settings > Actions > General > Workflow permissions:
 
 ### エラー種別と対応
 
-| エラー種別 | 対応 | リトライ |
-|-----------|------|---------|
-| HTTP 404 | ログ出力、処理継続 | なし |
-| HTTP 500 | ログ出力、処理終了 | なし |
-| タイムアウト | ログ出力、処理終了 | なし |
-| パースエラー | 警告出力、処理継続 | なし |
-| LINE APIエラー | エラー出力、処理継続 | なし |
+| エラー種別      | 対応                 | リトライ |
+| --------------- | -------------------- | -------- |
+| HTTP 404        | ログ出力、処理継続   | なし     |
+| HTTP 500        | ログ出力、処理終了   | なし     |
+| タイムアウト    | ログ出力、処理終了   | なし     |
+| パースエラー    | 警告出力、処理継続   | なし     |
+| LINE API エラー | エラー出力、処理継続 | なし     |
 
 ### ログレベル
 
@@ -341,10 +345,12 @@ python src/main.py
 各モジュールは独立しており、容易に拡張可能：
 
 1. **スクレイパーの追加**
+
    - 新しいサイト用のスクレイパークラスを作成
    - 同じインターフェース（`fetch_upcoming_movies()`）を実装
 
 2. **通知先の追加**
+
    - Slack, Discord, Telegram などに対応可能
    - 新しい通知クラスを作成
 
@@ -369,36 +375,41 @@ PATCH: バグフィックス
 ## 制限事項
 
 1. **スクレイピング依存**
-   - 映画.comのHTML構造変更に影響を受ける
+
+   - 映画.com の HTML 構造変更に影響を受ける
    - 定期的なメンテナンスが必要な可能性
 
 2. **単一ユーザー対応**
-   - 現在は1ユーザーのみに通知
+
+   - 現在は 1 ユーザーのみに通知
    - 複数ユーザーへの対応は要実装
 
 3. **リアルタイム性**
-   - 1日1回の実行のため、即時性はない
+
+   - 1 日 1 回の実行のため、即時性はない
    - より頻繁な実行も可能だが推奨しない
 
 4. **データ量制限**
-   - JSON保存のため大量データには不向き
-   - 現在の映画数（~30件）では問題なし
+   - JSON 保存のため大量データには不向き
+   - 現在の映画数（~30 件）では問題なし
 
 ## 今後の改善案
 
 1. **詳細情報の追加**
+
    - ジャンル、監督、キャストなど
    - 個別映画ページのスクレイピングが必要
 
 2. **画像付き通知**
-   - LINE Flex Messageで画像表示
+
+   - LINE Flex Message で画像表示
    - よりリッチな通知
 
 3. **フィルタリング機能**
+
    - ユーザーの好みに応じた通知
    - 設定ファイルで管理
 
 4. **統計機能**
    - 公開映画数の推移
    - 人気ジャンルの分析
-

@@ -1,6 +1,6 @@
-# 📚 映画情報通知LINE Bot ドキュメント
+# 📚 映画情報通知 LINE Bot ドキュメント
 
-このディレクトリには、映画情報通知LINE Botの実装に関する詳細なドキュメントが含まれています。
+このディレクトリには、映画情報通知 LINE Bot の実装に関する詳細なドキュメントが含まれています。
 
 ## 📑 ドキュメント一覧
 
@@ -8,13 +8,13 @@
 
 - [実装詳細](implementation_details.md) - 実装の全体像と各モジュールの詳細
 - [技術仕様書](technical_specifications.md) - 技術的な仕様とアーキテクチャ
-- [API仕様](api_specifications.md) - 外部API（LINE、映画.com）の使用方法
+- [API 仕様](api_specifications.md) - 外部 API（LINE、映画.com）の使用方法
 
 ### 開発ドキュメント
 
 - [開発ガイド](development_guide.md) - ローカル開発環境のセットアップと開発手順
 - [テストガイド](testing_guide.md) - テスト方法とデバッグ手順
-- [デプロイガイド](deployment_guide.md) - デプロイとCI/CD設定
+- [デプロイガイド](deployment_guide.md) - デプロイと CI/CD 設定
 
 ### その他
 
@@ -24,20 +24,20 @@
 
 ## 📖 クイックリンク
 
-- [プロジェクトREADME](../README.md)
+- [プロジェクト README](../README.md)
 - [セットアップガイド](../SETUP_GUIDE.md)
 - [GitHub Actions ワークフロー](../.github/workflows/README.md)
 
 ## 🎯 このプロジェクトについて
 
-映画情報通知LINE Botは、映画.comから最新の映画情報を自動取得し、新作映画をLINEで通知するシステムです。
+映画情報通知 LINE Bot は、映画.com から最新の映画情報を自動取得し、新作映画を LINE で通知するシステムです。
 
 ### 主な特徴
 
-- 🔄 **完全自動化**: GitHub Actionsで毎日自動実行
+- 🔄 **完全自動化**: GitHub Actions で毎日自動実行
 - 💰 **完全無料**: 無料枠内で運用可能
 - 🎬 **リアルタイム通知**: 新作映画を即座に通知
-- 📊 **データ管理**: 映画情報をGitで履歴管理
+- 📊 **データ管理**: 映画情報を Git で履歴管理
 
 ### 技術スタック
 
@@ -45,7 +45,7 @@
 - **スクレイピング**: Beautiful Soup 4, Requests
 - **通知**: LINE Messaging API
 - **CI/CD**: GitHub Actions
-- **データ保存**: JSON (Git管理)
+- **データ保存**: JSON (Git 管理)
 
 ## 🚀 はじめに
 
@@ -57,4 +57,3 @@
 ## 🤝 貢献
 
 ドキュメントの改善や追加は常に歓迎です！プルリクエストをお待ちしています。
-

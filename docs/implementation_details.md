@@ -1,6 +1,6 @@
 # 🔧 実装詳細
 
-映画情報通知LINE Botの実装に関する詳細なドキュメントです。
+映画情報通知 LINE Bot の実装に関する詳細なドキュメントです。
 
 ## 📋 目次
 
@@ -14,20 +14,20 @@
 
 ### 目的
 
-日本国内の新作映画情報を自動で取得し、LINE経由でユーザーに通知するシステムを構築する。
+日本国内の新作映画情報を自動で取得し、LINE 経由でユーザーに通知するシステムを構築する。
 
 ### 要件
 
-- ✅ 映画.comから今週公開の映画情報を取得
+- ✅ 映画.com から今週公開の映画情報を取得
 - ✅ 前回との差分を検知して新作のみを通知
-- ✅ LINE Messaging APIで自動通知
-- ✅ GitHub Actionsで定期実行（毎日1回）
+- ✅ LINE Messaging API で自動通知
+- ✅ GitHub Actions で定期実行（毎日 1 回）
 - ✅ 完全無料で運用可能
 
 ### 非機能要件
 
-- **可用性**: GitHub Actionsの稼働率に依存（99.9%+）
-- **パフォーマンス**: 実行時間 < 3分
+- **可用性**: GitHub Actions の稼働率に依存（99.9%+）
+- **パフォーマンス**: 実行時間 < 3 分
 - **拡張性**: 簡単に通知内容をカスタマイズ可能
 - **保守性**: コードは読みやすく、モジュール化
 
@@ -90,6 +90,7 @@
 **役割**: システム全体の制御フロー
 
 **処理フロー**:
+
 ```python
 1. 前回のデータを読み込み (storage.load_movies())
 2. 最新の映画情報を取得 (scraper.fetch_upcoming_movies())
@@ -99,41 +100,43 @@
 ```
 
 **実装詳細**:
+
 ```python
 def main():
     # 1. データ読み込み
     storage = MovieStorage()
     previous_data = storage.load_movies()
     previous_movies = previous_data['movies'] if previous_data else []
-    
+
     # 2. 最新情報取得
     scraper = MovieScraper()
     current_movies = scraper.fetch_upcoming_movies()
-    
+
     # 3. 差分検知
     detector = MovieDiffDetector()
     new_movies, new_titles = detector.detect_new_movies(
         current_movies, previous_movies
     )
-    
+
     # 4. LINE通知（新作がある場合のみ）
     if new_movies and 環境変数が設定されている:
         notifier = LineNotifier()
         notifier.send_movie_notifications(new_movies)
-    
+
     # 5. データ保存
     storage.save_movies(current_movies)
 ```
 
 ### 2. `scraper.py` - スクレイピングモジュール
 
-**役割**: 映画.comから映画情報を取得
+**役割**: 映画.com から映画情報を取得
 
 **主要クラス**: `MovieScraper`
 
 **実装のポイント**:
 
-1. **HTML構造の解析**
+1. **HTML 構造の解析**
+
    ```python
    # 「今週公開の映画」セクションを探す
    this_week_header = soup.find('h2', class_=['title-xlarge', 'margin-top20'])
@@ -141,23 +144,25 @@ def main():
    ```
 
 2. **データ抽出**
+
    ```python
    for li in movie_list.find_all('li'):
        # タイトル: imgのalt属性から取得
        img = link.find('img')
        title = img['alt']
-       
+
        # 公開日: pタグから取得
        published_elem = li.find('p', class_='published')
        release_date = published_elem.get_text(strip=True)
    ```
 
 3. **エラーハンドリング**
-   - タイムアウト: 30秒
-   - リトライ: なし（GitHub Actionsで再実行）
+   - タイムアウト: 30 秒
+   - リトライ: なし（GitHub Actions で再実行）
    - 部分的な失敗: 個別の映画で失敗しても続行
 
 **取得データ構造**:
+
 ```python
 {
     'title': str,           # 映画タイトル
@@ -175,6 +180,7 @@ def main():
 **主要クラス**: `MovieStorage`
 
 **データ形式** (`data/movies.json`):
+
 ```json
 {
   "updated_at": "2025-10-12T19:56:34.452419",
@@ -193,12 +199,14 @@ def main():
 
 **実装のポイント**:
 
-1. **JSONファイルによる永続化**
+1. **JSON ファイルによる永続化**
+
    - シンプルで読みやすい
-   - Gitで履歴管理可能
+   - Git で履歴管理可能
    - データベース不要（コスト削減）
 
 2. **データの完全性**
+
    ```python
    # 保存時に必ず updated_at と count を含める
    data = {
@@ -227,33 +235,35 @@ def main():
 def detect_new_movies(current_movies, previous_movies):
     # 1. 前回のタイトルセットを作成（O(n)）
     previous_titles = {movie['title'] for movie in previous_movies}
-    
+
     # 2. 現在の映画から新作を検出（O(m)）
     new_movies = []
     for movie in current_movies:
         if movie['title'] not in previous_titles:  # O(1) ハッシュテーブル検索
             new_movies.append(movie)
-    
+
     return new_movies
 ```
 
 **計算量**: O(n + m)
+
 - n: 前回の映画数
 - m: 現在の映画数
 
 **実装のポイント**:
 
 1. **セットを使った高速検索**
+
    - リストでの検索: O(n)
    - セットでの検索: O(1)
 
 2. **シンプルな差分ロジック**
-   - タイトルのみで判定（URLは変わる可能性がある）
+   - タイトルのみで判定（URL は変わる可能性がある）
    - 削除された映画は通知しない
 
-### 5. `line_notifier.py` - LINE通知モジュール
+### 5. `line_notifier.py` - LINE 通知モジュール
 
-**役割**: LINE Messaging APIで通知を送信
+**役割**: LINE Messaging API で通知を送信
 
 **主要クラス**: `LineNotifier`
 
@@ -261,7 +271,7 @@ def detect_new_movies(current_movies, previous_movies):
 
 - **エンドポイント**: `https://api.line.me/v2/bot/message/push`
 - **認証**: Bearer Token
-- **制限**: 無料プランで1,000通/月
+- **制限**: 無料プランで 1,000 通/月
 
 **メッセージフォーマット**:
 
@@ -269,31 +279,33 @@ def detect_new_movies(current_movies, previous_movies):
 def _format_movie_message(self, movies: List[Dict]) -> str:
     header = f"🎬 新作映画情報 ({len(movies)}件)\n"
     header += "=" * 30 + "\n\n"
-    
+
     movie_texts = []
     for i, movie in enumerate(movies[:10], 1):  # 最大10件
         text = f"【{i}】{movie['title']}\n"
         text += f"📅 公開日: {movie['release_date']}\n"
         text += f"🔗 {movie['url']}\n"
         movie_texts.append(text)
-    
+
     return header + "\n".join(movie_texts)
 ```
 
 **実装のポイント**:
 
 1. **環境変数による設定**
+
    ```python
    self.channel_access_token = os.getenv('LINE_CHANNEL_ACCESS_TOKEN')
    self.user_id = os.getenv('LINE_USER_ID')
    ```
 
 2. **エラーハンドリング**
-   - APIエラー時は詳細なログを出力
+
+   - API エラー時は詳細なログを出力
    - 失敗してもプログラムは継続
 
 3. **メッセージの最適化**
-   - 最大10件まで通知（LINEの文字数制限考慮）
+   - 最大 10 件まで通知（LINE の文字数制限考慮）
    - 絵文字で視認性向上
 
 ## データフロー
@@ -341,19 +353,22 @@ def _format_movie_message(self, movies: List[Dict]) -> str:
 ### 1. なぜスクレイピングなのか？
 
 **理由**:
-- 映画.comに公式APIが存在しない
-- RSSフィードも提供されていない
+
+- 映画.com に公式 API が存在しない
+- RSS フィードも提供されていない
 - スクレイピングが唯一の手段
 
 **配慮点**:
-- User-Agentを設定してボットであることを明示
-- 1日1回のみアクセス（サーバー負荷を最小化）
+
+- User-Agent を設定してボットであることを明示
+- 1 日 1 回のみアクセス（サーバー負荷を最小化）
 - robots.txt に準拠
 
-### 2. なぜGitHub Actionsなのか？
+### 2. なぜ GitHub Actions なのか？
 
 **メリット**:
-- ✅ 無料（2,000分/月）
+
+- ✅ 無料（2,000 分/月）
 - ✅ サーバー不要
 - ✅ 設定が簡単
 - ✅ ログが見やすい
@@ -364,18 +379,20 @@ def _format_movie_message(self, movies: List[Dict]) -> str:
 | GitHub Actions | 無料 | 簡単 | 高 |
 | AWS Lambda | 無料枠あり | 中 | 非常に高 |
 | VPS | 有料 | 難 | 中 |
-| ローカルPC | 無料 | 難 | 低 |
+| ローカル PC | 無料 | 難 | 低 |
 
-### 3. なぜJSONで保存するのか？
+### 3. なぜ JSON で保存するのか？
 
 **メリット**:
+
 - ✅ シンプルで読みやすい
-- ✅ Gitで履歴管理可能
+- ✅ Git で履歴管理可能
 - ✅ データベース不要
-- ✅ バックアップ不要（Git履歴がバックアップ）
+- ✅ バックアップ不要（Git 履歴がバックアップ）
 
 **デメリット**:
-- ❌ データ量が増えると遅くなる（現状28件なので問題なし）
+
+- ❌ データ量が増えると遅くなる（現状 28 件なので問題なし）
 - ❌ 複雑なクエリができない（不要）
 
 ### 4. エラーハンドリング戦略
@@ -392,13 +409,15 @@ except Exception as e:
 ```
 
 **理由**:
+
 - 一部の映画で失敗しても、他の映画は通知したい
-- GitHub Actionsのログで問題を確認できる
+- GitHub Actions のログで問題を確認できる
 - 次回実行で自動リカバリー
 
 ### 5. セキュリティ
 
 **環境変数による機密情報管理**:
+
 ```yaml
 env:
   LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
@@ -406,21 +425,22 @@ env:
 ```
 
 **理由**:
+
 - トークンをコードに含めない
-- GitHub Secretsで暗号化保存
+- GitHub Secrets で暗号化保存
 - ログに出力されない
 
 ## パフォーマンス
 
 ### 実行時間
 
-| 処理 | 時間 |
-|------|------|
-| スクレイピング | ~10秒 |
-| 差分検知 | <1秒 |
-| LINE通知 | ~2秒 |
-| データ保存 | <1秒 |
-| **合計** | **~15秒** |
+| 処理           | 時間       |
+| -------------- | ---------- |
+| スクレイピング | ~10 秒     |
+| 差分検知       | <1 秒      |
+| LINE 通知      | ~2 秒      |
+| データ保存     | <1 秒      |
+| **合計**       | **~15 秒** |
 
 ### リソース使用量
 
@@ -433,6 +453,7 @@ env:
 ### 簡単に追加できる機能
 
 1. **複数ユーザーへの通知**
+
    ```python
    user_ids = ['U1234...', 'U5678...']
    for user_id in user_ids:
@@ -440,22 +461,23 @@ env:
    ```
 
 2. **フィルタリング**
+
    ```python
    # アニメ映画のみ通知
    anime_movies = [m for m in movies if 'アニメ' in m.get('genre', '')]
    ```
 
 3. **他のサイトからも取得**
+
    ```python
    yahoo_scraper = YahooMovieScraper()
    yahoo_movies = yahoo_scraper.fetch_movies()
    all_movies = merge_movies(eiga_movies, yahoo_movies)
    ```
 
-4. **Webhook対応**
-   - LINE Botで「次週の映画を教えて」などのコマンド対応
+4. **Webhook 対応**
+   - LINE Bot で「次週の映画を教えて」などのコマンド対応
 
 ## まとめ
 
 このシステムは、シンプルでメンテナンスしやすく、完全無料で運用できる設計になっています。各モジュールは独立しており、テストや拡張が容易です。
-
