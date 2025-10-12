@@ -1,6 +1,6 @@
 """新着映画を検知するモジュール"""
 
-from typing import List, Dict, Tuple
+from typing import Dict, List, Tuple
 
 
 class MovieDiffDetector:

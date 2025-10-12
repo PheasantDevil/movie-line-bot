@@ -1,11 +1,12 @@
 """映画情報収集とLINE通知のメインスクリプト"""
 
-import sys
 import os
-from scraper import MovieScraper
-from storage import MovieStorage
+import sys
+
 from diff_detector import MovieDiffDetector
 from line_notifier import LineNotifier
+from scraper import MovieScraper
+from storage import MovieStorage
 
 
 def main():

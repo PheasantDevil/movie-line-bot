@@ -1,10 +1,11 @@
 """映画情報をスクレイピングするモジュール"""
 
-import requests
-from bs4 import BeautifulSoup
-from typing import List, Dict, Optional
 import re
 from datetime import datetime
+from typing import Dict, List, Optional
+
+import requests
+from bs4 import BeautifulSoup
 
 
 class MovieScraper:
