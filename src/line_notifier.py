@@ -1,6 +1,9 @@
 """LINE Messaging APIを使った通知機能"""
 
 import os
+import hashlib
+import hmac
+import base64
 from typing import Dict, List, Optional
 
 import requests
@@ -12,7 +15,8 @@ class LineNotifier:
     def __init__(
         self,
         channel_access_token: Optional[str] = None,
-        user_id: Optional[str] = None
+        user_id: Optional[str] = None,
+        channel_secret: Optional[str] = None
     ):
         """
         初期化
@@ -20,10 +24,13 @@ class LineNotifier:
         Args:
             channel_access_token: LINEチャネルアクセストークン
             user_id: 通知先のユーザーID
+            channel_secret: LINEチャネルシークレット（Webhook署名検証用）
         """
         self.channel_access_token = channel_access_token or os.getenv('LINE_CHANNEL_ACCESS_TOKEN')
         self.user_id = user_id or os.getenv('LINE_USER_ID')
-        self.api_url = 'https://api.line.me/v2/bot/message/push'
+        self.channel_secret = channel_secret or os.getenv('LINE_CHANNEL_SECRET')
+        self.push_api_url = 'https://api.line.me/v2/bot/message/push'
+        self.reply_api_url = 'https://api.line.me/v2/bot/message/reply'
         
         if not self.channel_access_token:
             raise ValueError("LINE_CHANNEL_ACCESS_TOKEN が設定されていません")
@@ -56,7 +63,7 @@ class LineNotifier:
         }
         
         try:
-            response = requests.post(self.api_url, headers=headers, json=data, timeout=30)
+            response = requests.post(self.push_api_url, headers=headers, json=data, timeout=30)
             response.raise_for_status()
             print("✓ LINE通知を送信しました")
             return True
@@ -112,6 +119,199 @@ class LineNotifier:
             footer = f"\n...他 {len(movies) - 10}件"
         
         return header + "\n".join(movie_texts) + footer
+    
+    def send_weekly_notification(
+        self,
+        past_week_movies: List[Dict],
+        next_week_movies: List[Dict]
+    ) -> bool:
+        """
+        週次通知を送信（過去1週間と先1週間の映画情報）
+        
+        Args:
+            past_week_movies: 過去1週間以内に公開された映画リスト
+            next_week_movies: 先1週間以内に公開予定の映画リスト
+            
+        Returns:
+            bool: 送信が成功したかどうか
+        """
+        message = self._format_weekly_message(past_week_movies, next_week_movies)
+        return self.send_text_message(message)
+    
+    def _format_weekly_message(
+        self,
+        past_week_movies: List[Dict],
+        next_week_movies: List[Dict]
+    ) -> str:
+        """
+        週次通知メッセージを整形
+        
+        Args:
+            past_week_movies: 過去1週間以内に公開された映画リスト
+            next_week_movies: 先1週間以内に公開予定の映画リスト
+            
+        Returns:
+            str: 整形されたメッセージ
+        """
+        lines = []
+        lines.append("🎬 週刊映画情報")
+        lines.append("=" * 30)
+        lines.append("")
+        
+        # 過去1週間以内に公開された映画
+        lines.append("【過去1週間以内に公開された映画】")
+        if past_week_movies:
+            for i, movie in enumerate(past_week_movies[:10], 1):
+                lines.append(f"{i}. {movie['title']}")
+                lines.append(f"   公開日: {movie['release_date']}")
+                lines.append(f"   {movie['url']}")
+                lines.append("")
+        else:
+            lines.append("該当する映画はありません")
+            lines.append("")
+        
+        lines.append("=" * 30)
+        lines.append("")
+        
+        # 先1週間以内に公開予定の映画
+        lines.append("【先1週間以内に公開予定の映画】")
+        if next_week_movies:
+            for i, movie in enumerate(next_week_movies[:10], 1):
+                title_line = f"{i}. {movie['title']}"
+                
+                # 上映館数情報を追加
+                if movie.get('is_limited_release'):
+                    theater_count = movie.get('theater_count')
+                    if theater_count:
+                        title_line += f" ⚠️ 限定公開({theater_count}館)"
+                    else:
+                        title_line += " ⚠️ 限定公開"
+                elif movie.get('theater_count'):
+                    title_line += f" ({movie['theater_count']}館)"
+                
+                lines.append(title_line)
+                lines.append(f"   公開日: {movie['release_date']}")
+                lines.append(f"   {movie['url']}")
+                lines.append("")
+        else:
+            lines.append("該当する映画はありません")
+            lines.append("")
+        
+        return "\n".join(lines)
+    
+    def reply_text_message(self, reply_token: str, text: str) -> bool:
+        """
+        テキストメッセージをReply
+        
+        Args:
+            reply_token: リプライトークン
+            text: 送信するテキスト
+            
+        Returns:
+            bool: 送信が成功したかどうか
+        """
+        headers = {
+            'Authorization': f'Bearer {self.channel_access_token}',
+            'Content-Type': 'application/json'
+        }
+        
+        data = {
+            'replyToken': reply_token,
+            'messages': [
+                {
+                    'type': 'text',
+                    'text': text
+                }
+            ]
+        }
+        
+        try:
+            response = requests.post(self.reply_api_url, headers=headers, json=data, timeout=30)
+            response.raise_for_status()
+            print("✓ LINE Replyを送信しました")
+            return True
+            
+        except requests.RequestException as e:
+            print(f"エラー: LINE Replyの送信に失敗しました - {e}")
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"レスポンス: {e.response.text}")
+            return False
+    
+    def reply_movie_info(self, reply_token: str, movies: List[Dict]) -> bool:
+        """
+        映画情報をReply
+        
+        Args:
+            reply_token: リプライトークン
+            movies: 映画情報のリスト
+            
+        Returns:
+            bool: 送信が成功したかどうか
+        """
+        if not movies:
+            message = "該当する映画が見つかりませんでした。"
+        else:
+            message = self._format_search_result_message(movies)
+        
+        return self.reply_text_message(reply_token, message)
+    
+    def _format_search_result_message(self, movies: List[Dict]) -> str:
+        """
+        検索結果メッセージを整形
+        
+        Args:
+            movies: 映画情報のリスト
+            
+        Returns:
+            str: 整形されたメッセージ
+        """
+        lines = []
+        lines.append(f"🎬 検索結果 ({len(movies)}件)")
+        lines.append("=" * 30)
+        lines.append("")
+        
+        for i, movie in enumerate(movies[:5], 1):  # 最大5件まで
+            lines.append(f"【{i}】{movie['title']}")
+            lines.append(f"公開日: {movie['release_date']}")
+            
+            # 上映館数情報があれば追加
+            if movie.get('theater_count'):
+                lines.append(f"上映館数: {movie['theater_count']}館")
+            if movie.get('is_limited_release'):
+                lines.append("⚠️ 限定公開")
+            
+            lines.append(f"詳細: {movie['url']}")
+            lines.append("")
+        
+        if len(movies) > 5:
+            lines.append(f"...他 {len(movies) - 5}件")
+        
+        return "\n".join(lines)
+    
+    def verify_signature(self, body: str, signature: str) -> bool:
+        """
+        Webhook署名を検証
+        
+        Args:
+            body: リクエストボディ
+            signature: X-Line-Signatureヘッダーの値
+            
+        Returns:
+            bool: 署名が正しい場合True
+        """
+        if not self.channel_secret:
+            print("警告: チャネルシークレットが設定されていません")
+            return False
+        
+        hash_digest = hmac.new(
+            self.channel_secret.encode('utf-8'),
+            body.encode('utf-8'),
+            hashlib.sha256
+        ).digest()
+        
+        expected_signature = base64.b64encode(hash_digest).decode('utf-8')
+        
+        return signature == expected_signature
     
     def test_connection(self) -> bool:
         """
