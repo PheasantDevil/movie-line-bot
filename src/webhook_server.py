@@ -1,13 +1,13 @@
 """LINE Webhook サーバー"""
 
-import os
 import json
-from flask import Flask, request, abort
+import os
+
+from flask import Flask, abort, request
 
 from line_notifier import LineNotifier
 from scraper import MovieScraper
 from storage import MovieStorage
-
 
 app = Flask(__name__)
 
