@@ -1,6 +1,6 @@
 # LINE Messaging API 機能一覧
 
-このドキュメントでは、LINE Messaging APIを使用してコードから管理・実装できる機能を網羅的に記載しています。
+このドキュメントでは、LINE Messaging API を使用してコードから管理・実装できる機能を網羅的に記載しています。
 
 ## 📋 目次
 
@@ -20,14 +20,17 @@
 ## メッセージ送信機能
 
 ### 1. Push API（プッシュメッセージ）
-Bot側から能動的にメッセージを送信できる機能。
+
+Bot 側から能動的にメッセージを送信できる機能。
 
 **特徴:**
+
 - ユーザーやグループに対して自由なタイミングで送信可能
-- 月1,000通まで無料（無料プラン）
-- 複数のメッセージを一度に送信可能（最大5件）
+- 月 1,000 通まで無料（無料プラン）
+- 複数のメッセージを一度に送信可能（最大 5 件）
 
 **実装例:**
+
 ```python
 def send_push_message(user_id: str, text: str):
     url = 'https://api.line.me/v2/bot/message/push'
@@ -43,19 +46,23 @@ def send_push_message(user_id: str, text: str):
 ```
 
 **使用例:**
+
 - 定期通知（週次映画情報など）
 - リマインダー
 - アラート通知
 
 ### 2. Reply API（返信メッセージ）
+
 ユーザーからのメッセージに対して返信する機能。
 
 **特徴:**
-- reply tokenを使用（1回のみ有効、発行から1分間有効）
+
+- reply token を使用（1 回のみ有効、発行から 1 分間有効）
 - 通知料金が無料
-- 複数のメッセージを一度に送信可能（最大5件）
+- 複数のメッセージを一度に送信可能（最大 5 件）
 
 **実装例:**
+
 ```python
 def send_reply_message(reply_token: str, text: str):
     url = 'https://api.line.me/v2/bot/message/reply'
@@ -71,18 +78,22 @@ def send_reply_message(reply_token: str, text: str):
 ```
 
 **使用例:**
+
 - ユーザーの質問への回答
 - キーワード検索結果の返信
 - インタラクティブな会話
 
 ### 3. Multicast API（複数ユーザーへの一斉送信）
+
 複数のユーザーに同じメッセージを一斉送信。
 
 **特徴:**
-- 最大500人まで同時送信可能
+
+- 最大 500 人まで同時送信可能
 - 各ユーザーへの送信として課金される
 
 **実装例:**
+
 ```python
 def send_multicast(user_ids: list, text: str):
     url = 'https://api.line.me/v2/bot/message/multicast'
@@ -94,14 +105,17 @@ def send_multicast(user_ids: list, text: str):
 ```
 
 ### 4. Broadcast API（全ユーザーへの一斉送信）
-Botの全友だちに一斉送信。
+
+Bot の全友だちに一斉送信。
 
 **特徴:**
-- ユーザーIDを指定する必要がない
+
+- ユーザー ID を指定する必要がない
 - 大量送信に適している
 - 有料プランのみ利用可能
 
 **実装例:**
+
 ```python
 def send_broadcast(text: str):
     url = 'https://api.line.me/v2/bot/message/broadcast'
@@ -112,10 +126,12 @@ def send_broadcast(text: str):
 ```
 
 ### 5. Narrowcast API（セグメント配信）
+
 ユーザーをセグメント（属性）で絞り込んで配信。
 
 **特徴:**
-- 年齢、性別、地域、OSなどでフィルタリング可能
+
+- 年齢、性別、地域、OS などでフィルタリング可能
 - 有料プランのみ利用可能
 
 ---
@@ -123,14 +139,17 @@ def send_broadcast(text: str):
 ## リッチコンテンツ
 
 ### 1. テキストメッセージ
+
 基本的なテキストメッセージ。
 
 **特徴:**
-- 最大5,000文字
+
+- 最大 5,000 文字
 - 絵文字使用可能
-- URLは自動リンク化
+- URL は自動リンク化
 
 **実装例:**
+
 ```python
 {
     'type': 'text',
@@ -142,9 +161,11 @@ def send_broadcast(text: str):
 ```
 
 ### 2. スタンプメッセージ
-LINEスタンプを送信。
+
+LINE スタンプを送信。
 
 **実装例:**
+
 ```python
 {
     'type': 'sticker',
@@ -154,14 +175,17 @@ LINEスタンプを送信。
 ```
 
 ### 3. 画像メッセージ
+
 画像を送信。
 
 **特徴:**
-- JPEG、PNG形式
-- 最大10MB
-- プレビュー画像とオリジナル画像のURLが必要
+
+- JPEG、PNG 形式
+- 最大 10MB
+- プレビュー画像とオリジナル画像の URL が必要
 
 **実装例:**
+
 ```python
 {
     'type': 'image',
@@ -171,14 +195,17 @@ LINEスタンプを送信。
 ```
 
 ### 4. 動画メッセージ
+
 動画を送信。
 
 **特徴:**
-- MP4形式
-- 最大200MB
-- 最長1分
+
+- MP4 形式
+- 最大 200MB
+- 最長 1 分
 
 **実装例:**
+
 ```python
 {
     'type': 'video',
@@ -188,14 +215,17 @@ LINEスタンプを送信。
 ```
 
 ### 5. 音声メッセージ
+
 音声を送信。
 
 **特徴:**
-- M4A形式
-- 最大200MB
-- 最長1分
+
+- M4A 形式
+- 最大 200MB
+- 最長 1 分
 
 **実装例:**
+
 ```python
 {
     'type': 'audio',
@@ -205,9 +235,11 @@ LINEスタンプを送信。
 ```
 
 ### 6. 位置情報メッセージ
+
 地図と位置情報を送信。
 
 **実装例:**
+
 ```python
 {
     'type': 'location',
@@ -219,14 +251,17 @@ LINEスタンプを送信。
 ```
 
 ### 7. Flex Message（フレックスメッセージ）
+
 カスタマイズ可能なリッチメッセージ。
 
 **特徴:**
+
 - 柔軟なレイアウト設計
 - 画像、テキスト、ボタンを自由に配置
 - レスポンシブ対応
 
 **実装例:**
+
 ```python
 {
     'type': 'flex',
@@ -285,14 +320,17 @@ LINEスタンプを送信。
 }
 ```
 
-**Flex Messageの種類:**
-- **Bubble**: 1つのカード
+**Flex Message の種類:**
+
+- **Bubble**: 1 つのカード
 - **Carousel**: 複数のカードを横スクロール
 
 ### 8. Template Message（テンプレートメッセージ）
+
 事前定義されたテンプレート。
 
 #### Buttons Template（ボタンテンプレート）
+
 ```python
 {
     'type': 'template',
@@ -319,6 +357,7 @@ LINEスタンプを送信。
 ```
 
 #### Confirm Template（確認テンプレート）
+
 ```python
 {
     'type': 'template',
@@ -335,6 +374,7 @@ LINEスタンプを送信。
 ```
 
 #### Carousel Template（カルーセルテンプレート）
+
 ```python
 {
     'type': 'template',
@@ -357,6 +397,7 @@ LINEスタンプを送信。
 ```
 
 #### Image Carousel Template（画像カルーセル）
+
 ```python
 {
     'type': 'template',
@@ -381,14 +422,17 @@ LINEスタンプを送信。
 ## インタラクティブ機能
 
 ### 1. Quick Reply（クイックリプライ）
+
 メッセージ下部に表示される選択肢ボタン。
 
 **特徴:**
-- 最大13個まで設定可能
+
+- 最大 13 個まで設定可能
 - タップすると自動的にメッセージ送信
 - アイコン画像を設定可能
 
 **実装例:**
+
 ```python
 {
     'type': 'text',
@@ -438,19 +482,22 @@ LINEスタンプを送信。
 }
 ```
 
-**Quick Replyで利用可能なアクション:**
+**Quick Reply で利用可能なアクション:**
+
 - `message`: テキスト送信
 - `postback`: データ送信（非表示）
-- `uri`: URL起動
+- `uri`: URL 起動
 - `location`: 位置情報送信
 - `camera`: カメラ起動
 - `cameraRoll`: カメラロール開く
 - `datetimepicker`: 日時選択
 
 ### 2. Action Objects（アクションオブジェクト）
+
 ボタンやリンクに設定できるアクション。
 
 #### Postback Action
+
 ```python
 {
     'type': 'postback',
@@ -461,6 +508,7 @@ LINEスタンプを送信。
 ```
 
 #### Message Action
+
 ```python
 {
     'type': 'message',
@@ -470,6 +518,7 @@ LINEスタンプを送信。
 ```
 
 #### URI Action
+
 ```python
 {
     'type': 'uri',
@@ -479,6 +528,7 @@ LINEスタンプを送信。
 ```
 
 #### Datetime Picker Action
+
 ```python
 {
     'type': 'datetimepicker',
@@ -492,6 +542,7 @@ LINEスタンプを送信。
 ```
 
 #### Camera Action
+
 ```python
 {
     'type': 'camera',
@@ -500,6 +551,7 @@ LINEスタンプを送信。
 ```
 
 #### Camera Roll Action
+
 ```python
 {
     'type': 'cameraRoll',
@@ -508,6 +560,7 @@ LINEスタンプを送信。
 ```
 
 #### Location Action
+
 ```python
 {
     'type': 'location',
@@ -516,9 +569,11 @@ LINEスタンプを送信。
 ```
 
 ### 3. Imagemap Message（イメージマップメッセージ）
+
 画像の特定領域にリンクやアクションを設定。
 
 **実装例:**
+
 ```python
 {
     'type': 'imagemap',
@@ -548,15 +603,18 @@ LINEスタンプを送信。
 ## ユーザー・グループ管理
 
 ### 1. ユーザープロフィール取得
+
 友だち追加したユーザーの情報を取得。
 
 **取得可能な情報:**
+
 - 表示名（displayName）
-- ユーザーID（userId）
-- プロフィール画像URL（pictureUrl）
+- ユーザー ID（userId）
+- プロフィール画像 URL（pictureUrl）
 - ステータスメッセージ（statusMessage）
 
 **実装例:**
+
 ```python
 def get_user_profile(user_id: str):
     url = f'https://api.line.me/v2/bot/profile/{user_id}'
@@ -572,14 +630,17 @@ def get_user_profile(user_id: str):
 ```
 
 ### 2. グループ情報取得
-Botが参加しているグループの情報を取得。
+
+Bot が参加しているグループの情報を取得。
 
 **取得可能な情報:**
+
 - グループ名（groupName）
-- グループID（groupId）
-- グループアイコンURL（pictureUrl）
+- グループ ID（groupId）
+- グループアイコン URL（pictureUrl）
 
 **実装例:**
+
 ```python
 def get_group_summary(group_id: str):
     url = f'https://api.line.me/v2/bot/group/{group_id}/summary'
@@ -589,9 +650,11 @@ def get_group_summary(group_id: str):
 ```
 
 ### 3. グループメンバー情報取得
+
 グループ内のメンバーリストを取得。
 
 **実装例:**
+
 ```python
 def get_group_members(group_id: str):
     url = f'https://api.line.me/v2/bot/group/{group_id}/members/ids'
@@ -601,9 +664,11 @@ def get_group_members(group_id: str):
 ```
 
 ### 4. グループメンバー数取得
+
 グループの参加人数を取得。
 
 **実装例:**
+
 ```python
 def get_group_members_count(group_id: str):
     url = f'https://api.line.me/v2/bot/group/{group_id}/members/count'
@@ -613,9 +678,11 @@ def get_group_members_count(group_id: str):
 ```
 
 ### 5. グループ・トークルームからの退出
-Botをグループやトークルームから退出させる。
+
+Bot をグループやトークルームから退出させる。
 
 **実装例:**
+
 ```python
 def leave_group(group_id: str):
     url = f'https://api.line.me/v2/bot/group/{group_id}/leave'
@@ -630,12 +697,15 @@ def leave_group(group_id: str):
 トーク画面下部に固定表示されるメニュー。
 
 ### 1. リッチメニューの作成
+
 **特徴:**
+
 - 画像とタップ領域を設定
-- 最大6つのアクション領域
+- 最大 6 つのアクション領域
 - ユーザーごとに異なるメニュー表示可能
 
 **実装例:**
+
 ```python
 def create_rich_menu():
     url = 'https://api.line.me/v2/bot/richmenu'
@@ -683,6 +753,7 @@ def create_rich_menu():
 ```
 
 ### 2. リッチメニュー画像のアップロード
+
 ```python
 def upload_rich_menu_image(rich_menu_id: str, image_path: str):
     url = f'https://api-data.line.me/v2/bot/richmenu/{rich_menu_id}/content'
@@ -695,6 +766,7 @@ def upload_rich_menu_image(rich_menu_id: str, image_path: str):
 ```
 
 ### 3. リッチメニューとユーザーの紐付け
+
 ```python
 def link_rich_menu_to_user(user_id: str, rich_menu_id: str):
     url = f'https://api.line.me/v2/bot/user/{user_id}/richmenu/{rich_menu_id}'
@@ -703,6 +775,7 @@ def link_rich_menu_to_user(user_id: str, rich_menu_id: str):
 ```
 
 ### 4. デフォルトリッチメニューの設定
+
 ```python
 def set_default_rich_menu(rich_menu_id: str):
     url = f'https://api.line.me/v2/bot/user/all/richmenu/{rich_menu_id}'
@@ -714,15 +787,17 @@ def set_default_rich_menu(rich_menu_id: str):
 
 ## LIFF（LINE Front-end Framework）
 
-LINE内で動作するWebアプリケーション。
+LINE 内で動作する Web アプリケーション。
 
 ### 特徴
-- LINE内ブラウザで動作
-- LINEのユーザー情報を取得可能
-- JavaScriptのSDKを使用
+
+- LINE 内ブラウザで動作
+- LINE のユーザー情報を取得可能
+- JavaScript の SDK を使用
 - トーク画面に情報を送信可能
 
-### LIFF URLの生成
+### LIFF URL の生成
+
 ```python
 def create_liff_app(view_type: str, url: str):
     """
@@ -744,40 +819,44 @@ def create_liff_app(view_type: str, url: str):
 ```
 
 ### LIFF アプリ内での実装（JavaScript）
+
 ```javascript
 // LIFF初期化
-liff.init({ liffId: 'YOUR_LIFF_ID' })
-  .then(() => {
-    if (!liff.isLoggedIn()) {
-      liff.login();
-    } else {
-      // ユーザープロフィール取得
-      liff.getProfile().then(profile => {
-        console.log(profile.displayName);
-        console.log(profile.userId);
-      });
-      
-      // メッセージ送信
-      liff.sendMessages([{
+liff.init({ liffId: 'YOUR_LIFF_ID' }).then(() => {
+  if (!liff.isLoggedIn()) {
+    liff.login();
+  } else {
+    // ユーザープロフィール取得
+    liff.getProfile().then(profile => {
+      console.log(profile.displayName);
+      console.log(profile.userId);
+    });
+
+    // メッセージ送信
+    liff.sendMessages([
+      {
         type: 'text',
-        text: '送信するメッセージ'
-      }]);
-    }
-  });
+        text: '送信するメッセージ',
+      },
+    ]);
+  }
+});
 ```
 
 ---
 
 ## Beacon
 
-LINE Beaconを使った位置ベースのメッセージング。
+LINE Beacon を使った位置ベースのメッセージング。
 
 ### 特徴
+
 - Bluetooth Low Energy (BLE) を使用
-- ユーザーがBeaconの近くに来たときにイベント発火
+- ユーザーが Beacon の近くに来たときにイベント発火
 - 店舗やイベント会場での活用
 
-### Beaconイベントの受信
+### Beacon イベントの受信
+
 ```python
 # Webhookで受信
 {
@@ -796,20 +875,23 @@ LINE Beaconを使った位置ベースのメッセージング。
 
 ## LINE Login
 
-LINE認証を使ったログイン機能。
+LINE 認証を使ったログイン機能。
 
 ### 特徴
-- ユーザーのLINEアカウントで認証
+
+- ユーザーの LINE アカウントで認証
 - プロフィール情報の取得
 - メールアドレスの取得（要申請）
 
 ### 実装フロー
-1. 認証URLにリダイレクト
+
+1. 認証 URL にリダイレクト
 2. ユーザーが認証を許可
 3. アクセストークンを取得
 4. ユーザー情報を取得
 
-**認証URL:**
+**認証 URL:**
+
 ```
 https://access.line.me/oauth2/v2.1/authorize?
   response_type=code&
@@ -824,10 +906,12 @@ https://access.line.me/oauth2/v2.1/authorize?
 ## その他の機能
 
 ### 1. Account Link（アカウント連携）
-外部サービスのアカウントとLINEアカウントを連携。
 
-### 2. Webhook統計情報
-Webhookの配信状況を取得。
+外部サービスのアカウントと LINE アカウントを連携。
+
+### 2. Webhook 統計情報
+
+Webhook の配信状況を取得。
 
 ```python
 def get_webhook_endpoint():
@@ -838,6 +922,7 @@ def get_webhook_endpoint():
 ```
 
 ### 3. メッセージ配信統計
+
 送信したメッセージの統計情報を取得。
 
 ```python
@@ -850,6 +935,7 @@ def get_message_delivery(date: str):
 ```
 
 ### 4. 友だち追加数の取得
+
 ```python
 def get_followers_count():
     url = 'https://api.line.me/v2/bot/insight/followers'
@@ -859,6 +945,7 @@ def get_followers_count():
 ```
 
 ### 5. コンテンツの取得
+
 ユーザーが送信した画像・動画・音声を取得。
 
 ```python
@@ -869,8 +956,9 @@ def get_message_content(message_id: str):
     return response.content  # バイナリデータ
 ```
 
-### 6. Webhook検証
-署名検証でWebhookの正当性を確認。
+### 6. Webhook 検証
+
+署名検証で Webhook の正当性を確認。
 
 ```python
 import hmac
@@ -894,22 +982,26 @@ def verify_signature(body: str, signature: str, channel_secret: str):
 ### ❌ できないこと
 
 1. **過去のメッセージの操作**
+
    - 送信済みメッセージの編集・削除不可
    - ユーザーのメッセージ履歴の閲覧不可
    - メッセージの既読状態の管理不可
 
 2. **トーク画面の外観変更**
+
    - 背景色、フォント、レイアウトの変更不可
-   - リッチメニュー以外のUI要素の追加不可
+   - リッチメニュー以外の UI 要素の追加不可
 
 3. **ユーザー操作の制限**
+
    - ユーザーのブロック/ブロック解除の操作不可
    - 友だち追加の強制不可
    - トーク画面の開閉制御不可
 
 4. **全メッセージの監視**
+
    - グループ内の全メッセージの取得不可
-   - Botがメンションされた/DMされたメッセージのみ受信可能
+   - Bot がメンションされた/DM されたメッセージのみ受信可能
 
 5. **プッシュ通知の細かい制御**
    - 通知音、バイブレーションのカスタマイズ不可
@@ -917,24 +1009,24 @@ def verify_signature(body: str, signature: str, channel_secret: str):
 
 ### 📊 利用制限
 
-| 項目 | 制限 |
-|------|------|
-| Push API（無料プラン） | 月1,000通まで |
-| Reply API | 無制限（但し通信料として課金） |
-| メッセージ同時送信数 | 最大5件 |
-| Multicast送信先 | 最大500人 |
-| Quick Reply項目数 | 最大13個 |
-| Carousel カラム数 | 最大10個 |
-| 画像サイズ | 最大10MB（JPEG, PNG） |
-| 動画サイズ | 最大200MB（MP4、最長1分） |
-| 音声サイズ | 最大200MB（M4A、最長1分） |
-| リッチメニューエリア数 | 最大20個 |
+| 項目                   | 制限                           |
+| ---------------------- | ------------------------------ |
+| Push API（無料プラン） | 月 1,000 通まで                |
+| Reply API              | 無制限（但し通信料として課金） |
+| メッセージ同時送信数   | 最大 5 件                      |
+| Multicast 送信先       | 最大 500 人                    |
+| Quick Reply 項目数     | 最大 13 個                     |
+| Carousel カラム数      | 最大 10 個                     |
+| 画像サイズ             | 最大 10MB（JPEG, PNG）         |
+| 動画サイズ             | 最大 200MB（MP4、最長 1 分）   |
+| 音声サイズ             | 最大 200MB（M4A、最長 1 分）   |
+| リッチメニューエリア数 | 最大 20 個                     |
 
 ---
 
 ## 参考リンク
 
-- [LINE Messaging API公式ドキュメント](https://developers.line.biz/ja/docs/messaging-api/)
+- [LINE Messaging API 公式ドキュメント](https://developers.line.biz/ja/docs/messaging-api/)
 - [LINE Developers Console](https://developers.line.biz/console/)
 - [Flex Message Simulator](https://developers.line.biz/flex-simulator/)
 - [LINE API Reference](https://developers.line.biz/ja/reference/messaging-api/)
@@ -944,4 +1036,3 @@ def verify_signature(body: str, signature: str, channel_secret: str):
 ## 更新履歴
 
 - 2025-10-19: 初版作成
-

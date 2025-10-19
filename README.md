@@ -211,8 +211,8 @@ movie-line-bot/
 
 ## 📚 ドキュメント
 
-- **[LINE API機能一覧](docs/LINE_API_CAPABILITIES.md)** - LINE Messaging APIで利用可能な全機能の詳細
-- **[Webhookセットアップガイド](WEBHOOK_SETUP.md)** - Webhookサーバーのデプロイ方法
+- **[LINE API 機能一覧](docs/LINE_API_CAPABILITIES.md)** - LINE Messaging API で利用可能な全機能の詳細
+- **[Webhook セットアップガイド](WEBHOOK_SETUP.md)** - Webhook サーバーのデプロイ方法
 - **[次のステップガイド](NEXT_STEPS.md)** - 初回セットアップ手順
 
 ## 📄 ライセンス
