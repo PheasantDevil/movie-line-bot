@@ -1,168 +1,438 @@
-# 🚀 詳細セットアップガイド
+# 🚀 映画情報LINE Bot セットアップガイド
 
-このガイドでは、映画情報通知 LINE Bot を完全にセットアップする手順を詳しく説明します。
+このガイドでは、映画情報LINE Botの完全なセットアップ手順を説明します。
 
-## 📋 前提条件
+## 📋 目次
 
-- GitHub アカウント
-- LINE アカウント
-- 基本的な Git の知識
+1. [前提条件](#前提条件)
+2. [LINE Messaging API の設定](#line-messaging-apiの設定)
+3. [GitHub リポジトリの設定](#githubリポジトリの設定)
+4. [ローカル開発環境のセットアップ](#ローカル開発環境のセットアップ)
+5. [リッチメニューの設定](#リッチメニューの設定)
+6. [Webhookサーバーのデプロイ](#webhookサーバーのデプロイ)
+7. [動作確認](#動作確認)
+8. [トラブルシューティング](#トラブルシューティング)
 
-## ステップ 1: GitHub リポジトリの準備
+---
 
-### 1.1 リポジトリをフォーク（推奨）
+## 前提条件
 
-1. GitHub でこのリポジトリのページを開く
-2. 右上の「Fork」ボタンをクリック
-3. 自分のアカウントにリポジトリがコピーされる
+以下のアカウントとツールが必要です：
 
-### 1.2 または、クローンして新規リポジトリ作成
+- ✅ GitHubアカウント
+- ✅ LINEアカウント
+- ✅ LINE Developersアカウント（無料）
+- ✅ Render.comアカウント（無料、Webhook用）
+- ✅ Python 3.11以上
+- ✅ Git
+
+---
+
+## LINE Messaging APIの設定
+
+### ステップ 1: LINE Developersコンソールにアクセス
+
+1. [LINE Developers Console](https://developers.line.biz/console/) にアクセス
+2. LINEアカウントでログイン
+
+### ステップ 2: プロバイダーの作成
+
+1. **「Create」** または **「新規プロバイダー作成」** をクリック
+2. プロバイダー名を入力（例: `My Movie Bot Provider`）
+3. **「作成」** をクリック
+
+### ステップ 3: Messaging APIチャネルの作成
+
+1. 作成したプロバイダーを選択
+2. **「Messaging API」** を選択
+3. 以下の情報を入力：
+   - **チャネル名**: `映画情報Bot`
+   - **チャネル説明**: `新作映画情報を通知するBot`
+   - **大業種**: `ニュース/情報`
+   - **小業種**: `エンタメ/芸能/音楽`
+4. 利用規約に同意して **「作成」** をクリック
+
+### ステップ 4: チャネルアクセストークンの発行
+
+1. 作成したチャネルを開く
+2. **「Messaging API設定」** タブを選択
+3. **「チャネルアクセストークン」** セクションで **「発行」** をクリック
+4. 表示されたトークンをコピーして安全な場所に保存
+
+**例**:
+```
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+```
+
+### ステップ 5: チャネルシークレットの取得
+
+1. **「チャネル基本設定」** タブを選択
+2. **「チャネルシークレット」** をコピーして保存
+
+### ステップ 6: Webhook設定の準備
+
+1. **「Messaging API設定」** タブに戻る
+2. **「Webhook URL」** は後で設定するので、今はスキップ
+3. **「Webhookの利用」** を **有効** にする
+4. **「応答メッセージ」** を **無効** にする
+5. **「Greeting messages」** を **無効** にする（Bot側で管理）
+
+### ステップ 7: QRコードで友だち追加
+
+1. **「Messaging API設定」** タブの下部にあるQRコードをスキャン
+2. 自分のLINEアカウントで友だち追加
+
+### ステップ 8: USER IDの取得
+
+**方法1: LINE Official Account Managerで確認**
+1. [LINE Official Account Manager](https://manager.line.biz/) にアクセス
+2. 作成したアカウントを選択
+3. **「設定」** > **「アカウント設定」** から確認
+
+**方法2: Webhookログから確認**（後でWebhookサーバーを起動後）
+1. Botに何かメッセージを送信
+2. サーバーログに表示される `userId` を確認
+
+---
+
+## GitHubリポジトリの設定
+
+### ステップ 1: リポジトリのフォーク/クローン
 
 ```bash
 # クローン
-git clone https://github.com/original-repo/movie-line-bot.git
+git clone https://github.com/your-username/movie-line-bot.git
 cd movie-line-bot
-
-# 新規リポジトリを作成してプッシュ
-git remote remove origin
-git remote add origin https://github.com/your-username/your-repo-name.git
-git push -u origin main
 ```
 
-## ステップ 2: LINE Bot の設定
+### ステップ 2: GitHub Secretsの設定
 
-### 2.1 LINE Developers Console にアクセス
+1. GitHubリポジトリページにアクセス
+2. **Settings** > **Secrets and variables** > **Actions** を開く
+3. **「New repository secret」** をクリック
 
-1. https://developers.line.biz/console/ を開く
-2. LINE アカウントでログイン
+以下の3つのSecretを追加：
 
-### 2.2 プロバイダーの作成
+#### Secret 1: LINE_CHANNEL_ACCESS_TOKEN
+- **Name**: `LINE_CHANNEL_ACCESS_TOKEN`
+- **Value**: ステップ4で取得したチャネルアクセストークン
 
-1. 「プロバイダーを作成」をクリック
-2. プロバイダー名を入力（例: MyMovieBot）
-3. 「作成」をクリック
+#### Secret 2: LINE_USER_ID
+- **Name**: `LINE_USER_ID`
+- **Value**: ステップ8で取得したUSER ID（例: `U1234567890abcdef...`）
 
-### 2.3 Messaging API チャネルの作成
+#### Secret 3: LINE_CHANNEL_SECRET
+- **Name**: `LINE_CHANNEL_SECRET`
+- **Value**: ステップ5で取得したチャネルシークレット
 
-1. 作成したプロバイダーを選択
-2. 「チャネルを作成」→「Messaging API」を選択
-3. 以下の情報を入力：
-   - **チャネル名**: 映画情報通知 Bot（任意の名前）
-   - **チャネル説明**: 新作映画情報を自動通知
-   - **カテゴリー**: 適切なものを選択
-   - **サブカテゴリー**: 適切なものを選択
-4. 利用規約に同意して「作成」をクリック
+### ステップ 3: GitHub Actionsの有効化
 
-### 2.4 チャネルアクセストークンの取得
+1. **Actions** タブを開く
+2. ワークフローが表示されていることを確認
+3. 必要に応じて **「I understand my workflows, go ahead and enable them」** をクリック
 
-1. 作成したチャネルを選択
-2. 「Messaging API 設定」タブを開く
-3. 「チャネルアクセストークン（長期）」セクションまでスクロール
-4. 「発行」ボタンをクリック
-5. 表示されたトークンをコピー（**重要**: このトークンは後で確認できないので安全に保存）
+---
 
-### 2.5 Webhook 設定（オプション）
+## ローカル開発環境のセットアップ
 
-今回は Push 型通知のみを使用するため、Webhook は不要ですが、応答メッセージを無効化しておくことを推奨：
+### ステップ 1: 仮想環境の作成
 
-1. 「Messaging API 設定」タブ内の「応答メッセージ」を「オフ」に設定
+```bash
+# 仮想環境を作成
+python3 -m venv venv
 
-### 2.6 LINE User ID の取得
+# 仮想環境をアクティベート
+# macOS/Linux:
+source venv/bin/activate
 
-#### 方法 A: QR コードで友だち追加
+# Windows:
+venv\Scripts\activate
+```
 
-1. 「Messaging API 設定」タブの QR コードをスキャン
-2. 自分の LINE アカウントで友だち追加
+### ステップ 2: 依存関係のインストール
 
-#### 方法 B: User ID を取得するスクリプト
+```bash
+pip install -r requirements.txt
+```
 
-簡易的な方法として、LINE Official Account Manager を使用：
+### ステップ 3: 環境変数の設定
 
-1. https://manager.line.biz/ にアクセス
-2. 作成したアカウントを選択
-3. 「設定」→「応答設定」で User ID を確認
+```bash
+# macOS/Linux
+export LINE_CHANNEL_ACCESS_TOKEN='your_token_here'
+export LINE_USER_ID='your_user_id_here'
+export LINE_CHANNEL_SECRET='your_secret_here'
 
-または、Bot にメッセージを送って、一時的に Webhook を設定して User ID を取得する方法もあります。
+# Windows (PowerShell)
+$env:LINE_CHANNEL_ACCESS_TOKEN='your_token_here'
+$env:LINE_USER_ID='your_user_id_here'
+$env:LINE_CHANNEL_SECRET='your_secret_here'
+```
 
-## ステップ 3: GitHub Secrets の設定
+### ステップ 4: 動作確認
 
-### 3.1 Secrets ページを開く
+```bash
+# 今週公開映画通知のテスト
+python src/weekly_new_movies.py --test
 
-1. フォークした GitHub リポジトリのページを開く
-2. 「Settings」タブをクリック
-3. 左サイドバーから「Secrets and variables」→「Actions」を選択
+# 上映中映画通知のテスト
+python src/weekly_now_showing.py --test
+```
 
-### 3.2 Secret を追加
+---
 
-**Secret 1: LINE_CHANNEL_ACCESS_TOKEN**
+## リッチメニューの設定
 
-1. 「New repository secret」をクリック
-2. Name: `LINE_CHANNEL_ACCESS_TOKEN`
-3. Secret: 先ほどコピーしたチャネルアクセストークンを貼り付け
-4. 「Add secret」をクリック
+### ステップ 1: Pillowのインストール（画像生成用）
 
-**Secret 2: LINE_USER_ID**
+```bash
+pip install pillow
+```
 
-1. 再度「New repository secret」をクリック
-2. Name: `LINE_USER_ID`
-3. Secret: 取得した LINE User ID を貼り付け（`U` で始まる文字列）
-4. 「Add secret」をクリック
+### ステップ 2: リッチメニュー画像の生成
 
-## ステップ 4: GitHub Actions の権限設定
+```bash
+python tools/generate_rich_menu_image.py
+```
 
-### 4.1 Workflow 権限の設定
+生成された画像は `assets/rich_menu.png` に保存されます。
 
-1. リポジトリの「Settings」→「Actions」→「General」を開く
-2. 「Workflow permissions」セクションまでスクロール
-3. 「Read and write permissions」を選択
-4. 「Save」をクリック
+### ステップ 3: リッチメニューの設定
 
-これにより、GitHub Actions が movies.json ファイルを自動でコミット・プッシュできるようになります。
+```bash
+python tools/setup_rich_menu.py
+```
 
-## ステップ 5: 動作テスト
+プロンプトに従って設定を完了します。
 
-### 5.1 手動実行でテスト
+### ステップ 4: 確認
 
-1. リポジトリの「Actions」タブを開く
-2. 左サイドバーから「映画情報チェック & LINE 通知」を選択
-3. 「Run workflow」ボタンをクリック
-4. ブランチ（通常は`main`）を選択
-5. 「Run workflow」をクリック
+1. LINEアプリでBotのトーク画面を開く
+2. 画面下部にリッチメニューが表示されることを確認
+3. 各ボタンをタップして動作を確認
 
-### 5.2 実行結果の確認
+---
 
-1. ワークフロー実行が開始される（数十秒〜1 分程度）
-2. 実行が完了すると、LINE に通知が届く（初回は全映画が新着として通知されます）
-3. 緑色のチェックマークが表示されれば成功
+## Webhookサーバーのデプロイ
 
-### 5.3 エラーが発生した場合
+Webhookサーバーは、ユーザーがBotに送信したメッセージを受信して処理します。
 
-1. 実行ログをクリックして詳細を確認
-2. エラーメッセージを読んで原因を特定
-3. よくある問題：
-   - Secret が正しく設定されていない
-   - LINE User ID が間違っている
-   - Bot を友だち追加していない
+### オプション1: Render.com（推奨）
 
-## ステップ 6: 自動実行の確認
+#### ステップ 1: Render.comアカウント作成
 
-セットアップが完了すると、毎日日本時間の午前 9 時に自動で実行されます。
+1. [Render.com](https://render.com/) にアクセス
+2. **「Get Started」** をクリック
+3. GitHubアカウントで登録
 
-翌日の午前 9 時以降に：
+#### ステップ 2: 新しいWebサービスの作成
 
-1. LINE に通知が届くか確認（新作映画がある場合のみ）
-2. GitHub リポジトリの「data/movies.json」が更新されているか確認
+1. ダッシュボードで **「New」** > **「Web Service」** を選択
+2. GitHubリポジトリを接続
+3. 以下の設定を入力：
+   - **Name**: `movie-line-bot-webhook`
+   - **Region**: `Singapore` または最寄りのリージョン
+   - **Branch**: `main`
+   - **Build Command**: `pip install -r requirements.txt`
+   - **Start Command**: `gunicorn --bind 0.0.0.0:$PORT src.webhook_server:app`
 
-## 🎉 セットアップ完了！
+#### ステップ 3: 環境変数の設定
 
-これで、毎日自動で新作映画情報が LINE に届くようになりました。
+**Environment Variables** セクションで以下を追加：
+
+- `LINE_CHANNEL_ACCESS_TOKEN`: チャネルアクセストークン
+- `LINE_USER_ID`: USER ID
+- `LINE_CHANNEL_SECRET`: チャネルシークレット
+
+#### ステップ 4: デプロイ
+
+1. **「Create Web Service」** をクリック
+2. デプロイが完了するまで待機（5-10分程度）
+3. デプロイ完了後、URLが表示される（例: `https://movie-line-bot-webhook.onrender.com`）
+
+#### ステップ 5: Webhook URLの設定
+
+1. LINE Developersコンソールに戻る
+2. **「Messaging API設定」** タブを開く
+3. **「Webhook URL」** に以下を入力：
+   ```
+   https://your-app-name.onrender.com/webhook
+   ```
+4. **「検証」** ボタンをクリックして成功を確認
+5. **「Webhookの利用」** を **有効** にする
+
+### オプション2: Heroku
+
+詳細は [WEBHOOK_SETUP.md](WEBHOOK_SETUP.md) を参照してください。
+
+---
+
+## 動作確認
+
+### 1. 週次通知のテスト
+
+#### 手動実行
+```bash
+# ローカルで実行
+python src/weekly_new_movies.py
+python src/weekly_now_showing.py
+```
+
+#### GitHub Actionsで実行
+1. GitHubリポジトリの **Actions** タブを開く
+2. **週次映画通知** ワークフローを選択
+3. **「Run workflow」** > **「Run workflow」** をクリック
+4. 実行ログを確認
+
+### 2. リッチメニューのテスト
+
+LINEアプリで以下を確認：
+
+1. ✅ **🎬 映画検索**
+   - ボタンをタップ
+   - 「映画検索モードです」というメッセージが表示される
+   - 映画名を入力して検索結果が表示される
+
+2. ✅ **🎪 映画館検索**
+   - ボタンをタップ
+   - 「映画館検索モードです」というメッセージが表示される
+   - 映画館名を入力して検索ボタンが表示される
+
+3. ✅ **📅 今週公開**
+   - ボタンをタップ
+   - 今週公開予定の映画一覧が表示される
+
+4. ✅ **🎭 上映中**
+   - ボタンをタップ
+   - 上映中の映画一覧が表示される
+
+### 3. セッション管理のテスト
+
+1. 映画検索ボタンをタップ
+2. 10分以内に映画名を入力 → 検索結果が表示される
+3. 10分経過後に映画名を入力 → 通常モードに戻る
+
+### 4. Webhookログの確認
+
+#### Render.com
+1. ダッシュボードでサービスを選択
+2. **「Logs」** タブを開く
+3. リアルタイムログを確認
+
+#### ローカル
+```bash
+# Flaskサーバーをローカルで起動
+python src/webhook_server.py
+
+# 別のターミナルでngrokを使用（外部公開）
+ngrok http 5000
+```
+
+---
 
 ## トラブルシューティング
 
-問題が発生した場合は、[トラブルシューティングガイド](README.md#トラブルシューティング)を参照してください。
+### 通知が届かない
 
-## 次のステップ
+**原因1: GitHub Secretsの設定ミス**
+- Secretsが正しく設定されているか確認
+- トークンやUser IDに余分なスペースがないか確認
 
-- [カスタマイズ方法](README.md#カスタマイズ) を確認
-- 通知メッセージのフォーマットを変更
-- 実行時刻を好みの時間に変更
+**原因2: GitHub Actionsが無効**
+- Actionsタブで有効化されているか確認
+- ワークフローファイルが存在するか確認
+
+**原因3: LINE APIの制限**
+- 無料プランの月間1,000通制限を超えていないか確認
+- チャネルが有効か確認
+
+**解決策**:
+```bash
+# ローカルで手動実行してエラーを確認
+python src/weekly_new_movies.py
+```
+
+### Webhookが動作しない
+
+**原因1: Webhook URLが正しくない**
+- LINE Developersコンソールで設定を確認
+- URLの末尾が `/webhook` になっているか確認
+
+**原因2: サーバーが起動していない**
+- Render.comのダッシュボードでサービスが起動しているか確認
+- ログにエラーがないか確認
+
+**原因3: 署名検証エラー**
+- `LINE_CHANNEL_SECRET` が正しく設定されているか確認
+
+**解決策**:
+```bash
+# ヘルスチェック
+curl https://your-app-name.onrender.com/health
+
+# ログ確認
+# Render.comのダッシュボード > Logs
+```
+
+### リッチメニューが表示されない
+
+**原因1: リッチメニューが設定されていない**
+```bash
+# 再設定
+python tools/setup_rich_menu.py
+```
+
+**原因2: LINEアプリのキャッシュ**
+- LINEアプリを完全に終了して再起動
+- Botをブロック解除してから再度友だち追加
+
+**原因3: 複数のリッチメニューが存在**
+```bash
+# 既存のリッチメニューを削除してから再設定
+python tools/setup_rich_menu.py
+# プロンプトで'y'を入力して既存メニューを削除
+```
+
+### セッション管理が動作しない
+
+**原因: データディレクトリが存在しない**
+```bash
+# dataディレクトリを作成
+mkdir -p data
+```
+
+**確認**:
+```bash
+# セッションファイルが作成されているか確認
+ls -la data/sessions.json
+```
+
+### 依存関係のエラー
+
+```bash
+# 仮想環境を削除して再作成
+rm -rf venv
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+---
+
+## 📚 次のステップ
+
+セットアップが完了したら、以下のドキュメントも参照してください：
+
+- [README.md](README.md) - プロジェクト概要
+- [WEBHOOK_SETUP.md](WEBHOOK_SETUP.md) - Webhook詳細設定
+- [docs/LINE_API_CAPABILITIES.md](docs/LINE_API_CAPABILITIES.md) - LINE API機能一覧
+- [NEXT_STEPS.md](NEXT_STEPS.md) - 機能拡張ガイド
+
+---
+
+## 🤝 サポート
+
+問題が解決しない場合は、GitHubのIssueを作成してください。
+
+**Happy Movie Watching! 🎬🍿**
