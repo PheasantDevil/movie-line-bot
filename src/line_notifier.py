@@ -313,6 +313,108 @@ class LineNotifier:
         
         return signature == expected_signature
     
+    def send_weekly_new_movies_notification(self, movies: List[Dict]) -> bool:
+        """
+        今週公開映画の週次通知を送信
+        
+        Args:
+            movies: 今週公開の映画リスト
+            
+        Returns:
+            bool: 送信が成功したかどうか
+        """
+        message = self._format_weekly_new_movies_message(movies)
+        return self.send_text_message(message)
+    
+    def _format_weekly_new_movies_message(self, movies: List[Dict]) -> str:
+        """
+        今週公開映画の週次通知メッセージを整形
+        
+        Args:
+            movies: 今週公開の映画リスト
+            
+        Returns:
+            str: 整形されたメッセージ
+        """
+        lines = []
+        lines.append("🎬 今週公開映画情報")
+        lines.append("=" * 30)
+        lines.append("")
+        
+        if movies:
+            lines.append(f"今週公開予定の映画 {len(movies)}件")
+            lines.append("")
+            
+            for i, movie in enumerate(movies[:10], 1):  # 最大10件まで
+                lines.append(f"【{i}】{movie['title']}")
+                lines.append(f"📅 公開日: {movie['release_date']}")
+                lines.append(f"🔗 {movie['url']}")
+                lines.append("")
+            
+            if len(movies) > 10:
+                lines.append(f"...他 {len(movies) - 10}件")
+        else:
+            lines.append("今週公開予定の映画はありません")
+        
+        return "\n".join(lines)
+    
+    def send_weekly_now_showing_notification(self, movies: List[Dict]) -> bool:
+        """
+        上映中映画の週次通知を送信
+        
+        Args:
+            movies: 上映中の映画リスト
+            
+        Returns:
+            bool: 送信が成功したかどうか
+        """
+        message = self._format_weekly_now_showing_message(movies)
+        return self.send_text_message(message)
+    
+    def _format_weekly_now_showing_message(self, movies: List[Dict]) -> str:
+        """
+        上映中映画の週次通知メッセージを整形
+        
+        Args:
+            movies: 上映中の映画リスト
+            
+        Returns:
+            str: 整形されたメッセージ
+        """
+        lines = []
+        lines.append("🎭 上映中映画情報")
+        lines.append("=" * 30)
+        lines.append("")
+        
+        if movies:
+            lines.append(f"現在上映中の映画 {len(movies)}件")
+            lines.append("")
+            
+            for i, movie in enumerate(movies[:10], 1):  # 最大10件まで
+                title_line = f"【{i}】{movie['title']}"
+                
+                # 上映館数情報を追加
+                if movie.get('is_limited_release'):
+                    theater_count = movie.get('theater_count')
+                    if theater_count:
+                        title_line += f" ⚠️ 限定公開({theater_count}館)"
+                    else:
+                        title_line += " ⚠️ 限定公開"
+                elif movie.get('theater_count'):
+                    title_line += f" ({movie['theater_count']}館)"
+                
+                lines.append(title_line)
+                lines.append(f"📅 公開日: {movie['release_date']}")
+                lines.append(f"🔗 {movie['url']}")
+                lines.append("")
+            
+            if len(movies) > 10:
+                lines.append(f"...他 {len(movies) - 10}件")
+        else:
+            lines.append("現在上映中の映画はありません")
+        
+        return "\n".join(lines)
+    
     def test_connection(self) -> bool:
         """
         接続テスト（簡単なメッセージを送信）
