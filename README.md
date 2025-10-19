@@ -209,6 +209,12 @@ movie-line-bot/
 
 詳細は[WEBHOOK_SETUP.md](WEBHOOK_SETUP.md)を参照してください。
 
+## 📚 ドキュメント
+
+- **[LINE API機能一覧](docs/LINE_API_CAPABILITIES.md)** - LINE Messaging APIで利用可能な全機能の詳細
+- **[Webhookセットアップガイド](WEBHOOK_SETUP.md)** - Webhookサーバーのデプロイ方法
+- **[次のステップガイド](NEXT_STEPS.md)** - 初回セットアップ手順
+
 ## 📄 ライセンス
 
 MIT License

@@ -8,6 +8,7 @@
 
 - [実装詳細](implementation_details.md) - 実装の全体像と各モジュールの詳細
 - [技術仕様書](technical_specifications.md) - 技術的な仕様とアーキテクチャ
+- [LINE API機能一覧](LINE_API_CAPABILITIES.md) - LINE Messaging APIで利用可能な全機能の詳細
 - [API 仕様](api_specifications.md) - 外部 API（LINE、映画.com）の使用方法
 
 ### 開発ドキュメント
