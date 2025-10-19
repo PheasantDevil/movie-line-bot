@@ -415,6 +415,82 @@ class LineNotifier:
         
         return "\n".join(lines)
     
+    def reply_theater_search_result(self, reply_token: str, theater_name: str) -> bool:
+        """
+        映画館検索結果をReply（検索ボタン付き）
+        
+        Args:
+            reply_token: リプライトークン
+            theater_name: 映画館名
+            
+        Returns:
+            bool: 送信が成功したかどうか
+        """
+        from movie_theater_search import TheaterSearchManager
+        
+        theater_search = TheaterSearchManager()
+        search_url = theater_search.generate_google_search_url(theater_name)
+        
+        headers = {
+            'Authorization': f'Bearer {self.channel_access_token}',
+            'Content-Type': 'application/json'
+        }
+        
+        # ボタンテンプレートメッセージ
+        data = {
+            'replyToken': reply_token,
+            'messages': [
+                {
+                    'type': 'template',
+                    'altText': f'{theater_name}の検索結果',
+                    'template': {
+                        'type': 'buttons',
+                        'text': f'「{theater_name}」の検索結果を表示します',
+                        'actions': [
+                            {
+                                'type': 'uri',
+                                'label': '🔍 検索結果を見る',
+                                'uri': search_url
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+        
+        try:
+            response = requests.post(self.reply_api_url, headers=headers, json=data, timeout=30)
+            response.raise_for_status()
+            print("✓ 映画館検索結果をReplyしました")
+            return True
+            
+        except requests.RequestException as e:
+            print(f"エラー: 映画館検索結果のReplyに失敗しました - {e}")
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"レスポンス: {e.response.text}")
+            return False
+    
+    def reply_with_menu_guidance(self, reply_token: str) -> bool:
+        """
+        メニュー誘導メッセージをReply
+        
+        Args:
+            reply_token: リプライトークン
+            
+        Returns:
+            bool: 送信が成功したかどうか
+        """
+        guidance_message = """このメッセージには対応していません。
+
+下部のメニューから以下の機能をご利用ください：
+
+📅 今週公開：今週公開予定の映画一覧
+🎭 上映中：現在上映中の映画一覧
+🎬 映画検索：映画名で詳細情報を検索
+🎪 映画館検索：映画館を検索"""
+        
+        return self.reply_text_message(reply_token, guidance_message)
+    
     def test_connection(self) -> bool:
         """
         接続テスト（簡単なメッセージを送信）
