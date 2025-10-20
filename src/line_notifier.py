@@ -592,42 +592,43 @@ class LineNotifier:
             List[Dict]: Quick Replyアイテムのリスト
         """
         # Quick Replyボタンの定義
-        # labelに絵文字を含めることで視認性を向上
+        # labelは絵文字なしのシンプルなテキストで表示
+        # displayTextで絵文字付きのテキストを送信
         return [
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '🎬 映画検索',
+                    'label': '映画検索',
                     'data': 'action=movie_search',
-                    'displayText': '映画検索'
+                    'displayText': '🎬 映画検索'
                 }
             },
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '🎪 映画館検索',
+                    'label': '映画館検索',
                     'data': 'action=theater_search',
-                    'displayText': '映画館検索'
+                    'displayText': '🎪 映画館検索'
                 }
             },
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '📅 今週公開',
+                    'label': '今週公開',
                     'data': 'action=weekly_new',
-                    'displayText': '今週公開'
+                    'displayText': '📅 今週公開'
                 }
             },
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '🎭 上映中',
+                    'label': '上映中',
                     'data': 'action=now_showing',
-                    'displayText': '上映中'
+                    'displayText': '🎭 上映中'
                 }
             }
         ]
