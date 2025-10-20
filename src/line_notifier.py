@@ -531,6 +531,7 @@ class LineNotifier:
         }
         
         try:
+            print(f"Quick Reply付きReplyを送信中... (アイテム数: {len(quick_reply_items)})")
             response = requests.post(self.reply_api_url, headers=headers, json=data, timeout=30)
             response.raise_for_status()
             print("✓ Quick Reply付きLINE Replyを送信しました")
@@ -539,7 +540,10 @@ class LineNotifier:
         except requests.RequestException as e:
             print(f"エラー: Quick Reply付きLINE Replyの送信に失敗しました - {e}")
             if hasattr(e, 'response') and e.response is not None:
+                print(f"ステータスコード: {e.response.status_code}")
                 print(f"レスポンス: {e.response.text}")
+            import traceback
+            traceback.print_exc()
             return False
     
     def _get_main_menu_quick_reply_items(self) -> List[Dict]:
@@ -549,41 +553,43 @@ class LineNotifier:
         Returns:
             List[Dict]: Quick Replyアイテムのリスト
         """
+        # LINE公式のアイコンURLを使用（または独自のアイコンをホスティング）
+        # 注: imageUrlは省略可能（絵文字のみでも表示される）
         return [
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '🎬 映画検索',
+                    'label': '映画検索',
                     'data': 'action=movie_search',
-                    'displayText': '映画検索'
+                    'displayText': '🎬 映画検索'
                 }
             },
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '🎪 映画館検索',
+                    'label': '映画館検索',
                     'data': 'action=theater_search',
-                    'displayText': '映画館検索'
+                    'displayText': '🎪 映画館検索'
                 }
             },
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '📅 今週公開',
+                    'label': '今週公開',
                     'data': 'action=weekly_new',
-                    'displayText': '今週公開'
+                    'displayText': '📅 今週公開'
                 }
             },
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '🎭 上映中',
+                    'label': '上映中',
                     'data': 'action=now_showing',
-                    'displayText': '上映中'
+                    'displayText': '🎭 上映中'
                 }
             }
         ]

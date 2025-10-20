@@ -164,29 +164,47 @@ def handle_postback_event(event: dict, notifier: LineNotifier):
     
     elif postback_data == 'action=weekly_new':
         # 今週公開映画を表示
-        scraper = MovieScraper()
-        movies = scraper.fetch_upcoming_movies()
-        
-        if movies:
-            notifier.reply_movie_info(reply_token, movies)
-        else:
-            notifier.reply_text_message(
-                reply_token,
-                "今週公開予定の映画はありません"
-            )
+        try:
+            scraper = MovieScraper()
+            movies = scraper.fetch_upcoming_movies()
+            
+            if movies:
+                print(f"今週公開映画を送信: {len(movies)}件")
+                notifier.reply_movie_info(reply_token, movies)
+            else:
+                print("今週公開映画なし")
+                quick_reply_items = notifier._get_main_menu_quick_reply_items()
+                notifier.reply_text_message_with_quick_reply(
+                    reply_token,
+                    "今週公開予定の映画はありません",
+                    quick_reply_items
+                )
+        except Exception as e:
+            print(f"エラー: 今週公開映画の処理に失敗 - {e}")
+            import traceback
+            traceback.print_exc()
     
     elif postback_data == 'action=now_showing':
         # 上映中映画を表示
-        scraper = MovieScraper()
-        movies = scraper.fetch_movies_released_in_past_week()
-        
-        if movies:
-            notifier.reply_movie_info(reply_token, movies)
-        else:
-            notifier.reply_text_message(
-                reply_token,
-                "現在上映中の映画はありません"
-            )
+        try:
+            scraper = MovieScraper()
+            movies = scraper.fetch_movies_released_in_past_week()
+            
+            if movies:
+                print(f"上映中映画を送信: {len(movies)}件")
+                notifier.reply_movie_info(reply_token, movies)
+            else:
+                print("上映中映画なし")
+                quick_reply_items = notifier._get_main_menu_quick_reply_items()
+                notifier.reply_text_message_with_quick_reply(
+                    reply_token,
+                    "現在上映中の映画はありません",
+                    quick_reply_items
+                )
+        except Exception as e:
+            print(f"エラー: 上映中映画の処理に失敗 - {e}")
+            import traceback
+            traceback.print_exc()
 
 
 def handle_movie_search(query: str, reply_token: str, user_id: str, notifier: LineNotifier):
