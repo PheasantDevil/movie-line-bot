@@ -1,0 +1,5 @@
+- 今週公開の正式URLに合わせて /upcoming/ に切替
+- _parse_upcoming_movies() を実装し構造変化に対応
+- fetch_movies_coming_in_next_week() も /upcoming/ を利用し一週間以内でフィルタ
+
+参考: https://eiga.com/upcoming/

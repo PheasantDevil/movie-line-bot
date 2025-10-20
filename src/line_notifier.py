@@ -226,15 +226,30 @@ class LineNotifier:
         }
         
         try:
+            print(f"  [Reply API] テキストReplyを送信中...")
+            print(f"  [Reply API] Reply Token: {reply_token[:20]}...")
+            print(f"  [Reply API] テキスト長: {len(text)}文字")
+            
             response = requests.post(self.reply_api_url, headers=headers, json=data, timeout=30)
+            
+            print(f"  [Reply API] ステータスコード: {response.status_code}")
+            print(f"  [Reply API] レスポンス: {response.text if response.text else '(empty)'}")
+            
             response.raise_for_status()
-            print("✓ LINE Replyを送信しました")
+            print("  [Reply API] ✓ LINE Replyを送信しました")
             return True
             
         except requests.RequestException as e:
-            print(f"エラー: LINE Replyの送信に失敗しました - {e}")
+            print(f"  [Reply API] ❌ エラー: LINE Replyの送信に失敗")
+            print(f"  [Reply API] エラー詳細: {e}")
             if hasattr(e, 'response') and e.response is not None:
-                print(f"レスポンス: {e.response.text}")
+                print(f"  [Reply API] ステータスコード: {e.response.status_code}")
+                print(f"  [Reply API] レスポンス: {e.response.text}")
+                try:
+                    error_json = e.response.json()
+                    print(f"  [Reply API] エラーJSON: {error_json}")
+                except:
+                    pass
             return False
     
     def reply_movie_info(self, reply_token: str, movies: List[Dict]) -> bool:
@@ -248,14 +263,22 @@ class LineNotifier:
         Returns:
             bool: 送信が成功したかどうか
         """
+        print(f"  [reply_movie_info] 映画情報Reply処理開始")
+        print(f"  [reply_movie_info] 映画数: {len(movies)}件")
+        
         if not movies:
             message = "該当する映画が見つかりませんでした。"
         else:
             message = self._format_search_result_message(movies)
         
+        print(f"  [reply_movie_info] メッセージ長: {len(message)}文字")
+        
         # Quick Replyを追加
         quick_reply_items = self._get_main_menu_quick_reply_items()
-        return self.reply_text_message_with_quick_reply(reply_token, message, quick_reply_items)
+        result = self.reply_text_message_with_quick_reply(reply_token, message, quick_reply_items)
+        
+        print(f"  [reply_movie_info] Reply結果: {'成功' if result else '失敗'}")
+        return result
     
     def _format_search_result_message(self, movies: List[Dict]) -> str:
         """
@@ -531,17 +554,32 @@ class LineNotifier:
         }
         
         try:
-            print(f"Quick Reply付きReplyを送信中... (アイテム数: {len(quick_reply_items)})")
+            print(f"  [Reply API] Quick Reply付きReplyを送信中...")
+            print(f"  [Reply API] Reply Token: {reply_token[:20]}...")
+            print(f"  [Reply API] テキスト長: {len(text)}文字")
+            print(f"  [Reply API] Quick Replyアイテム数: {len(quick_reply_items)}")
+            print(f"  [Reply API] URL: {self.reply_api_url}")
+            
             response = requests.post(self.reply_api_url, headers=headers, json=data, timeout=30)
+            
+            print(f"  [Reply API] ステータスコード: {response.status_code}")
+            print(f"  [Reply API] レスポンス: {response.text if response.text else '(empty)'}")
+            
             response.raise_for_status()
-            print("✓ Quick Reply付きLINE Replyを送信しました")
+            print("  [Reply API] ✓ Quick Reply付きLINE Replyを送信しました")
             return True
             
         except requests.RequestException as e:
-            print(f"エラー: Quick Reply付きLINE Replyの送信に失敗しました - {e}")
+            print(f"  [Reply API] ❌ エラー: Quick Reply付きLINE Replyの送信に失敗")
+            print(f"  [Reply API] エラー詳細: {e}")
             if hasattr(e, 'response') and e.response is not None:
-                print(f"ステータスコード: {e.response.status_code}")
-                print(f"レスポンス: {e.response.text}")
+                print(f"  [Reply API] ステータスコード: {e.response.status_code}")
+                print(f"  [Reply API] レスポンス: {e.response.text}")
+                try:
+                    error_json = e.response.json()
+                    print(f"  [Reply API] エラーJSON: {error_json}")
+                except:
+                    pass
             import traceback
             traceback.print_exc()
             return False
@@ -553,43 +591,43 @@ class LineNotifier:
         Returns:
             List[Dict]: Quick Replyアイテムのリスト
         """
-        # LINE公式のアイコンURLを使用（または独自のアイコンをホスティング）
-        # 注: imageUrlは省略可能（絵文字のみでも表示される）
+        # Quick Replyボタンの定義
+        # labelに絵文字を含めることで視認性を向上
         return [
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '映画検索',
+                    'label': '🎬 映画検索',
                     'data': 'action=movie_search',
-                    'displayText': '🎬 映画検索'
+                    'displayText': '映画検索'
                 }
             },
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '映画館検索',
+                    'label': '🎪 映画館検索',
                     'data': 'action=theater_search',
-                    'displayText': '🎪 映画館検索'
+                    'displayText': '映画館検索'
                 }
             },
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '今週公開',
+                    'label': '📅 今週公開',
                     'data': 'action=weekly_new',
-                    'displayText': '📅 今週公開'
+                    'displayText': '今週公開'
                 }
             },
             {
                 'type': 'action',
                 'action': {
                     'type': 'postback',
-                    'label': '上映中',
+                    'label': '🎭 上映中',
                     'data': 'action=now_showing',
-                    'displayText': '🎭 上映中'
+                    'displayText': '上映中'
                 }
             }
         ]
