@@ -120,27 +120,36 @@ def handle_text_message(event: dict, notifier: LineNotifier):
     message_text = event['message']['text']
     user_id = event['source'].get('userId', 'unknown')
     
-    print(f"受信メッセージ: {message_text} (ユーザーID: {user_id})")
+    print(f"▶ 受信メッセージ: '{message_text}' (ユーザーID: {user_id})")
+    print(f"  Reply Token: {reply_token[:20]}...")
     
     # ユーザーの現在の状態を取得
     user_state = session_manager.get_user_state(user_id)
+    print(f"  ユーザー状態: {user_state if user_state else '(なし)'}")
     
     # セッション状態に応じて処理を分岐
     if user_state == 'movie_search':
         # 映画検索モード
+        print(f"  → 映画検索モード")
         handle_movie_search(message_text, reply_token, user_id, notifier)
         session_manager.clear_user_state(user_id)
     
     elif user_state == 'theater_search':
         # 映画館検索モード
+        print(f"  → 映画館検索モード")
         handle_theater_search(message_text, reply_token, user_id, notifier)
         session_manager.clear_user_state(user_id)
     
     else:
         # 通常モード：映画検索クエリかどうか判定
-        if is_movie_search_query(message_text):
+        is_search_query = is_movie_search_query(message_text)
+        print(f"  映画検索クエリ判定: {is_search_query}")
+        
+        if is_search_query:
+            print(f"  → 映画検索として処理")
             handle_movie_search(message_text, reply_token, user_id, notifier)
         else:
+            print(f"  → メニュー誘導")
             # メニュー誘導メッセージ
             notifier.reply_with_menu_guidance(reply_token)
 
@@ -248,11 +257,13 @@ def handle_movie_search(query: str, reply_token: str, user_id: str, notifier: Li
         user_id: ユーザーID
         notifier: LineNotifierインスタンス
     """
-    print(f"映画検索実行: {query}")
+    print(f"  [handle_movie_search] 映画検索実行: {query}")
+    print(f"  [handle_movie_search] Reply Token: {reply_token[:20]}...")
     
     # 映画を検索
     scraper = MovieScraper()
     search_results = scraper.search_movie_by_keyword(query)
+    print(f"  [handle_movie_search] Web検索結果: {len(search_results)}件")
     
     # ローカルストレージからも検索（過去/未来の映画情報）
     storage = MovieStorage()
@@ -266,6 +277,9 @@ def handle_movie_search(query: str, reply_token: str, user_id: str, notifier: Li
                 # 重複チェック
                 if not any(m['title'] == movie['title'] for m in search_results):
                     search_results.append(movie)
+        print(f"  [handle_movie_search] ストレージ追加後: {len(search_results)}件")
+    
+    print(f"  [handle_movie_search] 最終検索結果: {len(search_results)}件")
     
     # 結果をReply
     notifier.reply_movie_info(reply_token, search_results)
@@ -281,19 +295,23 @@ def handle_theater_search(query: str, reply_token: str, user_id: str, notifier: 
         user_id: ユーザーID
         notifier: LineNotifierインスタンス
     """
-    print(f"映画館検索実行: {query}")
+    print(f"  [handle_theater_search] 映画館検索実行: {query}")
     
     # 映画館検索マネージャーを使用
     theater_search = TheaterSearchManager()
     
     # 映画館名の妥当性チェック
     if not theater_search.validate_theater_name(query):
-        notifier.reply_text_message(
+        print(f"  [handle_theater_search] 映画館名が不正: {query}")
+        quick_reply_items = notifier._get_main_menu_quick_reply_items()
+        notifier.reply_text_message_with_quick_reply(
             reply_token,
-            "映画館名が不正です。2文字以上で入力してください。"
+            "映画館名が不正です。2文字以上で入力してください。",
+            quick_reply_items
         )
         return
     
+    print(f"  [handle_theater_search] 映画館検索結果を送信")
     # 検索ボタン付きメッセージを送信
     notifier.reply_theater_search_result(reply_token, query)
 
