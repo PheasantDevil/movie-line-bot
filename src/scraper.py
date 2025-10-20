@@ -255,26 +255,78 @@ class MovieScraper:
         """
         movies = []
         
-        # 映画リストを探す
+        # 方法1: 従来のパターン（ul.slide-menu）
         movie_list = soup.find('ul', class_='slide-menu')
         
-        if not movie_list:
-            # 別のパターンも試す
-            movie_list = soup.find('div', class_='movielist')
+        if movie_list:
+            print("✓ slide-menuから映画情報を取得")
+            # 各映画情報を抽出
+            for li in movie_list.find_all('li'):
+                try:
+                    movie_data = self._extract_movie_from_li(li)
+                    if movie_data:
+                        movies.append(movie_data)
+                except Exception as e:
+                    print(f"警告: 映画情報のパースに失敗しました - {e}")
+                    continue
         
-        if not movie_list:
-            print("警告: 公開中映画リストが見つかりません")
-            return movies
-        
-        # 各映画情報を抽出
-        for li in movie_list.find_all('li'):
-            try:
-                movie_data = self._extract_movie_from_li(li)
-                if movie_data:
+        # 方法2: imgタグから直接取得（バックアッププラン）
+        if not movies:
+            print("代替方法: imgタグから映画情報を取得")
+            imgs = soup.find_all('img', alt=True, limit=100)
+            
+            for img in imgs:
+                # altがあり、親にリンクがある画像を探す
+                if not img.get('alt') or len(img.get('alt')) < 2:
+                    continue
+                
+                parent_link = img.find_parent('a')
+                if not parent_link:
+                    continue
+                
+                href = parent_link.get('href', '')
+                if '/movie/' not in href:
+                    continue
+                
+                # 基本情報を抽出
+                movie_url = self.BASE_URL + href if href.startswith('/') else href
+                title = img.get('alt')
+                thumbnail = img.get('src', '')
+                
+                # 公開日を探す（親要素やコンテナから）
+                release_date = "公開中"
+                container = parent_link.find_parent('div') or parent_link.find_parent('li')
+                
+                if container:
+                    # published, date などのクラスを持つ要素を探す
+                    date_elem = container.find(['p', 'span', 'div'], 
+                                              class_=lambda c: c and ('published' in str(c) or 'date' in str(c)))
+                    if date_elem:
+                        release_date = date_elem.get_text(strip=True)
+                    else:
+                        # テキストから日付を抽出
+                        text = container.get_text()
+                        import re
+                        date_match = re.search(r'(\d{1,2}月\d{1,2}日)', text)
+                        if date_match:
+                            release_date = date_match.group(1)
+                
+                movie_data = {
+                    'title': title,
+                    'url': movie_url,
+                    'release_date': release_date,
+                    'thumbnail': thumbnail,
+                    'scraped_at': datetime.now().isoformat()
+                }
+                
+                # 重複チェック
+                if not any(m['url'] == movie_url for m in movies):
                     movies.append(movie_data)
-            except Exception as e:
-                print(f"警告: 映画情報のパースに失敗しました - {e}")
-                continue
+        
+        if not movies:
+            print("警告: 公開中映画が見つかりません")
+        else:
+            print(f"✓ {len(movies)}件の公開中映画を取得しました")
         
         return movies
     
