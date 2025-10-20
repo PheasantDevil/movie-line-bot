@@ -12,4 +12,3 @@ services:
       - key: LINE_CHANNEL_SECRET
         sync: false
     healthCheckPath: /health
-
