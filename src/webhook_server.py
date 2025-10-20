@@ -37,32 +37,48 @@ def webhook():
     """
     LINE Webhookエンドポイント
     """
+    print("=" * 60)
+    print("Webhook受信")
+    print("=" * 60)
+    
     # 署名検証
     signature = request.headers.get('X-Line-Signature', '')
     body = request.get_data(as_text=True)
     
+    print(f"Body長: {len(body)} bytes")
+    print(f"Signature: {signature[:20]}..." if signature else "Signature: なし")
+    
     try:
         notifier = LineNotifier()
+        print("✓ LineNotifier初期化成功")
         
         # 署名を検証
-        if notifier.channel_secret and not notifier.verify_signature(body, signature):
-            print("署名検証失敗")
-            abort(400)
+        if notifier.channel_secret:
+            if not notifier.verify_signature(body, signature):
+                print("❌ 署名検証失敗")
+                abort(400)
+            print("✓ 署名検証成功")
+        else:
+            print("⚠️  チャネルシークレット未設定（署名検証スキップ）")
         
     except ValueError as e:
-        print(f"LINE Notifierの初期化エラー: {e}")
+        print(f"❌ LINE Notifierの初期化エラー: {e}")
         abort(500)
     
     # イベントを処理
     try:
         events = json.loads(body)['events']
+        print(f"イベント数: {len(events)}")
         
-        for event in events:
+        for i, event in enumerate(events, 1):
             event_type = event.get('type')
+            print(f"\n--- イベント {i}/{len(events)} ---")
+            print(f"タイプ: {event_type}")
             
             # メッセージイベント
             if event_type == 'message':
                 message_type = event['message'].get('type')
+                print(f"メッセージタイプ: {message_type}")
                 
                 if message_type == 'text':
                     handle_text_message(event, notifier)
@@ -71,6 +87,7 @@ def webhook():
             
             # Postbackイベント（リッチメニューボタンなど）
             elif event_type == 'postback':
+                print(f"Postback data: {event['postback'].get('data')}")
                 handle_postback_event(event, notifier)
             
             # Follow/Unfollowイベント
@@ -79,10 +96,13 @@ def webhook():
             elif event_type == 'unfollow':
                 handle_unfollow_event(event)
         
+        print("\n" + "=" * 60)
+        print("Webhook処理完了")
+        print("=" * 60)
         return 'OK', 200
         
     except Exception as e:
-        print(f"Webhookエラー: {e}")
+        print(f"❌ Webhookエラー: {e}")
         import traceback
         traceback.print_exc()
         abort(500)
@@ -137,72 +157,83 @@ def handle_postback_event(event: dict, notifier: LineNotifier):
     postback_data = event['postback']['data']
     user_id = event['source'].get('userId', 'unknown')
     
-    print(f"Postback受信: {postback_data} (ユーザーID: {user_id})")
+    print(f"▶ Postback受信: {postback_data} (ユーザーID: {user_id})")
+    print(f"  Reply Token: {reply_token[:20]}...")
     
     # postback dataをパース
     if postback_data == 'action=movie_search':
+        print("  → 映画検索モードに設定")
         # 映画検索モードに設定
         session_manager.set_user_state(user_id, 'movie_search', expires_minutes=10)
         # Quick Reply付きで応答
         quick_reply_items = notifier._get_main_menu_quick_reply_items()
-        notifier.reply_text_message_with_quick_reply(
+        success = notifier.reply_text_message_with_quick_reply(
             reply_token,
             "🎬 映画検索モードです\n映画のタイトルを入力してください",
             quick_reply_items
         )
+        print(f"  Reply結果: {'成功' if success else '失敗'}")
     
     elif postback_data == 'action=theater_search':
+        print("  → 映画館検索モードに設定")
         # 映画館検索モードに設定
         session_manager.set_user_state(user_id, 'theater_search', expires_minutes=10)
         # Quick Reply付きで応答
         quick_reply_items = notifier._get_main_menu_quick_reply_items()
-        notifier.reply_text_message_with_quick_reply(
+        success = notifier.reply_text_message_with_quick_reply(
             reply_token,
             "🎪 映画館検索モードです\n映画館の名前を入力してください\n※入力後、ブラウザが起動します",
             quick_reply_items
         )
+        print(f"  Reply結果: {'成功' if success else '失敗'}")
     
     elif postback_data == 'action=weekly_new':
+        print("  → 今週公開映画を表示")
         # 今週公開映画を表示
         try:
             scraper = MovieScraper()
             movies = scraper.fetch_upcoming_movies()
             
             if movies:
-                print(f"今週公開映画を送信: {len(movies)}件")
-                notifier.reply_movie_info(reply_token, movies)
+                print(f"  今週公開映画: {len(movies)}件")
+                success = notifier.reply_movie_info(reply_token, movies)
+                print(f"  Reply結果: {'成功' if success else '失敗'}")
             else:
-                print("今週公開映画なし")
+                print("  今週公開映画なし")
                 quick_reply_items = notifier._get_main_menu_quick_reply_items()
-                notifier.reply_text_message_with_quick_reply(
+                success = notifier.reply_text_message_with_quick_reply(
                     reply_token,
                     "今週公開予定の映画はありません",
                     quick_reply_items
                 )
+                print(f"  Reply結果: {'成功' if success else '失敗'}")
         except Exception as e:
-            print(f"エラー: 今週公開映画の処理に失敗 - {e}")
+            print(f"  ❌ エラー: 今週公開映画の処理に失敗 - {e}")
             import traceback
             traceback.print_exc()
     
     elif postback_data == 'action=now_showing':
+        print("  → 上映中映画を表示")
         # 上映中映画を表示
         try:
             scraper = MovieScraper()
             movies = scraper.fetch_movies_released_in_past_week()
             
             if movies:
-                print(f"上映中映画を送信: {len(movies)}件")
-                notifier.reply_movie_info(reply_token, movies)
+                print(f"  上映中映画: {len(movies)}件")
+                success = notifier.reply_movie_info(reply_token, movies)
+                print(f"  Reply結果: {'成功' if success else '失敗'}")
             else:
-                print("上映中映画なし")
+                print("  上映中映画なし")
                 quick_reply_items = notifier._get_main_menu_quick_reply_items()
-                notifier.reply_text_message_with_quick_reply(
+                success = notifier.reply_text_message_with_quick_reply(
                     reply_token,
                     "現在上映中の映画はありません",
                     quick_reply_items
                 )
+                print(f"  Reply結果: {'成功' if success else '失敗'}")
         except Exception as e:
-            print(f"エラー: 上映中映画の処理に失敗 - {e}")
+            print(f"  ❌ エラー: 上映中映画の処理に失敗 - {e}")
             import traceback
             traceback.print_exc()
 
@@ -326,6 +357,14 @@ def handle_unfollow_event(event: dict):
     
     # セッション情報をクリア
     session_manager.clear_user_state(user_id)
+
+
+@app.route('/', methods=['GET'])
+def index():
+    """
+    ルートエンドポイント
+    """
+    return '🎬 Movie LINE Bot Webhook Server is running!', 200
 
 
 @app.route('/health', methods=['GET'])
