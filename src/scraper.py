@@ -15,7 +15,7 @@ class MovieScraper:
     # 複数のURLパターンを試す
     POSSIBLE_URLS = [
         f"{BASE_URL}/now/",
-        f"{BASE_URL}/soon/",
+        f"{BASE_URL}/upcoming/",  # 今週公開の正式URL
         f"{BASE_URL}/movie/",
         f"{BASE_URL}/ranking/",
     ]
@@ -33,7 +33,9 @@ class MovieScraper:
         Returns:
             List[Dict]: 映画情報のリスト
         """
-        url = f"{self.BASE_URL}/movie/"
+        # 正式ページ: https://eiga.com/upcoming/
+        # 参考: https://eiga.com/upcoming/
+        url = f"{self.BASE_URL}/upcoming/"
         
         try:
             print(f"映画情報を取得中: {url}")
@@ -42,7 +44,7 @@ class MovieScraper:
             response.encoding = response.apparent_encoding
             
             soup = BeautifulSoup(response.text, 'lxml')
-            movies = self._parse_this_week_movies(soup)
+            movies = self._parse_upcoming_movies(soup)
             
             print(f"✓ {len(movies)}件の映画情報を取得しました")
             return movies
@@ -94,7 +96,8 @@ class MovieScraper:
         Returns:
             List[Dict]: 映画情報のリスト（上映館数情報も含む）
         """
-        url = f"{self.BASE_URL}/soon/"
+        # 近日公開の旧URLではなく、upcomingで今週公開を取得
+        url = f"{self.BASE_URL}/upcoming/"
         
         try:
             print(f"公開予定の映画情報を取得中: {url}")
@@ -103,7 +106,7 @@ class MovieScraper:
             response.encoding = response.apparent_encoding
             
             soup = BeautifulSoup(response.text, 'lxml')
-            movies = self._parse_coming_soon_movies(soup)
+            movies = self._parse_upcoming_movies(soup)
             
             # 先1週間以内の映画のみにフィルタリング
             one_week_later = datetime.now() + timedelta(days=7)
@@ -195,6 +198,76 @@ class MovieScraper:
             except Exception as e:
                 print(f"警告: 映画情報のパースに失敗しました - {e}")
                 continue
+        
+        return movies
+
+    def _parse_upcoming_movies(self, soup: BeautifulSoup) -> List[Dict]:
+        """
+        https://eiga.com/upcoming/ の構造から映画情報をパース
+        
+        Returns:
+            List[Dict]
+        """
+        movies: List[Dict] = []
+        
+        # 1) 一般的なリスト（ul.slide-menu）
+        movie_list = soup.find('ul', class_='slide-menu')
+        if movie_list:
+            for li in movie_list.find_all('li'):
+                try:
+                    movie = self._extract_movie_from_li(li)
+                    if movie:
+                        movies.append(movie)
+                except Exception as e:
+                    print(f"警告: upcoming liのパース失敗 - {e}")
+        
+        # 2) セクションごと（見出し日付 -> リスト）
+        if not movies:
+            headers = soup.find_all(['h2', 'h3'])
+            for header in headers:
+                text = header.get_text(strip=True)
+                if re.search(r'(\d{1,2})月(\d{1,2})日', text):
+                    ul = header.find_next('ul')
+                    if not ul:
+                        continue
+                    for li in ul.find_all('li'):
+                        try:
+                            movie = self._extract_movie_from_li(li)
+                            if movie:
+                                # 見出し日付が取れたら公開日に補完
+                                if movie.get('release_date') in (None, '未定'):
+                                    movie['release_date'] = text
+                                movies.append(movie)
+                        except Exception as e:
+                            print(f"警告: upcoming セクションのパース失敗 - {e}")
+        
+        # 3) バックアップ: 画像リンクから抽出
+        if not movies:
+            imgs = soup.find_all('img', alt=True, limit=120)
+            for img in imgs:
+                parent_link = img.find_parent('a')
+                if not parent_link:
+                    continue
+                href = parent_link.get('href', '')
+                if '/movie/' not in href:
+                    continue
+                title = img.get('alt')
+                if not title or len(title) < 2:
+                    continue
+                movie_url = self.BASE_URL + href if href.startswith('/') else href
+                container = parent_link.find_parent('li') or parent_link.find_parent('div')
+                release_date = '未定'
+                if container:
+                    date_elem = container.find(['p','span','div'], class_=lambda c: c and ('published' in str(c) or 'date' in str(c)))
+                    if date_elem:
+                        release_date = date_elem.get_text(strip=True)
+                movies.append({
+                    'title': title,
+                    'url': movie_url,
+                    'release_date': release_date,
+                    'thumbnail': img.get('src',''),
+                    'scraped_at': datetime.now().isoformat()
+                })
         
         return movies
     
