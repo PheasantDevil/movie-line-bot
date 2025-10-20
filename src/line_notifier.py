@@ -239,7 +239,7 @@ class LineNotifier:
     
     def reply_movie_info(self, reply_token: str, movies: List[Dict]) -> bool:
         """
-        映画情報をReply
+        映画情報をReply（Quick Reply付き）
         
         Args:
             reply_token: リプライトークン
@@ -253,7 +253,9 @@ class LineNotifier:
         else:
             message = self._format_search_result_message(movies)
         
-        return self.reply_text_message(reply_token, message)
+        # Quick Replyを追加
+        quick_reply_items = self._get_main_menu_quick_reply_items()
+        return self.reply_text_message_with_quick_reply(reply_token, message, quick_reply_items)
     
     def _format_search_result_message(self, movies: List[Dict]) -> str:
         """
@@ -472,7 +474,7 @@ class LineNotifier:
     
     def reply_with_menu_guidance(self, reply_token: str) -> bool:
         """
-        メニュー誘導メッセージをReply
+        メニュー誘導メッセージをReply（Quick Reply付き）
         
         Args:
             reply_token: リプライトークン
@@ -489,7 +491,102 @@ class LineNotifier:
 🎬 映画検索：映画名で詳細情報を検索
 🎪 映画館検索：映画館を検索"""
         
-        return self.reply_text_message(reply_token, guidance_message)
+        # Quick Replyを追加
+        quick_reply_items = self._get_main_menu_quick_reply_items()
+        return self.reply_text_message_with_quick_reply(reply_token, guidance_message, quick_reply_items)
+    
+    def reply_text_message_with_quick_reply(
+        self,
+        reply_token: str,
+        text: str,
+        quick_reply_items: List[Dict]
+    ) -> bool:
+        """
+        Quick Reply付きテキストメッセージをReply
+        
+        Args:
+            reply_token: リプライトークン
+            text: 送信するテキスト
+            quick_reply_items: Quick Replyアイテムのリスト
+            
+        Returns:
+            bool: 送信が成功したかどうか
+        """
+        headers = {
+            'Authorization': f'Bearer {self.channel_access_token}',
+            'Content-Type': 'application/json'
+        }
+        
+        data = {
+            'replyToken': reply_token,
+            'messages': [
+                {
+                    'type': 'text',
+                    'text': text,
+                    'quickReply': {
+                        'items': quick_reply_items
+                    }
+                }
+            ]
+        }
+        
+        try:
+            response = requests.post(self.reply_api_url, headers=headers, json=data, timeout=30)
+            response.raise_for_status()
+            print("✓ Quick Reply付きLINE Replyを送信しました")
+            return True
+            
+        except requests.RequestException as e:
+            print(f"エラー: Quick Reply付きLINE Replyの送信に失敗しました - {e}")
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"レスポンス: {e.response.text}")
+            return False
+    
+    def _get_main_menu_quick_reply_items(self) -> List[Dict]:
+        """
+        メインメニューのQuick Replyアイテムを取得
+        
+        Returns:
+            List[Dict]: Quick Replyアイテムのリスト
+        """
+        return [
+            {
+                'type': 'action',
+                'action': {
+                    'type': 'postback',
+                    'label': '🎬 映画検索',
+                    'data': 'action=movie_search',
+                    'displayText': '映画検索'
+                }
+            },
+            {
+                'type': 'action',
+                'action': {
+                    'type': 'postback',
+                    'label': '🎪 映画館検索',
+                    'data': 'action=theater_search',
+                    'displayText': '映画館検索'
+                }
+            },
+            {
+                'type': 'action',
+                'action': {
+                    'type': 'postback',
+                    'label': '📅 今週公開',
+                    'data': 'action=weekly_new',
+                    'displayText': '今週公開'
+                }
+            },
+            {
+                'type': 'action',
+                'action': {
+                    'type': 'postback',
+                    'label': '🎭 上映中',
+                    'data': 'action=now_showing',
+                    'displayText': '上映中'
+                }
+            }
+        ]
     
     def test_connection(self) -> bool:
         """

@@ -143,17 +143,23 @@ def handle_postback_event(event: dict, notifier: LineNotifier):
     if postback_data == 'action=movie_search':
         # 映画検索モードに設定
         session_manager.set_user_state(user_id, 'movie_search', expires_minutes=10)
-        notifier.reply_text_message(
+        # Quick Reply付きで応答
+        quick_reply_items = notifier._get_main_menu_quick_reply_items()
+        notifier.reply_text_message_with_quick_reply(
             reply_token,
-            "🎬 映画検索モードです\n映画のタイトルを入力してください"
+            "🎬 映画検索モードです\n映画のタイトルを入力してください",
+            quick_reply_items
         )
     
     elif postback_data == 'action=theater_search':
         # 映画館検索モードに設定
         session_manager.set_user_state(user_id, 'theater_search', expires_minutes=10)
-        notifier.reply_text_message(
+        # Quick Reply付きで応答
+        quick_reply_items = notifier._get_main_menu_quick_reply_items()
+        notifier.reply_text_message_with_quick_reply(
             reply_token,
-            "🎪 映画館検索モードです\n映画館の名前を入力してください\n※入力後、ブラウザが起動します"
+            "🎪 映画館検索モードです\n映画館の名前を入力してください\n※入力後、ブラウザが起動します",
+            quick_reply_items
         )
     
     elif postback_data == 'action=weekly_new':
@@ -273,7 +279,7 @@ def handle_follow_event(event: dict, notifier: LineNotifier):
     
     print(f"友だち追加: {user_id}")
     
-    # ウェルカムメッセージを送信
+    # ウェルカムメッセージを送信（Quick Reply付き）
     welcome_message = """🎬 映画情報BOTへようこそ！
 
 以下の機能をご利用いただけます：
@@ -285,7 +291,9 @@ def handle_follow_event(event: dict, notifier: LineNotifier):
 
 下部のメニューからお選びください！"""
     
-    notifier.reply_text_message(reply_token, welcome_message)
+    # Quick Reply付きで送信
+    quick_reply_items = notifier._get_main_menu_quick_reply_items()
+    notifier.reply_text_message_with_quick_reply(reply_token, welcome_message, quick_reply_items)
 
 
 def handle_unfollow_event(event: dict):
