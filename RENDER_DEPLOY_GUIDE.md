@@ -1,10 +1,10 @@
 # 🚀 Render.com デプロイガイド（即実行可能版）
 
-このガイドに従ってWebhookサーバーをデプロイしてください。
+このガイドに従って Webhook サーバーをデプロイしてください。
 
 ## ✅ 準備完了している項目
 
-- ✅ GitHub Secrets登録完了（3つ全て）
+- ✅ GitHub Secrets 登録完了（3 つ全て）
   - `LINE_CHANNEL_ACCESS_TOKEN`
   - `LINE_USER_ID`
   - `LINE_CHANNEL_SECRET`
@@ -15,18 +15,18 @@
 
 ---
 
-## 🌐 Render.comデプロイ手順（10分）
+## 🌐 Render.com デプロイ手順（10 分）
 
-### ステップ 1: Render.comアカウント作成
+### ステップ 1: Render.com アカウント作成
 
 1. ブラウザで [https://render.com/](https://render.com/) を開く
 2. 右上の **「Get Started」** をクリック
 3. **「Sign up with GitHub」** を選択
-4. GitHubで認証（movie-line-botリポジトリへのアクセスを許可）
+4. GitHub で認証（movie-line-bot リポジトリへのアクセスを許可）
 
-### ステップ 2: 新しいWebサービスの作成
+### ステップ 2: 新しい Web サービスの作成
 
-1. Render.comダッシュボードが表示される
+1. Render.com ダッシュボードが表示される
 2. 左メニューまたは右上の **「New +」** をクリック
 3. **「Web Service」** を選択
 
@@ -38,45 +38,54 @@
 4. 右側の **「Connect」** ボタンをクリック
 
 **リポジトリが見つからない場合**:
+
 - **「Configure account」** をクリック
-- GitHubでRender.comにリポジトリアクセス権限を付与
+- GitHub で Render.com にリポジトリアクセス権限を付与
 
 ### ステップ 4: サービス設定（コピー＆ペースト）
 
 以下をそのまま入力してください：
 
 #### Name
+
 ```
 movie-line-bot-webhook
 ```
 
 #### Region
+
 ```
 Singapore (Southeast Asia)
 ```
 
 #### Branch
+
 ```
 main
 ```
 
 #### Root Directory
+
 ```
 （空欄のまま）
 ```
 
 #### Runtime
+
 ```
 Python 3
 ```
+
 （自動検出されるのでそのまま）
 
 #### Build Command
+
 ```
 pip install -r requirements.txt
 ```
 
 #### Start Command
+
 ```
 gunicorn --bind 0.0.0.0:$PORT src.webhook_server:app
 ```
@@ -84,27 +93,31 @@ gunicorn --bind 0.0.0.0:$PORT src.webhook_server:app
 ### ステップ 5: プラン選択
 
 **Instance Type**:
+
 - **「Free」** を選択（月$0）
 
 ### ステップ 6: 環境変数の設定
 
 **Advanced** ボタンをクリックして展開
 
-**Environment Variables** セクションで **「Add Environment Variable」** を3回クリック：
+**Environment Variables** セクションで **「Add Environment Variable」** を 3 回クリック：
 
 #### 環境変数 1
+
 ```
 Key: LINE_CHANNEL_ACCESS_TOKEN
 Value: MR06P0Ijv3fqJndlrdhldw2mUq6dBVlbB67V/2gDWEDNrscwB+isZsKUtflzzlKmubUxHbfXa6dExOmwsG+UvZxYGHhoIMYlGdzpFIbOONykXGB4rn7c197li2tjC3kmpKRhOj9bxne39uFq3ZTuqwdB04t89/1O/w1cDnyilFU=
 ```
 
 #### 環境変数 2
+
 ```
 Key: LINE_USER_ID
 Value: U7d4c46cc2c1894692f0dc35efaa1495b
 ```
 
 #### 環境変数 3
+
 ```
 Key: LINE_CHANNEL_SECRET
 Value: 870064a9ef364643a724fe399625e30e
@@ -118,7 +131,7 @@ Value: 870064a9ef364643a724fe399625e30e
 
 ---
 
-## 📊 デプロイ状況の確認（5-10分）
+## 📊 デプロイ状況の確認（5-10 分）
 
 **Logs** タブで進行状況を確認できます。以下のようなログが表示されます：
 
@@ -137,23 +150,24 @@ Oct 20 11:30:18 AM  ==> Your service is live 🎉
 
 ---
 
-## 🔗 ステップ 8: Webhook URLの設定
+## 🔗 ステップ 8: Webhook URL の設定
 
-### A. Render.comのURLを確認
+### A. Render.com の URL を確認
 
-画面上部にサービスのURLが表示されています：
+画面上部にサービスの URL が表示されています：
+
 ```
 https://movie-line-bot-webhook-xxxx.onrender.com
 ```
 
-**このURLをコピーしてください。**
+**この URL をコピーしてください。**
 
-### B. LINE DevelopersでWebhook URLを設定
+### B. LINE Developers で Webhook URL を設定
 
 1. [LINE Developers Console](https://developers.line.biz/console/)を開く
 2. チャネルを選択
-3. **「Messaging API設定」** タブをクリック
-4. **「Webhook設定」** セクションを探す
+3. **「Messaging API 設定」** タブをクリック
+4. **「Webhook 設定」** セクションを探す
 5. **「Webhook URL」** の **「編集」** をクリック
 6. 以下のように入力（末尾に`/webhook`を追加）：
    ```
@@ -163,10 +177,11 @@ https://movie-line-bot-webhook-xxxx.onrender.com
 8. **「検証」** ボタンをクリック
 9. ✅ **「成功」** と表示されることを確認
 
-### C. Webhook機能の有効化
+### C. Webhook 機能の有効化
 
 同じページで：
-1. **「Webhookの利用」** を **ON** にする
+
+1. **「Webhook の利用」** を **ON** にする
 2. **「応答メッセージ」** を **OFF** にする（重要）
 3. **「Greeting messages」** を **OFF** にする（重要）
 
@@ -176,19 +191,20 @@ https://movie-line-bot-webhook-xxxx.onrender.com
 
 ### 1. リッチメニューの確認
 
-LINEアプリでBotのトーク画面を開く：
-- ✅ 画面下部に4つのボタンメニューが表示
+LINE アプリで Bot のトーク画面を開く：
 
-### 2. Quick Replyの確認
+- ✅ 画面下部に 4 つのボタンメニューが表示
 
-1. Botに「テスト」と送信
-2. Botから返信が来る
-3. ✨ **返信メッセージの上部に4つのボタンが表示される**
+### 2. Quick Reply の確認
+
+1. Bot に「テスト」と送信
+2. Bot から返信が来る
+3. ✨ **返信メッセージの上部に 4 つのボタンが表示される**
 
 ### 3. 各機能のテスト
 
 - 🎬 **映画検索**: ボタンタップ → 映画名入力 → 検索結果表示
-- 🎪 **映画館検索**: ボタンタップ → 映画館名入力 → Google検索
+- 🎪 **映画館検索**: ボタンタップ → 映画館名入力 → Google 検索
 - 📅 **今週公開**: ボタンタップ → 即座に一覧表示
 - 🎭 **上映中**: ボタンタップ → 即座に一覧表示
 
@@ -198,34 +214,35 @@ LINEアプリでBotのトーク画面を開く：
 
 ### デプロイが失敗する
 
-**Logsタブでエラーを確認**:
-- ModuleNotFoundError → requirements.txtを確認
-- Port binding error → Start Commandを確認
+**Logs タブでエラーを確認**:
+
+- ModuleNotFoundError → requirements.txt を確認
+- Port binding error → Start Command を確認
 - Environment variable error → 環境変数を確認
 
-### Webhook検証が失敗する
+### Webhook 検証が失敗する
 
-1. URLを確認: 末尾が `/webhook` になっているか
+1. URL を確認: 末尾が `/webhook` になっているか
 2. サーバーを確認:
    ```
    curl https://your-app-name.onrender.com/health
    ```
-3. 環境変数を確認: LINE_CHANNEL_SECRETが正しいか
+3. 環境変数を確認: LINE_CHANNEL_SECRET が正しいか
 
-### Quick Replyが表示されない
+### Quick Reply が表示されない
 
-- Webhookの利用がONになっているか確認
-- 応答メッセージがOFFになっているか確認
-- LINEアプリを再起動
+- Webhook の利用が ON になっているか確認
+- 応答メッセージが OFF になっているか確認
+- LINE アプリを再起動
 
 ---
 
 ## 📝 次のステップ
 
 デプロイが完了したら：
+
 1. 全ての機能をテスト
-2. 毎週水曜9時の自動通知を待つ（またはGitHub Actionsで手動実行）
+2. 毎週水曜 9 時の自動通知を待つ（または GitHub Actions で手動実行）
 3. 必要に応じて機能を拡張
 
 **Happy Deploying! 🚀**
-
