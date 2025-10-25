@@ -1,146 +1,146 @@
 {
-  "updated_at": "2025-10-24T01:13:37.863734",
+  "updated_at": "2025-10-25T01:14:54.336098",
   "count": 20,
   "movies": [
+    {
+      "title": "女性の休日",
+      "url": "https://eiga.com/movie/104009/",
+      "release_date": "10月25日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104009/photo/bae4ea08f6f7eb4d/320.jpg?1748306264",
+      "scraped_at": "2025-10-25T01:14:53.216068"
+    },
+    {
+      "title": "アニタ 反逆の女神",
+      "url": "https://eiga.com/movie/104241/",
+      "release_date": "10月25日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104241/photo/37269fa94162a8f5/320.jpg?1754530077",
+      "scraped_at": "2025-10-25T01:14:53.216184"
+    },
+    {
+      "title": "アメリアの息子たち",
+      "url": "https://eiga.com/movie/104396/",
+      "release_date": "10月25日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104396/photo/a49c97c675ec2e84/320.jpg?1754372221",
+      "scraped_at": "2025-10-25T01:14:53.216295"
+    },
+    {
+      "title": "雨花蓮歌",
+      "url": "https://eiga.com/movie/104393/",
+      "release_date": "10月25日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104393/photo/8fceb6fa5584b079/320.jpg?1754292104",
+      "scraped_at": "2025-10-25T01:14:53.216380"
+    },
+    {
+      "title": "ゴールド",
+      "url": "https://eiga.com/movie/104542/",
+      "release_date": "10月25日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104542/photo/98219ab119d8e45b/320.jpg?1756706132",
+      "scraped_at": "2025-10-25T01:14:53.216461"
+    },
+    {
+      "title": "大地に詩を書くように",
+      "url": "https://eiga.com/movie/104507/",
+      "release_date": "10月25日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104507/photo/b134f3ba47fb610e/320.jpg?1755846546",
+      "scraped_at": "2025-10-25T01:14:53.216536"
+    },
     {
       "title": "愚か者の身分",
       "url": "https://eiga.com/movie/103774/",
       "release_date": "10月24日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103774/photo/7d0ab514419a6288/320.jpg?1752030760",
-      "scraped_at": "2025-10-24T01:13:37.548374"
+      "scraped_at": "2025-10-25T01:14:53.216607"
     },
     {
       "title": "恋に至る病",
       "url": "https://eiga.com/movie/103767/",
       "release_date": "10月24日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103767/photo/cb3c09ac4c963c8e/320.jpg?1750755639",
-      "scraped_at": "2025-10-24T01:13:37.548510"
-    },
-    {
-      "title": "フランケンシュタイン",
-      "url": "https://eiga.com/movie/103356/",
-      "release_date": "10月24日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/103356/photo/3aa28e4b6a0dbf29/320.jpg?1758529095",
-      "scraped_at": "2025-10-24T01:13:37.548602"
+      "scraped_at": "2025-10-25T01:14:53.216688"
     },
     {
       "title": "ミーツ・ザ・ワールド",
       "url": "https://eiga.com/movie/103958/",
       "release_date": "10月24日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103958/photo/938400a37500fb26/320.jpg?1755681412",
-      "scraped_at": "2025-10-24T01:13:37.548680"
-    },
-    {
-      "title": "富士山と、コーヒーと、しあわせの数式",
-      "url": "https://eiga.com/movie/104010/",
-      "release_date": "10月24日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104010/photo/a5025afc70831c97/320.jpg?1750208848",
-      "scraped_at": "2025-10-24T01:13:37.548765"
+      "scraped_at": "2025-10-25T01:14:53.216759"
     },
     {
       "title": "Mr.ノーバディ2",
       "url": "https://eiga.com/movie/104452/",
       "release_date": "10月24日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104452/photo/a54e42ecb71fe631/320.jpg?1754988559",
-      "scraped_at": "2025-10-24T01:13:37.548839"
+      "scraped_at": "2025-10-25T01:14:53.216827"
     },
     {
-      "title": "もののけ姫",
-      "url": "https://eiga.com/movie/30139/",
+      "title": "富士山と、コーヒーと、しあわせの数式",
+      "url": "https://eiga.com/movie/104010/",
       "release_date": "10月24日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/30139/photo/0eb7e002e3ecbd5d/320.jpg?1760412971",
-      "scraped_at": "2025-10-24T01:13:37.548908"
+      "thumbnail": "https://eiga.k-img.com/images/movie/104010/photo/a5025afc70831c97/320.jpg?1750208848",
+      "scraped_at": "2025-10-25T01:14:53.216893"
     },
     {
       "title": "おいしい給食 炎の修学旅行",
       "url": "https://eiga.com/movie/103283/",
       "release_date": "10月24日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103283/photo/d116a7991735d8c7/320.jpg?1752195632",
-      "scraped_at": "2025-10-24T01:13:37.548980"
+      "scraped_at": "2025-10-25T01:14:53.216966"
+    },
+    {
+      "title": "フランケンシュタイン",
+      "url": "https://eiga.com/movie/103356/",
+      "release_date": "10月24日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/103356/photo/3aa28e4b6a0dbf29/320.jpg?1758529095",
+      "scraped_at": "2025-10-25T01:14:53.217034"
+    },
+    {
+      "title": "もののけ姫",
+      "url": "https://eiga.com/movie/30139/",
+      "release_date": "10月24日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/30139/photo/0eb7e002e3ecbd5d/320.jpg?1760412971",
+      "scraped_at": "2025-10-25T01:14:53.217100"
     },
     {
       "title": "ローズ家 崖っぷちの夫婦",
       "url": "https://eiga.com/movie/103997/",
       "release_date": "10月24日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103997/photo/b011a30809c5ea55/320.jpg?1748572982",
-      "scraped_at": "2025-10-24T01:13:37.549049"
+      "scraped_at": "2025-10-25T01:14:53.217173"
     },
     {
       "title": "ONE IN A MILL10N",
       "url": "https://eiga.com/movie/104649/",
       "release_date": "10月24日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104649/photo/b9b3d5bcb4cf58d4/320.jpg?1760443643",
-      "scraped_at": "2025-10-24T01:13:37.549115"
+      "scraped_at": "2025-10-25T01:14:53.217251"
     },
     {
       "title": "ゾンビランドサガ ゆめぎんがパラダイス",
       "url": "https://eiga.com/movie/95936/",
       "release_date": "10月24日",
       "thumbnail": "https://eiga.k-img.com/images/movie/95936/photo/8c632443772e30b6/320.jpg?1759483384",
-      "scraped_at": "2025-10-24T01:13:37.549180"
-    },
-    {
-      "title": "熊本の彼氏",
-      "url": "https://eiga.com/movie/104036/",
-      "release_date": "10月24日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104036/photo/9848ac9995ca7224/320.jpg?1752203034",
-      "scraped_at": "2025-10-24T01:13:37.549245"
-    },
-    {
-      "title": "やがて海になる",
-      "url": "https://eiga.com/movie/103643/",
-      "release_date": "10月24日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/103643/photo/c3b9d1e939380c47/320.jpg?1747796247",
-      "scraped_at": "2025-10-24T01:13:37.549310"
-    },
-    {
-      "title": "ドライブ・クレイジー タイペイ・ミッション",
-      "url": "https://eiga.com/movie/104357/",
-      "release_date": "10月24日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104357/photo/22a1e96ed2ada7f0/320.jpg?1753665414",
-      "scraped_at": "2025-10-24T01:13:37.549374"
+      "scraped_at": "2025-10-25T01:14:53.217336"
     },
     {
       "title": "新世紀エヴァンゲリオン劇場版 Air／まごころを､君に",
       "url": "https://eiga.com/movie/37279/",
       "release_date": "10月24日",
       "thumbnail": "https://eiga.k-img.com/images/movie/noimg/320.png?1659325570",
-      "scraped_at": "2025-10-24T01:13:37.549439"
+      "scraped_at": "2025-10-25T01:14:53.217415"
     },
     {
-      "title": "代々木ジョニーの憂鬱な放課後",
-      "url": "https://eiga.com/movie/101944/",
+      "title": "熊本の彼氏",
+      "url": "https://eiga.com/movie/104036/",
       "release_date": "10月24日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/101944/photo/2c45562941d01371/320.jpg?1738151981",
-      "scraped_at": "2025-10-24T01:13:37.549531"
+      "thumbnail": "https://eiga.k-img.com/images/movie/104036/photo/9848ac9995ca7224/320.jpg?1752203034",
+      "scraped_at": "2025-10-25T01:14:53.217514"
     },
     {
-      "title": "フジコ・ヘミング 永遠の音色",
-      "url": "https://eiga.com/movie/103789/",
+      "title": "ドライブ・クレイジー タイペイ・ミッション",
+      "url": "https://eiga.com/movie/104357/",
       "release_date": "10月24日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/103789/photo/c27c85c5ec2bdb0f/320.jpg?1755129966",
-      "scraped_at": "2025-10-24T01:13:37.549605"
-    },
-    {
-      "title": "ハード・トゥルース 母の日に願うこと",
-      "url": "https://eiga.com/movie/104454/",
-      "release_date": "10月24日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104454/photo/ad248759853e584f/320.jpg?1755061859",
-      "scraped_at": "2025-10-24T01:13:37.549672"
-    },
-    {
-      "title": "2019 BTS WORLD TOUR ‘LOVE YOURSELF: SPEAK YOURSELF’ LONDON 4Kリマスター特別編集版",
-      "url": "https://eiga.com/movie/104487/",
-      "release_date": "10月24日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104487/photo/cd836882174a53da/320.jpg?1758696751",
-      "scraped_at": "2025-10-24T01:13:37.549738"
-    },
-    {
-      "title": "犬猫とあくびと余興",
-      "url": "https://eiga.com/movie/104695/",
-      "release_date": "10月24日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104695/photo/1fd511ff3d671b59/320.jpg?1759294615",
-      "scraped_at": "2025-10-24T01:13:37.549802"
+      "thumbnail": "https://eiga.k-img.com/images/movie/104357/photo/22a1e96ed2ada7f0/320.jpg?1753665414",
+      "scraped_at": "2025-10-25T01:14:53.217603"
     }
   ]
 }
