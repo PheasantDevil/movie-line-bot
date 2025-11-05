@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-04T01:18:58.243509",
+  "updated_at": "2025-11-05T01:20:20.275258",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/101116/",
       "release_date": "11月1日",
       "thumbnail": "https://eiga.k-img.com/images/movie/101116/photo/80bf519c3227b023/320.jpg?1759458911",
-      "scraped_at": "2025-11-04T01:18:58.060743"
+      "scraped_at": "2025-11-05T01:20:20.004284"
     },
     {
       "title": "佐藤忠男、映画の旅",
       "url": "https://eiga.com/movie/104534/",
       "release_date": "11月1日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104534/photo/a0b7d0cc04294e80/320.jpg?1756365599",
-      "scraped_at": "2025-11-04T01:18:58.060880"
+      "scraped_at": "2025-11-05T01:20:20.004391"
     },
     {
       "title": "爆弾",
       "url": "https://eiga.com/movie/103262/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103262/photo/a217f0692449b597/320.jpg?1756804871",
-      "scraped_at": "2025-11-04T01:18:58.060966"
+      "scraped_at": "2025-11-05T01:20:20.004473"
     },
     {
       "title": "盤上の向日葵",
       "url": "https://eiga.com/movie/101368/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/101368/photo/986966c569d4111f/320.jpg?1755162220",
-      "scraped_at": "2025-11-04T01:18:58.061046"
+      "scraped_at": "2025-11-05T01:20:20.004548"
     },
     {
       "title": "てっぺんの向こうにあなたがいる",
       "url": "https://eiga.com/movie/102290/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/102290/photo/5628f462e23148c8/320.jpg?1761305790",
-      "scraped_at": "2025-11-04T01:18:58.061124"
+      "scraped_at": "2025-11-05T01:20:20.004625"
     },
     {
       "title": "（LOVE SONG）",
       "url": "https://eiga.com/movie/103070/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103070/photo/acbb0af480970771/320.jpg?1754613062",
-      "scraped_at": "2025-11-04T01:18:58.061200"
-    },
-    {
-      "title": "火の華",
-      "url": "https://eiga.com/movie/102186/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/102186/photo/c37d36b0a3c2493b/320.jpg?1727931445",
-      "scraped_at": "2025-11-04T01:18:58.061272"
-    },
-    {
-      "title": "特別編集版 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント 小さな挑戦者の軌跡",
-      "url": "https://eiga.com/movie/104350/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104350/photo/ff41c747598a1e29/320.jpg?1753422653",
-      "scraped_at": "2025-11-04T01:18:58.061358"
+      "scraped_at": "2025-11-05T01:20:20.004697"
     },
     {
       "title": "映画 すみっコぐらし 空の王国とふたりのコ",
       "url": "https://eiga.com/movie/103615/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103615/photo/de170045542715d5/320.jpg?1756165839",
-      "scraped_at": "2025-11-04T01:18:58.061432"
+      "scraped_at": "2025-11-05T01:20:20.004773"
+    },
+    {
+      "title": "火の華",
+      "url": "https://eiga.com/movie/102186/",
+      "release_date": "10月31日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/102186/photo/c37d36b0a3c2493b/320.jpg?1727931445",
+      "scraped_at": "2025-11-05T01:20:20.004848"
+    },
+    {
+      "title": "特別編集版 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント 小さな挑戦者の軌跡",
+      "url": "https://eiga.com/movie/104350/",
+      "release_date": "10月31日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104350/photo/ff41c747598a1e29/320.jpg?1753422653",
+      "scraped_at": "2025-11-05T01:20:20.004918"
     },
     {
       "title": "SPIRIT WORLD スピリットワールド",
       "url": "https://eiga.com/movie/102499/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/102499/photo/41cc820667a4f5e9/320.jpg?1743376621",
-      "scraped_at": "2025-11-04T01:18:58.061512"
+      "scraped_at": "2025-11-05T01:20:20.005006"
     },
     {
       "title": "劇場先行版「ゴールデンカムイ」札幌ビール工場編 後編",
       "url": "https://eiga.com/movie/104310/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104310/photo/d9231ab537d39a16/320.jpg?1755693194",
-      "scraped_at": "2025-11-04T01:18:58.061581"
+      "scraped_at": "2025-11-05T01:20:20.005076"
     },
     {
       "title": "INI THE MOVIE「I Need I」",
       "url": "https://eiga.com/movie/104118/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104118/photo/5cd0c434ddb43c17/320.jpg?1757394393",
-      "scraped_at": "2025-11-04T01:18:58.061653"
+      "scraped_at": "2025-11-05T01:20:20.005143"
     },
     {
       "title": "ひとつの机、ふたつの制服",
       "url": "https://eiga.com/movie/104344/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104344/photo/ae8ef07a3b9b122d/320.jpg?1753347353",
-      "scraped_at": "2025-11-04T01:18:58.061721"
+      "scraped_at": "2025-11-05T01:20:20.005208"
     },
     {
       "title": "サムシング・ハプンズ・トゥ・ミー",
       "url": "https://eiga.com/movie/104691/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104691/photo/de86d616292aef94/320.jpg?1758762981",
-      "scraped_at": "2025-11-04T01:18:58.061790"
+      "scraped_at": "2025-11-05T01:20:20.005273"
     },
     {
       "title": "プロジェクト・カグヤ",
       "url": "https://eiga.com/movie/104139/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104139/photo/748e8c85a98d2a2b/320.jpg?1761268027",
-      "scraped_at": "2025-11-04T01:18:58.061879"
-    },
-    {
-      "title": "じっちゃ！",
-      "url": "https://eiga.com/movie/104521/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104521/photo/26c9478733d0477f/320.jpg?1756122785",
-      "scraped_at": "2025-11-04T01:18:58.061956"
+      "scraped_at": "2025-11-05T01:20:20.005337"
     },
     {
       "title": "2021 BTS MUSTER SOWOOZOO 4Kリマスター特別編集版",
       "url": "https://eiga.com/movie/104488/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104488/photo/399d8f3015029e34/320.jpg?1758696770",
-      "scraped_at": "2025-11-04T01:18:58.062024"
+      "scraped_at": "2025-11-05T01:20:20.005403"
+    },
+    {
+      "title": "じっちゃ！",
+      "url": "https://eiga.com/movie/104521/",
+      "release_date": "10月31日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104521/photo/26c9478733d0477f/320.jpg?1756122785",
+      "scraped_at": "2025-11-05T01:20:20.005468"
     },
     {
       "title": "エニシング・ゴーズ",
       "url": "https://eiga.com/movie/103296/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103296/photo/a386300c4dd4b189/320.jpg?1761033987",
-      "scraped_at": "2025-11-04T01:18:58.062091"
+      "scraped_at": "2025-11-05T01:20:20.005531"
     },
     {
       "title": "あの時、愛を伝えられなかった僕の、3つの“もしも”の世界。",
       "url": "https://eiga.com/movie/104311/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104311/photo/3f9e06c33870811a/320.jpg?1759741088",
-      "scraped_at": "2025-11-04T01:18:58.062162"
+      "scraped_at": "2025-11-05T01:20:20.005596"
     },
     {
       "title": "恋人たち",
       "url": "https://eiga.com/movie/81579/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/81579/photo/8e03afe07407200b/320.jpg?1757982954",
-      "scraped_at": "2025-11-04T01:18:58.062229"
+      "scraped_at": "2025-11-05T01:20:20.005660"
     }
   ]
 }
