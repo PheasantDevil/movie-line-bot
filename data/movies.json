@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-06T01:19:54.341548",
+  "updated_at": "2025-11-07T01:19:11.194317",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/103172/",
       "release_date": "11月7日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103172/photo/bdf0b47ae2a83cd0/320.jpg?1753175053",
-      "scraped_at": "2025-11-06T01:19:53.973485"
+      "scraped_at": "2025-11-07T01:19:09.850502"
     },
     {
       "title": "旅と日々",
       "url": "https://eiga.com/movie/103711/",
       "release_date": "11月7日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103711/photo/c8bdd8932351e45b/320.jpg?1751349925",
-      "scraped_at": "2025-11-06T01:19:53.973600"
+      "scraped_at": "2025-11-07T01:19:09.850602"
+    },
+    {
+      "title": "モンテ・クリスト伯",
+      "url": "https://eiga.com/movie/103412/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/103412/photo/47ef3a33acd62d86/320.jpg?1755765698",
+      "scraped_at": "2025-11-07T01:19:09.850681"
+    },
+    {
+      "title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+      "url": "https://eiga.com/movie/104540/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104540/photo/3811107fa06165ca/320.jpg?1760924041",
+      "scraped_at": "2025-11-07T01:19:09.850757"
+    },
+    {
+      "title": "トリツカレ男",
+      "url": "https://eiga.com/movie/103978/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/103978/photo/cddf5e042ca74233/320.jpg?1756862423",
+      "scraped_at": "2025-11-07T01:19:09.850833"
+    },
+    {
+      "title": "視える",
+      "url": "https://eiga.com/movie/104469/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104469/photo/17fbc865d108a156/320.jpg?1755247374",
+      "scraped_at": "2025-11-07T01:19:09.850905"
+    },
+    {
+      "title": "ボンヘッファー ヒトラーを暗殺しようとした牧師",
+      "url": "https://eiga.com/movie/102966/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/102966/photo/9d6d688e917653d3/320.jpg?1755654580",
+      "scraped_at": "2025-11-07T01:19:09.850995"
+    },
+    {
+      "title": "羅小黒戦記2 ぼくらが望む未来",
+      "url": "https://eiga.com/movie/103562/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/103562/photo/612f893c25979a4d/320.jpg?1761875095",
+      "scraped_at": "2025-11-07T01:19:09.851074"
+    },
+    {
+      "title": "超特急 The Movie RE:VE",
+      "url": "https://eiga.com/movie/104429/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104429/photo/de5afc0f9fb6eed5/320.jpg?1758848112",
+      "scraped_at": "2025-11-07T01:19:09.851143"
+    },
+    {
+      "title": "ネバーランド・ナイトメア",
+      "url": "https://eiga.com/movie/104415/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104415/photo/3257f530e4460351/320.jpg?1757322225",
+      "scraped_at": "2025-11-07T01:19:09.851207"
+    },
+    {
+      "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第2章",
+      "url": "https://eiga.com/movie/102751/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/102751/photo/1b454df8a81cd58b/320.jpg?1761524239",
+      "scraped_at": "2025-11-07T01:19:09.851277"
+    },
+    {
+      "title": "ぼくらの居場所",
+      "url": "https://eiga.com/movie/104496/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104496/photo/7de5abb6c76d731d/320.jpg?1755753232",
+      "scraped_at": "2025-11-07T01:19:09.851351"
+    },
+    {
+      "title": "彼女のくちづけ 感染するリビドー",
+      "url": "https://eiga.com/movie/104843/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104843/photo/d0a156857fce82b5/320.jpg?1759971596",
+      "scraped_at": "2025-11-07T01:19:09.851416"
+    },
+    {
+      "title": "ハム・オン・ライ",
+      "url": "https://eiga.com/movie/101050/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/101050/photo/08e7dda6ea366d89/320.jpg?1757560327",
+      "scraped_at": "2025-11-07T01:19:09.851480"
+    },
+    {
+      "title": "ハッパーズ・コメット",
+      "url": "https://eiga.com/movie/104592/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104592/photo/8a26e03b7c664021/320.jpg?1757321258",
+      "scraped_at": "2025-11-07T01:19:09.851543"
+    },
+    {
+      "title": "Double Role ダブルロール",
+      "url": "https://eiga.com/movie/104500/",
+      "release_date": "11月7日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104500/photo/334e70dffb376189/320.jpg?1755832313",
+      "scraped_at": "2025-11-07T01:19:09.851606"
     },
     {
       "title": "旅人の必需品",
       "url": "https://eiga.com/movie/101116/",
       "release_date": "11月1日",
       "thumbnail": "https://eiga.k-img.com/images/movie/101116/photo/80bf519c3227b023/320.jpg?1759458911",
-      "scraped_at": "2025-11-06T01:19:53.973683"
+      "scraped_at": "2025-11-07T01:19:09.851670"
     },
     {
       "title": "佐藤忠男、映画の旅",
       "url": "https://eiga.com/movie/104534/",
       "release_date": "11月1日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104534/photo/a0b7d0cc04294e80/320.jpg?1756365599",
-      "scraped_at": "2025-11-06T01:19:53.973761"
+      "scraped_at": "2025-11-07T01:19:09.851734"
     },
     {
       "title": "爆弾",
       "url": "https://eiga.com/movie/103262/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103262/photo/a217f0692449b597/320.jpg?1756804871",
-      "scraped_at": "2025-11-06T01:19:53.973840"
-    },
-    {
-      "title": "盤上の向日葵",
-      "url": "https://eiga.com/movie/101368/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/101368/photo/986966c569d4111f/320.jpg?1755162220",
-      "scraped_at": "2025-11-06T01:19:53.973916"
+      "scraped_at": "2025-11-07T01:19:09.851798"
     },
     {
       "title": "てっぺんの向こうにあなたがいる",
       "url": "https://eiga.com/movie/102290/",
       "release_date": "10月31日",
       "thumbnail": "https://eiga.k-img.com/images/movie/102290/photo/5628f462e23148c8/320.jpg?1761305790",
-      "scraped_at": "2025-11-06T01:19:53.973988"
-    },
-    {
-      "title": "（LOVE SONG）",
-      "url": "https://eiga.com/movie/103070/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/103070/photo/acbb0af480970771/320.jpg?1754613062",
-      "scraped_at": "2025-11-06T01:19:53.974068"
-    },
-    {
-      "title": "映画 すみっコぐらし 空の王国とふたりのコ",
-      "url": "https://eiga.com/movie/103615/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/103615/photo/de170045542715d5/320.jpg?1756165839",
-      "scraped_at": "2025-11-06T01:19:53.974141"
-    },
-    {
-      "title": "特別編集版 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント 小さな挑戦者の軌跡",
-      "url": "https://eiga.com/movie/104350/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104350/photo/ff41c747598a1e29/320.jpg?1753422653",
-      "scraped_at": "2025-11-06T01:19:53.974209"
-    },
-    {
-      "title": "火の華",
-      "url": "https://eiga.com/movie/102186/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/102186/photo/c37d36b0a3c2493b/320.jpg?1727931445",
-      "scraped_at": "2025-11-06T01:19:53.974276"
-    },
-    {
-      "title": "SPIRIT WORLD スピリットワールド",
-      "url": "https://eiga.com/movie/102499/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/102499/photo/41cc820667a4f5e9/320.jpg?1743376621",
-      "scraped_at": "2025-11-06T01:19:53.974342"
-    },
-    {
-      "title": "劇場先行版「ゴールデンカムイ」札幌ビール工場編 後編",
-      "url": "https://eiga.com/movie/104310/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104310/photo/d9231ab537d39a16/320.jpg?1755693194",
-      "scraped_at": "2025-11-06T01:19:53.974407"
-    },
-    {
-      "title": "INI THE MOVIE「I Need I」",
-      "url": "https://eiga.com/movie/104118/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104118/photo/5cd0c434ddb43c17/320.jpg?1757394393",
-      "scraped_at": "2025-11-06T01:19:53.974493"
-    },
-    {
-      "title": "ひとつの机、ふたつの制服",
-      "url": "https://eiga.com/movie/104344/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104344/photo/ae8ef07a3b9b122d/320.jpg?1753347353",
-      "scraped_at": "2025-11-06T01:19:53.974561"
-    },
-    {
-      "title": "サムシング・ハプンズ・トゥ・ミー",
-      "url": "https://eiga.com/movie/104691/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104691/photo/de86d616292aef94/320.jpg?1758762981",
-      "scraped_at": "2025-11-06T01:19:53.974627"
-    },
-    {
-      "title": "プロジェクト・カグヤ",
-      "url": "https://eiga.com/movie/104139/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104139/photo/748e8c85a98d2a2b/320.jpg?1761268027",
-      "scraped_at": "2025-11-06T01:19:53.974693"
-    },
-    {
-      "title": "2021 BTS MUSTER SOWOOZOO 4Kリマスター特別編集版",
-      "url": "https://eiga.com/movie/104488/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104488/photo/399d8f3015029e34/320.jpg?1758696770",
-      "scraped_at": "2025-11-06T01:19:53.974758"
-    },
-    {
-      "title": "エニシング・ゴーズ",
-      "url": "https://eiga.com/movie/103296/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/103296/photo/a386300c4dd4b189/320.jpg?1761033987",
-      "scraped_at": "2025-11-06T01:19:53.974824"
-    },
-    {
-      "title": "じっちゃ！",
-      "url": "https://eiga.com/movie/104521/",
-      "release_date": "10月31日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104521/photo/26c9478733d0477f/320.jpg?1756122785",
-      "scraped_at": "2025-11-06T01:19:53.974889"
+      "scraped_at": "2025-11-07T01:19:09.851861"
     }
   ]
 }
