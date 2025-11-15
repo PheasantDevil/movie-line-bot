@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-14T01:19:44.330467",
+  "updated_at": "2025-11-15T01:17:36.452884",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/104379/",
       "release_date": "11月15日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104379/photo/8e4b892c972961e9/320.jpg?1754031587",
-      "scraped_at": "2025-11-14T01:19:43.842933"
+      "scraped_at": "2025-11-15T01:17:36.149898"
     },
     {
-      "title": "ブルーボーイ事件",
-      "url": "https://eiga.com/movie/103622/",
-      "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/103622/photo/6d2ce832b6b1e503/320.jpg?1756976964",
-      "scraped_at": "2025-11-14T01:19:43.843037"
+      "title": "精霊",
+      "url": "https://eiga.com/movie/104762/",
+      "release_date": "11月15日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104762/photo/fb05fa6c93fcf1b3/320.jpg?1760956982",
+      "scraped_at": "2025-11-15T01:17:36.150004"
+    },
+    {
+      "title": "東京フィスト",
+      "url": "https://eiga.com/movie/38066/",
+      "release_date": "11月15日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/38066/photo/2c20066eeb0617a2/320.jpg?1760528292",
+      "scraped_at": "2025-11-15T01:17:36.150086"
+    },
+    {
+      "title": "話したりない夜の果て Days gone by",
+      "url": "https://eiga.com/movie/97108/",
+      "release_date": "11月15日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/97108/photo/58e4d96bd2c2893d/320.jpg?1757483471",
+      "scraped_at": "2025-11-15T01:17:36.150166"
+    },
+    {
+      "title": "ベ・ラ・ミ 気になるあなた",
+      "url": "https://eiga.com/movie/104823/",
+      "release_date": "11月15日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104823/photo/7705e8e67641cb45/320.jpg?1759731970",
+      "scraped_at": "2025-11-15T01:17:36.150246"
     },
     {
       "title": "港のひかり",
       "url": "https://eiga.com/movie/100680/",
       "release_date": "11月14日",
       "thumbnail": "https://eiga.k-img.com/images/movie/100680/photo/35fcc36d1972e246/320.jpg?1753073564",
-      "scraped_at": "2025-11-14T01:19:43.843117"
-    },
-    {
-      "title": "スプリングスティーン 孤独のハイウェイ",
-      "url": "https://eiga.com/movie/103998/",
-      "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/103998/photo/6d5f3e9bd377065c/320.jpg?1754539391",
-      "scraped_at": "2025-11-14T01:19:43.843193"
+      "scraped_at": "2025-11-15T01:17:36.150322"
     },
     {
       "title": "平場の月",
       "url": "https://eiga.com/movie/103112/",
       "release_date": "11月14日",
       "thumbnail": "https://eiga.k-img.com/images/movie/103112/photo/13df91e29741d037/320.jpg?1756364918",
-      "scraped_at": "2025-11-14T01:19:43.843270"
+      "scraped_at": "2025-11-15T01:17:36.150392"
     },
     {
-      "title": "君の顔では泣けない",
-      "url": "https://eiga.com/movie/103928/",
+      "title": "スプリングスティーン 孤独のハイウェイ",
+      "url": "https://eiga.com/movie/103998/",
       "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/103928/photo/2154ac8e7ba639fc/320.jpg?1760257211",
-      "scraped_at": "2025-11-14T01:19:43.843344"
+      "thumbnail": "https://eiga.k-img.com/images/movie/103998/photo/6d5f3e9bd377065c/320.jpg?1754539391",
+      "scraped_at": "2025-11-15T01:17:36.150467"
     },
     {
-      "title": "天使のたまご",
-      "url": "https://eiga.com/movie/57862/",
+      "title": "ブルーボーイ事件",
+      "url": "https://eiga.com/movie/103622/",
       "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/57862/photo/7e5262ab7db51914/320.jpg?1755736200",
-      "scraped_at": "2025-11-14T01:19:43.843432"
-    },
-    {
-      "title": "銀魂 THE FINAL",
-      "url": "https://eiga.com/movie/91638/",
-      "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/91638/photo/8b1563393d91acd1/320.jpg?1603338809",
-      "scraped_at": "2025-11-14T01:19:43.843510"
+      "thumbnail": "https://eiga.k-img.com/images/movie/103622/photo/6d2ce832b6b1e503/320.jpg?1756976964",
+      "scraped_at": "2025-11-15T01:17:36.150537"
     },
     {
       "title": "KILL 超覚醒",
       "url": "https://eiga.com/movie/101367/",
       "release_date": "11月14日",
       "thumbnail": "https://eiga.k-img.com/images/movie/101367/photo/26ab19cc9568eaa0/320.jpg?1737620982",
-      "scraped_at": "2025-11-14T01:19:43.843580"
+      "scraped_at": "2025-11-15T01:17:36.150610"
     },
     {
-      "title": "プリンス サイン・オブ・ザ・タイムズ",
-      "url": "https://eiga.com/movie/48917/",
+      "title": "君の顔では泣けない",
+      "url": "https://eiga.com/movie/103928/",
       "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/48917/photo/63d13c3470f917d5/320.jpg?1758760202",
-      "scraped_at": "2025-11-14T01:19:43.843648"
-    },
-    {
-      "title": "フレッシュ・デリ",
-      "url": "https://eiga.com/movie/26605/",
-      "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/26605/photo/7d47991a3397d8de/320.jpg?1762234245",
-      "scraped_at": "2025-11-14T01:19:43.843721"
+      "thumbnail": "https://eiga.k-img.com/images/movie/103928/photo/2154ac8e7ba639fc/320.jpg?1760257211",
+      "scraped_at": "2025-11-15T01:17:36.150679"
     },
     {
       "title": "阪神タイガース THE OFFICIAL MOVIE 2025 栄光の虎道（こどう）",
       "url": "https://eiga.com/movie/104847/",
       "release_date": "11月14日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104847/photo/97d859ecd3f37a91/320.jpg?1762253758",
-      "scraped_at": "2025-11-14T01:19:43.843793"
+      "scraped_at": "2025-11-15T01:17:36.150768"
     },
     {
-      "title": "劇場版総集編 ガールズバンドクライ 後編 なぁ、未来。",
-      "url": "https://eiga.com/movie/102472/",
+      "title": "天使のたまご",
+      "url": "https://eiga.com/movie/57862/",
       "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/102472/photo/89e6bff980355355/320.jpg?1759750982",
-      "scraped_at": "2025-11-14T01:19:43.843858"
-    },
-    {
-      "title": "君と私",
-      "url": "https://eiga.com/movie/104246/",
-      "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104246/photo/c70394cd86555317/320.jpg?1757645786",
-      "scraped_at": "2025-11-14T01:19:43.843923"
+      "thumbnail": "https://eiga.k-img.com/images/movie/57862/photo/7e5262ab7db51914/320.jpg?1755736200",
+      "scraped_at": "2025-11-15T01:17:36.150839"
     },
     {
       "title": "ヱヴァンゲリヲン新劇場版：序",
       "url": "https://eiga.com/movie/34139/",
       "release_date": "11月14日",
       "thumbnail": "https://eiga.k-img.com/images/movie/34139/photo/cc1a2d0e6c0d6c9d/320.jpg?1396887189",
-      "scraped_at": "2025-11-14T01:19:43.843995"
+      "scraped_at": "2025-11-15T01:17:36.150905"
     },
     {
-      "title": "SCREAM BOAT スクリームボート",
-      "url": "https://eiga.com/movie/104853/",
+      "title": "銀魂 THE FINAL",
+      "url": "https://eiga.com/movie/91638/",
       "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/104853/photo/f3f2a58ec8dc8307/320.jpg?1760071883",
-      "scraped_at": "2025-11-14T01:19:43.844061"
+      "thumbnail": "https://eiga.k-img.com/images/movie/91638/photo/8b1563393d91acd1/320.jpg?1603338809",
+      "scraped_at": "2025-11-15T01:17:36.150972"
+    },
+    {
+      "title": "プリンス サイン・オブ・ザ・タイムズ",
+      "url": "https://eiga.com/movie/48917/",
+      "release_date": "11月14日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/48917/photo/63d13c3470f917d5/320.jpg?1758760202",
+      "scraped_at": "2025-11-15T01:17:36.151039"
+    },
+    {
+      "title": "劇場版総集編 ガールズバンドクライ 後編 なぁ、未来。",
+      "url": "https://eiga.com/movie/102472/",
+      "release_date": "11月14日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/102472/photo/89e6bff980355355/320.jpg?1759750982",
+      "scraped_at": "2025-11-15T01:17:36.151105"
+    },
+    {
+      "title": "君と私",
+      "url": "https://eiga.com/movie/104246/",
+      "release_date": "11月14日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/104246/photo/c70394cd86555317/320.jpg?1757645786",
+      "scraped_at": "2025-11-15T01:17:36.151170"
+    },
+    {
+      "title": "フレッシュ・デリ",
+      "url": "https://eiga.com/movie/26605/",
+      "release_date": "11月14日",
+      "thumbnail": "https://eiga.k-img.com/images/movie/26605/photo/7d47991a3397d8de/320.jpg?1762234245",
+      "scraped_at": "2025-11-15T01:17:36.151236"
     },
     {
       "title": "ラブル＆クルー IN シアター",
       "url": "https://eiga.com/movie/104532/",
       "release_date": "11月14日",
       "thumbnail": "https://eiga.k-img.com/images/movie/104532/photo/c7f50bf399c99053/320.jpg?1756277793",
-      "scraped_at": "2025-11-14T01:19:43.844125"
-    },
-    {
-      "title": "アダムズ・アップル",
-      "url": "https://eiga.com/movie/86203/",
-      "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/86203/photo/d0bb00c96ce21f7e/320.jpg?1762764031",
-      "scraped_at": "2025-11-14T01:19:43.844191"
-    },
-    {
-      "title": "アニキ・ボボ",
-      "url": "https://eiga.com/movie/82106/",
-      "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/82106/photo/07384dd5236e2f53/320.jpg?1758168192",
-      "scraped_at": "2025-11-14T01:19:43.844261"
-    },
-    {
-      "title": "アフター・ウェディング",
-      "url": "https://eiga.com/movie/34268/",
-      "release_date": "11月14日",
-      "thumbnail": "https://eiga.k-img.com/images/movie/34268/photo/971106dc5ff3a399/320.jpg?1760577016",
-      "scraped_at": "2025-11-14T01:19:43.844329"
+      "scraped_at": "2025-11-15T01:17:36.151301"
     }
   ]
 }
