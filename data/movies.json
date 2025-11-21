@@ -1,146 +1,62 @@
 {
-  "updated_at": "2025-11-20T01:18:15.144247",
-  "count": 20,
+  "updated_at": "2025-11-21T01:18:57.674050",
+  "count": 8,
   "movies": [
     {
       "title": "道草キッチン",
       "url": "https://eiga.com/movie/102505/",
       "release_date": "11月22日",
       "thumbnail": "https://media.eiga.com/images/movie/102505/photo/655ed7798e589426/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.447811"
+      "scraped_at": "2025-11-21T01:18:56.485687"
     },
     {
       "title": "名無しの子",
       "url": "https://eiga.com/movie/104829/",
       "release_date": "11月21日",
       "thumbnail": "https://media.eiga.com/images/movie/104829/photo/b86cf8085519f224/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.447919"
+      "scraped_at": "2025-11-21T01:18:56.485794"
     },
     {
-      "title": "INFINITE 15TH ANNIVERSARY CONCERT LIMITED EDITION THE MOVIE",
-      "url": "https://eiga.com/movie/104639/",
+      "title": "ブラックフォン 2",
+      "url": "https://eiga.com/movie/104743/",
       "release_date": "11月21日",
-      "thumbnail": "https://media.eiga.com/images/movie/104639/photo/2a2f420015365054/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.447997"
+      "thumbnail": "https://media.eiga.com/images/movie/104743/photo/13e599f07e2bbf16/320.jpg",
+      "scraped_at": "2025-11-21T01:18:56.485873"
     },
     {
       "title": "はだしのゲンはまだ怒っている",
       "url": "https://eiga.com/movie/104379/",
       "release_date": "11月15日",
       "thumbnail": "https://media.eiga.com/images/movie/104379/photo/8e4b892c972961e9/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448080"
+      "scraped_at": "2025-11-21T01:18:56.485950"
     },
     {
       "title": "精霊",
       "url": "https://eiga.com/movie/104762/",
       "release_date": "11月15日",
       "thumbnail": "https://media.eiga.com/images/movie/104762/photo/fb05fa6c93fcf1b3/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448157"
+      "scraped_at": "2025-11-21T01:18:56.486027"
     },
     {
       "title": "東京フィスト",
       "url": "https://eiga.com/movie/38066/",
       "release_date": "11月15日",
       "thumbnail": "https://media.eiga.com/images/movie/38066/photo/2c20066eeb0617a2/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448234"
+      "scraped_at": "2025-11-21T01:18:56.486101"
     },
     {
       "title": "話したりない夜の果て Days gone by",
       "url": "https://eiga.com/movie/97108/",
       "release_date": "11月15日",
       "thumbnail": "https://media.eiga.com/images/movie/97108/photo/58e4d96bd2c2893d/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448303"
+      "scraped_at": "2025-11-21T01:18:56.486171"
     },
     {
       "title": "ベ・ラ・ミ 気になるあなた",
       "url": "https://eiga.com/movie/104823/",
       "release_date": "11月15日",
       "thumbnail": "https://media.eiga.com/images/movie/104823/photo/7705e8e67641cb45/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448375"
-    },
-    {
-      "title": "港のひかり",
-      "url": "https://eiga.com/movie/100680/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/100680/photo/35fcc36d1972e246/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448444"
-    },
-    {
-      "title": "平場の月",
-      "url": "https://eiga.com/movie/103112/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/103112/photo/13df91e29741d037/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448510"
-    },
-    {
-      "title": "スプリングスティーン 孤独のハイウェイ",
-      "url": "https://eiga.com/movie/103998/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/103998/photo/6d5f3e9bd377065c/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448576"
-    },
-    {
-      "title": "ブルーボーイ事件",
-      "url": "https://eiga.com/movie/103622/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/103622/photo/6d2ce832b6b1e503/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448662"
-    },
-    {
-      "title": "KILL 超覚醒",
-      "url": "https://eiga.com/movie/101367/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/101367/photo/26ab19cc9568eaa0/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448729"
-    },
-    {
-      "title": "君の顔では泣けない",
-      "url": "https://eiga.com/movie/103928/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/103928/photo/2154ac8e7ba639fc/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448793"
-    },
-    {
-      "title": "阪神タイガース THE OFFICIAL MOVIE 2025 栄光の虎道（こどう）",
-      "url": "https://eiga.com/movie/104847/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/104847/photo/97d859ecd3f37a91/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448857"
-    },
-    {
-      "title": "天使のたまご",
-      "url": "https://eiga.com/movie/57862/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/57862/photo/7e5262ab7db51914/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448923"
-    },
-    {
-      "title": "ヱヴァンゲリヲン新劇場版：序",
-      "url": "https://eiga.com/movie/34139/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/34139/photo/cc1a2d0e6c0d6c9d/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.448987"
-    },
-    {
-      "title": "銀魂 THE FINAL",
-      "url": "https://eiga.com/movie/91638/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/91638/photo/8b1563393d91acd1/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.449052"
-    },
-    {
-      "title": "プリンス サイン・オブ・ザ・タイムズ",
-      "url": "https://eiga.com/movie/48917/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/48917/photo/63d13c3470f917d5/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.449116"
-    },
-    {
-      "title": "劇場版総集編 ガールズバンドクライ 後編 なぁ、未来。",
-      "url": "https://eiga.com/movie/102472/",
-      "release_date": "11月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/102472/photo/89e6bff980355355/320.jpg",
-      "scraped_at": "2025-11-20T01:18:14.449180"
+      "scraped_at": "2025-11-21T01:18:56.486243"
     }
   ]
 }
