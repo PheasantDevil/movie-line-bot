@@ -1,62 +1,146 @@
 {
-  "updated_at": "2025-11-21T01:18:57.674050",
-  "count": 8,
+  "updated_at": "2025-11-22T01:16:21.788719",
+  "count": 20,
   "movies": [
     {
       "title": "道草キッチン",
       "url": "https://eiga.com/movie/102505/",
       "release_date": "11月22日",
       "thumbnail": "https://media.eiga.com/images/movie/102505/photo/655ed7798e589426/320.jpg",
-      "scraped_at": "2025-11-21T01:18:56.485687"
+      "scraped_at": "2025-11-22T01:16:20.803928"
+    },
+    {
+      "title": "医の倫理と戦争",
+      "url": "https://eiga.com/movie/103837/",
+      "release_date": "11月22日",
+      "thumbnail": "https://media.eiga.com/images/movie/103837/photo/0fed3e0b97818296/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804032"
+    },
+    {
+      "title": "サイレントナイト",
+      "url": "https://eiga.com/movie/104739/",
+      "release_date": "11月22日",
+      "thumbnail": "https://media.eiga.com/images/movie/104739/photo/540a2585d0dd72c7/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804112"
+    },
+    {
+      "title": "潜行一千里 ILHA FORMOSA（イラ・フォルモサ）",
+      "url": "https://eiga.com/movie/104694/",
+      "release_date": "11月22日",
+      "thumbnail": "https://media.eiga.com/images/movie/104694/photo/704b8716810a1aec/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804206"
+    },
+    {
+      "title": "遠くへいきたいわ",
+      "url": "https://eiga.com/movie/96408/",
+      "release_date": "11月22日",
+      "thumbnail": "https://media.eiga.com/images/movie/96408/photo/87f09beac4430f71/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804288"
+    },
+    {
+      "title": "もういちどみつめる",
+      "url": "https://eiga.com/movie/104444/",
+      "release_date": "11月22日",
+      "thumbnail": "https://media.eiga.com/images/movie/104444/photo/9a95d4f4efe20844/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804362"
+    },
+    {
+      "title": "Lilypop",
+      "url": "https://eiga.com/movie/104623/",
+      "release_date": "11月22日",
+      "thumbnail": "https://media.eiga.com/images/movie/104623/photo/7d2bda4ab986cdae/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804433"
+    },
+    {
+      "title": "TOKYOタクシー",
+      "url": "https://eiga.com/movie/103285/",
+      "release_date": "11月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/103285/photo/1d5aacad7b211852/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804507"
+    },
+    {
+      "title": "果てしなきスカーレット",
+      "url": "https://eiga.com/movie/103145/",
+      "release_date": "11月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/103145/photo/683e9ddae6211da7/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804577"
     },
     {
       "title": "名無しの子",
       "url": "https://eiga.com/movie/104829/",
       "release_date": "11月21日",
       "thumbnail": "https://media.eiga.com/images/movie/104829/photo/b86cf8085519f224/320.jpg",
-      "scraped_at": "2025-11-21T01:18:56.485794"
+      "scraped_at": "2025-11-22T01:16:20.804650"
+    },
+    {
+      "title": "落下の王国 4Kデジタルリマスター",
+      "url": "https://eiga.com/movie/104560/",
+      "release_date": "11月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/104560/photo/ca0e8a1234e6860b/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804719"
+    },
+    {
+      "title": "金髪",
+      "url": "https://eiga.com/movie/103966/",
+      "release_date": "11月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/103966/photo/d005a84279fa3037/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804786"
     },
     {
       "title": "ブラックフォン 2",
       "url": "https://eiga.com/movie/104743/",
       "release_date": "11月21日",
       "thumbnail": "https://media.eiga.com/images/movie/104743/photo/13e599f07e2bbf16/320.jpg",
-      "scraped_at": "2025-11-21T01:18:56.485873"
+      "scraped_at": "2025-11-22T01:16:20.804852"
     },
     {
-      "title": "はだしのゲンはまだ怒っている",
-      "url": "https://eiga.com/movie/104379/",
-      "release_date": "11月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/104379/photo/8e4b892c972961e9/320.jpg",
-      "scraped_at": "2025-11-21T01:18:56.485950"
+      "title": "サウンド・オブ・ミュージック",
+      "url": "https://eiga.com/movie/44737/",
+      "release_date": "11月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/44737/photo/0d922f86b4a80bff/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804916"
     },
     {
-      "title": "精霊",
-      "url": "https://eiga.com/movie/104762/",
-      "release_date": "11月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/104762/photo/fb05fa6c93fcf1b3/320.jpg",
-      "scraped_at": "2025-11-21T01:18:56.486027"
+      "title": "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?） ネクストシャイン！",
+      "url": "https://eiga.com/movie/104683/",
+      "release_date": "11月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/104683/photo/ab5c2663b601d542/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.804981"
     },
     {
-      "title": "東京フィスト",
-      "url": "https://eiga.com/movie/38066/",
-      "release_date": "11月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/38066/photo/2c20066eeb0617a2/320.jpg",
-      "scraped_at": "2025-11-21T01:18:56.486101"
+      "title": "ドミニク 孤高の反逆者",
+      "url": "https://eiga.com/movie/104524/",
+      "release_date": "11月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/104524/photo/e28b15ed5b9c20db/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.805051"
     },
     {
-      "title": "話したりない夜の果て Days gone by",
-      "url": "https://eiga.com/movie/97108/",
-      "release_date": "11月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/97108/photo/58e4d96bd2c2893d/320.jpg",
-      "scraped_at": "2025-11-21T01:18:56.486171"
+      "title": "GENERATIONS：The Documentary",
+      "url": "https://eiga.com/movie/104668/",
+      "release_date": "11月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/104668/photo/23316d7a82f27208/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.805118"
     },
     {
-      "title": "ベ・ラ・ミ 気になるあなた",
-      "url": "https://eiga.com/movie/104823/",
-      "release_date": "11月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/104823/photo/7705e8e67641cb45/320.jpg",
-      "scraped_at": "2025-11-21T01:18:56.486243"
+      "title": "ガールズ＆パンツァー 劇場版",
+      "url": "https://eiga.com/movie/78660/",
+      "release_date": "11月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/78660/photo/cf3064a6c5a0b75f/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.805207"
+    },
+    {
+      "title": "いってきます。",
+      "url": "https://eiga.com/movie/104679/",
+      "release_date": "11月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/104679/photo/2a18e203f26535b0/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.805278"
+    },
+    {
+      "title": "今を紡ぐ明日",
+      "url": "https://eiga.com/movie/104714/",
+      "release_date": "11月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/104714/photo/4f42807e86b20b54/320.jpg",
+      "scraped_at": "2025-11-22T01:16:20.805344"
     }
   ]
 }
