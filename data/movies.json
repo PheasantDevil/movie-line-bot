@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-01T01:44:17.069486",
+  "updated_at": "2025-12-02T01:21:34.983043",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/102048/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/102048/photo/45c318a510d3ccf8/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.712273"
+      "scraped_at": "2025-12-02T01:21:34.895900"
     },
     {
-      "title": "大怪獣決闘 ガメラ対バルゴン",
-      "url": "https://eiga.com/movie/35673/",
+      "title": "大怪獣空中戦 ガメラ対ギャオス",
+      "url": "https://eiga.com/movie/35674/",
       "release_date": "12月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/35673/photo/129640a107aae52d/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.712366"
+      "thumbnail": "https://media.eiga.com/images/movie/35674/photo/3c2a1fa5d9a803cc/320.jpg",
+      "scraped_at": "2025-12-02T01:21:34.896005"
     },
     {
       "title": "みんな、おしゃべり！",
       "url": "https://eiga.com/movie/103878/",
       "release_date": "11月29日",
       "thumbnail": "https://media.eiga.com/images/movie/103878/photo/650f8d0012aa347c/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.712434"
+      "scraped_at": "2025-12-02T01:21:34.896089"
     },
     {
       "title": "アフター・オール・ディーズ・イヤーズ",
       "url": "https://eiga.com/movie/77497/",
       "release_date": "11月29日",
       "thumbnail": "https://media.eiga.com/images/movie/77497/photo/e955f21552b65486/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.712500"
+      "scraped_at": "2025-12-02T01:21:34.896168"
     },
     {
       "title": "明日に向かって演（や）れ！",
       "url": "https://eiga.com/movie/104613/",
       "release_date": "11月29日",
       "thumbnail": "https://media.eiga.com/images/movie/104613/photo/1df154d5a74ff95a/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.712621"
-    },
-    {
-      "title": "映画版「WE-入口と世界の出口」",
-      "url": "https://eiga.com/movie/104834/",
-      "release_date": "11月29日",
-      "thumbnail": "https://media.eiga.com/images/movie/104834/photo/ca845e2aeecb02b1/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.712688"
+      "scraped_at": "2025-12-02T01:21:34.896265"
     },
     {
       "title": "脱出の最中",
       "url": "https://eiga.com/movie/104888/",
       "release_date": "11月29日",
       "thumbnail": "https://media.eiga.com/images/movie/104888/photo/856a37436d8a2fee/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.712750"
+      "scraped_at": "2025-12-02T01:21:34.896345"
+    },
+    {
+      "title": "映画版「WE-入口と世界の出口」",
+      "url": "https://eiga.com/movie/104834/",
+      "release_date": "11月29日",
+      "thumbnail": "https://media.eiga.com/images/movie/104834/photo/ca845e2aeecb02b1/320.jpg",
+      "scraped_at": "2025-12-02T01:21:34.896417"
     },
     {
       "title": "栄光のバックホーム",
       "url": "https://eiga.com/movie/104264/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/104264/photo/c0b44193c691d7c3/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.712849"
+      "scraped_at": "2025-12-02T01:21:34.896497"
     },
     {
       "title": "ナイトフラワー",
       "url": "https://eiga.com/movie/103293/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/103293/photo/4e67475e5f302e71/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.712914"
+      "scraped_at": "2025-12-02T01:21:34.896569"
     },
     {
       "title": "WEAPONS ウェポンズ",
       "url": "https://eiga.com/movie/104442/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/104442/photo/d78177672ab52f8f/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.712973"
+      "scraped_at": "2025-12-02T01:21:34.896639"
     },
     {
       "title": "兄を持ち運べるサイズに",
       "url": "https://eiga.com/movie/103708/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/103708/photo/812d3997bc917327/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.713032"
+      "scraped_at": "2025-12-02T01:21:34.896707"
     },
     {
       "title": "MGA MAGICAL 10 YEARS ANNIVERSARY LIVE FJORD（フィヨルド） ON SCREEN",
       "url": "https://eiga.com/movie/104355/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/104355/photo/37ff3e2cf6d5314a/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.713089"
+      "scraped_at": "2025-12-02T01:21:34.896774"
     },
     {
       "title": "MGA MAGICAL 10 YEARS DOCUMENTARY FILM THE ORIGIN",
       "url": "https://eiga.com/movie/103035/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/103035/photo/829a8847cd8afb4a/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.713147"
+      "scraped_at": "2025-12-02T01:21:34.896843"
     },
     {
       "title": "佐藤さんと佐藤さん",
       "url": "https://eiga.com/movie/103596/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/103596/photo/75e5a91c9e6526e5/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.713205"
+      "scraped_at": "2025-12-02T01:21:34.896909"
     },
     {
       "title": "Ryuichi Sakamoto: Diaries",
       "url": "https://eiga.com/movie/104522/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/104522/photo/0b013373277e7f0b/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.713263"
+      "scraped_at": "2025-12-02T01:21:34.896977"
     },
     {
       "title": "消滅世界",
       "url": "https://eiga.com/movie/102985/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/102985/photo/6868e847a52087c7/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.713321"
+      "scraped_at": "2025-12-02T01:21:34.897045"
     },
     {
       "title": "仮面ライダーガヴ ギルティ・パルフェ",
       "url": "https://eiga.com/movie/104536/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/104536/photo/dc106d3261404bf9/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.713381"
+      "scraped_at": "2025-12-02T01:21:34.897111"
     },
     {
       "title": "そこにきみはいて",
       "url": "https://eiga.com/movie/104440/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/104440/photo/7b62e64961a8f9e7/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.713439"
+      "scraped_at": "2025-12-02T01:21:34.897178"
     },
     {
       "title": "タイタニック",
       "url": "https://eiga.com/movie/103295/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/103295/photo/b7c702a0c063cc5e/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.713498"
+      "scraped_at": "2025-12-02T01:21:34.897262"
     },
     {
       "title": "雨が見つけた君",
       "url": "https://eiga.com/movie/103649/",
       "release_date": "11月28日",
       "thumbnail": "https://media.eiga.com/images/movie/103649/photo/7fe76fd7d693d4ab/320.jpg",
-      "scraped_at": "2025-12-01T01:44:15.713556"
+      "scraped_at": "2025-12-02T01:21:34.897333"
     }
   ]
 }
