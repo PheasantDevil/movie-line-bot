@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-06T01:18:23.123488",
+  "updated_at": "2025-12-07T01:37:40.967736",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/104669/",
       "release_date": "12月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104669/photo/2350eca8b68c592b/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.009256"
+      "scraped_at": "2025-12-07T01:37:40.865116"
     },
     {
       "title": "ブラックホールに願いを！",
       "url": "https://eiga.com/movie/104466/",
       "release_date": "12月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104466/photo/a22db6af4c060282/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.009379"
+      "scraped_at": "2025-12-07T01:37:40.865229"
+    },
+    {
+      "title": "ゆきははなである 新野の雪まつり",
+      "url": "https://eiga.com/movie/104730/",
+      "release_date": "12月6日",
+      "thumbnail": "https://media.eiga.com/images/movie/104730/photo/b0955574587888ab/320.jpg",
+      "scraped_at": "2025-12-07T01:37:40.865321"
     },
     {
       "title": "ズートピア2",
       "url": "https://eiga.com/movie/103173/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/103173/photo/99abbb9a1fa34ee6/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.009464"
+      "scraped_at": "2025-12-07T01:37:40.865402"
     },
     {
       "title": "WIND BREAKER ウィンドブレイカー",
       "url": "https://eiga.com/movie/104140/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104140/photo/5e56bc36157dc313/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.009542"
+      "scraped_at": "2025-12-07T01:37:40.865496"
     },
     {
       "title": "ペリリュー 楽園のゲルニカ",
       "url": "https://eiga.com/movie/103242/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/103242/photo/aad34a1721cd2717/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.009620"
+      "scraped_at": "2025-12-07T01:37:40.865569"
     },
     {
       "title": "天文館探偵物語",
       "url": "https://eiga.com/movie/102048/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/102048/photo/45c318a510d3ccf8/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.009694"
+      "scraped_at": "2025-12-07T01:37:40.865649"
     },
     {
       "title": "ペンギン・レッスン",
       "url": "https://eiga.com/movie/104678/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104678/photo/a376e0c7c0ab72fc/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.009765"
+      "scraped_at": "2025-12-07T01:37:40.865730"
     },
     {
       "title": "鬼平犯科帳 兇剣",
       "url": "https://eiga.com/movie/105060/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/105060/photo/7d1eb0b8b5373050/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.009839"
+      "scraped_at": "2025-12-07T01:37:40.865832"
     },
     {
       "title": "みらいのうた",
       "url": "https://eiga.com/movie/104547/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104547/photo/93cbb14b5d55cdbe/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.009907"
+      "scraped_at": "2025-12-07T01:37:40.865917"
     },
     {
       "title": "殺し屋のプロット",
       "url": "https://eiga.com/movie/104555/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104555/photo/e6a24865230e2207/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.009974"
+      "scraped_at": "2025-12-07T01:37:40.865996"
     },
     {
       "title": "夢と創造の果てに ジョン・レノン最後の詩",
       "url": "https://eiga.com/movie/104634/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104634/photo/54b4d05be31a90a3/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.010046"
+      "scraped_at": "2025-12-07T01:37:40.866088"
     },
     {
       "title": "ジャグラー ニューヨーク25時",
       "url": "https://eiga.com/movie/45324/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/45324/photo/20f624eabfef1152/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.010111"
+      "scraped_at": "2025-12-07T01:37:40.866162"
     },
     {
       "title": "12月の君へ",
       "url": "https://eiga.com/movie/104303/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104303/photo/ea821ebda2582483/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.010183"
+      "scraped_at": "2025-12-07T01:37:40.866243"
     },
     {
       "title": "鮫肌男と桃尻女",
       "url": "https://eiga.com/movie/36725/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/36725/photo/5b918adf66453e96/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.010248"
+      "scraped_at": "2025-12-07T01:37:40.866327"
     },
     {
       "title": "手に魂を込め、歩いてみれば",
       "url": "https://eiga.com/movie/104512/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104512/photo/b72f47b9d25d93c0/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.010312"
+      "scraped_at": "2025-12-07T01:37:40.866399"
     },
     {
       "title": "ピアス 刺心",
       "url": "https://eiga.com/movie/104603/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104603/photo/a65ac2e7ecaa1b08/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.010397"
+      "scraped_at": "2025-12-07T01:37:40.866467"
     },
     {
       "title": "アイドリッシュセブン First BEAT! 劇場総集編 後編",
       "url": "https://eiga.com/movie/103864/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/103864/photo/d73c768abb9f80a7/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.010465"
+      "scraped_at": "2025-12-07T01:37:40.866546"
     },
     {
       "title": "大怪獣決闘 ガメラ対バルゴン",
       "url": "https://eiga.com/movie/35673/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/35673/photo/129640a107aae52d/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.010530"
+      "scraped_at": "2025-12-07T01:37:40.866627"
     },
     {
       "title": "大怪獣ガメラ",
       "url": "https://eiga.com/movie/35672/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/35672/photo/7b3b1b002d38027b/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.010597"
-    },
-    {
-      "title": "大怪獣空中戦 ガメラ対ギャオス",
-      "url": "https://eiga.com/movie/35674/",
-      "release_date": "12月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/35674/photo/3c2a1fa5d9a803cc/320.jpg",
-      "scraped_at": "2025-12-06T01:18:23.010663"
+      "scraped_at": "2025-12-07T01:37:40.866696"
     }
   ]
 }
