@@ -1,146 +1,146 @@
 {
-  "updated_at": "2025-12-10T01:23:39.347811",
+  "updated_at": "2025-12-11T01:24:34.703228",
   "count": 20,
   "movies": [
+    {
+      "title": "UVERworld THE MOVIE: 25 to EPIPHANY",
+      "url": "https://eiga.com/movie/104979/",
+      "release_date": "12月12日",
+      "thumbnail": "https://media.eiga.com/images/movie/104979/photo/3ac98f37806beb15/320.jpg",
+      "scraped_at": "2025-12-11T01:24:34.619314"
+    },
     {
       "title": "ローリング・ストーンズ・アット・ザ・マックス",
       "url": "https://eiga.com/movie/50979/",
       "release_date": "12月10日",
       "thumbnail": "https://media.eiga.com/images/movie/50979/photo/9f170bf23e0741aa/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.216845"
+      "scraped_at": "2025-12-11T01:24:34.619418"
     },
     {
       "title": "レンタル家族",
       "url": "https://eiga.com/movie/104669/",
       "release_date": "12月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104669/photo/2350eca8b68c592b/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.216951"
+      "scraped_at": "2025-12-11T01:24:34.619495"
     },
     {
       "title": "ブラックホールに願いを！",
       "url": "https://eiga.com/movie/104466/",
       "release_date": "12月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104466/photo/a22db6af4c060282/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217031"
-    },
-    {
-      "title": "ゆきははなである 新野の雪まつり",
-      "url": "https://eiga.com/movie/104730/",
-      "release_date": "12月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/104730/photo/b0955574587888ab/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217107"
+      "scraped_at": "2025-12-11T01:24:34.619570"
     },
     {
       "title": "ズートピア2",
       "url": "https://eiga.com/movie/103173/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/103173/photo/99abbb9a1fa34ee6/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217182"
+      "scraped_at": "2025-12-11T01:24:34.619645"
     },
     {
       "title": "ペリリュー 楽園のゲルニカ",
       "url": "https://eiga.com/movie/103242/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/103242/photo/aad34a1721cd2717/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217254"
+      "scraped_at": "2025-12-11T01:24:34.619717"
     },
     {
       "title": "WIND BREAKER ウィンドブレイカー",
       "url": "https://eiga.com/movie/104140/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104140/photo/5e56bc36157dc313/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217323"
+      "scraped_at": "2025-12-11T01:24:34.619785"
     },
     {
       "title": "天文館探偵物語",
       "url": "https://eiga.com/movie/102048/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/102048/photo/45c318a510d3ccf8/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217399"
+      "scraped_at": "2025-12-11T01:24:34.619857"
     },
     {
       "title": "ペンギン・レッスン",
       "url": "https://eiga.com/movie/104678/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104678/photo/a376e0c7c0ab72fc/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217469"
+      "scraped_at": "2025-12-11T01:24:34.619925"
     },
     {
       "title": "みらいのうた",
       "url": "https://eiga.com/movie/104547/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104547/photo/93cbb14b5d55cdbe/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217536"
+      "scraped_at": "2025-12-11T01:24:34.619991"
     },
     {
       "title": "夢と創造の果てに ジョン・レノン最後の詩",
       "url": "https://eiga.com/movie/104634/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104634/photo/54b4d05be31a90a3/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217602"
+      "scraped_at": "2025-12-11T01:24:34.620084"
     },
     {
       "title": "殺し屋のプロット",
       "url": "https://eiga.com/movie/104555/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104555/photo/e6a24865230e2207/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217669"
-    },
-    {
-      "title": "ジャグラー ニューヨーク25時",
-      "url": "https://eiga.com/movie/45324/",
-      "release_date": "12月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/45324/photo/20f624eabfef1152/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217735"
-    },
-    {
-      "title": "12月の君へ",
-      "url": "https://eiga.com/movie/104303/",
-      "release_date": "12月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/104303/photo/ea821ebda2582483/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217819"
+      "scraped_at": "2025-12-11T01:24:34.620155"
     },
     {
       "title": "手に魂を込め、歩いてみれば",
       "url": "https://eiga.com/movie/104512/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104512/photo/b72f47b9d25d93c0/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217896"
+      "scraped_at": "2025-12-11T01:24:34.620224"
+    },
+    {
+      "title": "12月の君へ",
+      "url": "https://eiga.com/movie/104303/",
+      "release_date": "12月5日",
+      "thumbnail": "https://media.eiga.com/images/movie/104303/photo/ea821ebda2582483/320.jpg",
+      "scraped_at": "2025-12-11T01:24:34.620294"
+    },
+    {
+      "title": "ジャグラー ニューヨーク25時",
+      "url": "https://eiga.com/movie/45324/",
+      "release_date": "12月5日",
+      "thumbnail": "https://media.eiga.com/images/movie/45324/photo/20f624eabfef1152/320.jpg",
+      "scraped_at": "2025-12-11T01:24:34.620360"
     },
     {
       "title": "鬼平犯科帳 兇剣",
       "url": "https://eiga.com/movie/105060/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/105060/photo/7d1eb0b8b5373050/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.217964"
-    },
-    {
-      "title": "鮫肌男と桃尻女",
-      "url": "https://eiga.com/movie/36725/",
-      "release_date": "12月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/36725/photo/5b918adf66453e96/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.218031"
+      "scraped_at": "2025-12-11T01:24:34.620424"
     },
     {
       "title": "ピアス 刺心",
       "url": "https://eiga.com/movie/104603/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104603/photo/a65ac2e7ecaa1b08/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.218096"
+      "scraped_at": "2025-12-11T01:24:34.620489"
     },
     {
       "title": "アイドリッシュセブン First BEAT! 劇場総集編 後編",
       "url": "https://eiga.com/movie/103864/",
       "release_date": "12月5日",
       "thumbnail": "https://media.eiga.com/images/movie/103864/photo/d73c768abb9f80a7/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.218161"
+      "scraped_at": "2025-12-11T01:24:34.620552"
     },
     {
-      "title": "デイズ かけがえのない日々",
-      "url": "https://eiga.com/movie/105038/",
+      "title": "鮫肌男と桃尻女",
+      "url": "https://eiga.com/movie/36725/",
       "release_date": "12月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/105038/photo/f142c273152cc1ec/320.jpg",
-      "scraped_at": "2025-12-10T01:23:39.218226"
+      "thumbnail": "https://media.eiga.com/images/movie/36725/photo/5b918adf66453e96/320.jpg",
+      "scraped_at": "2025-12-11T01:24:34.620616"
+    },
+    {
+      "title": "北の食景",
+      "url": "https://eiga.com/movie/103023/",
+      "release_date": "12月5日",
+      "thumbnail": "https://media.eiga.com/images/movie/103023/photo/88e8380a44abcc22/320.jpg",
+      "scraped_at": "2025-12-11T01:24:34.620679"
     }
   ]
 }
