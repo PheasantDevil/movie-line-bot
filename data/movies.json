@@ -1,146 +1,146 @@
 {
-  "updated_at": "2025-12-14T01:38:10.621839",
+  "updated_at": "2025-12-15T01:26:42.046630",
   "count": 20,
   "movies": [
+    {
+      "title": "零へ",
+      "url": "https://eiga.com/movie/97468/",
+      "release_date": "12月15日",
+      "thumbnail": "https://media.eiga.com/images/movie/97468/photo/bde7623f57bfef7e/320.jpg",
+      "scraped_at": "2025-12-15T01:26:41.939447"
+    },
     {
       "title": "Good Luck",
       "url": "https://eiga.com/movie/104082/",
       "release_date": "12月13日",
       "thumbnail": "https://media.eiga.com/images/movie/104082/photo/02967bb6dba468ce/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.538737"
+      "scraped_at": "2025-12-15T01:26:41.939577"
     },
     {
       "title": "小川のほとりで",
       "url": "https://eiga.com/movie/102695/",
       "release_date": "12月13日",
       "thumbnail": "https://media.eiga.com/images/movie/102695/photo/8e3b8d343c9f889c/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.538845"
+      "scraped_at": "2025-12-15T01:26:41.939660"
     },
     {
       "title": "落語家の業",
       "url": "https://eiga.com/movie/104934/",
       "release_date": "12月13日",
       "thumbnail": "https://media.eiga.com/images/movie/104934/photo/5dee700fddfce7cf/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.538925"
+      "scraped_at": "2025-12-15T01:26:41.939734"
+    },
+    {
+      "title": "これからの私たち All Shall Be Well",
+      "url": "https://eiga.com/movie/104966/",
+      "release_date": "12月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/104966/photo/08c3ed77bcf04b90/320.jpg",
+      "scraped_at": "2025-12-15T01:26:41.939808"
     },
     {
       "title": "エディントンへようこそ",
       "url": "https://eiga.com/movie/103724/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/103724/photo/7cc6c489199d5f1f/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539000"
+      "scraped_at": "2025-12-15T01:26:41.939879"
     },
     {
       "title": "シャドウズ・エッジ",
       "url": "https://eiga.com/movie/104585/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/104585/photo/e3d379d08ea59df5/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539074"
+      "scraped_at": "2025-12-15T01:26:41.939947"
     },
     {
       "title": "ロマンティック・キラー",
       "url": "https://eiga.com/movie/104160/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/104160/photo/d3cfd0e431de5cdb/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539146"
+      "scraped_at": "2025-12-15T01:26:41.940048"
     },
     {
       "title": "バック・トゥ・ザ・フューチャー",
       "url": "https://eiga.com/movie/47965/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/47965/photo/a40ffc39ac5abacf/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539216"
+      "scraped_at": "2025-12-15T01:26:41.940116"
     },
     {
       "title": "悪魔祓い株式会社",
       "url": "https://eiga.com/movie/104662/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/104662/photo/5968774ccc1b01a3/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539288"
-    },
-    {
-      "title": "プラハの春 不屈のラジオ報道",
-      "url": "https://eiga.com/movie/104445/",
-      "release_date": "12月12日",
-      "thumbnail": "https://media.eiga.com/images/movie/104445/photo/0ea30155cce89ee9/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539354"
+      "scraped_at": "2025-12-15T01:26:41.940188"
     },
     {
       "title": "シェルビー・オークス",
       "url": "https://eiga.com/movie/104641/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/104641/photo/214d1b75127ef302/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539418"
+      "scraped_at": "2025-12-15T01:26:41.940254"
+    },
+    {
+      "title": "プラハの春 不屈のラジオ報道",
+      "url": "https://eiga.com/movie/104445/",
+      "release_date": "12月12日",
+      "thumbnail": "https://media.eiga.com/images/movie/104445/photo/0ea30155cce89ee9/320.jpg",
+      "scraped_at": "2025-12-15T01:26:41.940317"
     },
     {
       "title": "バーフバリ エピック4K",
       "url": "https://eiga.com/movie/104919/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/104919/photo/b9ecb2dae638d952/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539482"
+      "scraped_at": "2025-12-15T01:26:41.940382"
+    },
+    {
+      "title": "Black Box Diaries",
+      "url": "https://eiga.com/movie/100859/",
+      "release_date": "12月12日",
+      "thumbnail": "https://media.eiga.com/images/movie/100859/photo/6c74c84e4d964a26/320.jpg",
+      "scraped_at": "2025-12-15T01:26:41.940444"
     },
     {
       "title": "UVERworld THE MOVIE: 25 to EPIPHANY",
       "url": "https://eiga.com/movie/104979/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/104979/photo/3ac98f37806beb15/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539547"
+      "scraped_at": "2025-12-15T01:26:41.940507"
     },
     {
       "title": "ヱヴァンゲリヲン新劇場版：破",
       "url": "https://eiga.com/movie/53380/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/53380/photo/d02aabc464489a2c/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539611"
+      "scraped_at": "2025-12-15T01:26:41.940570"
     },
     {
       "title": "THE END（ジ・エンド）",
       "url": "https://eiga.com/movie/104862/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/104862/photo/acd0db87e980d431/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539690"
-    },
-    {
-      "title": "セフレの品格（プライド） 終恋",
-      "url": "https://eiga.com/movie/104722/",
-      "release_date": "12月12日",
-      "thumbnail": "https://media.eiga.com/images/movie/104722/photo/5f223af17d491b62/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539766"
+      "scraped_at": "2025-12-15T01:26:41.940633"
     },
     {
       "title": "MARINES DOCUMENTARY 2025 すべての敗れざる者たちへ",
       "url": "https://eiga.com/movie/104981/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/104981/photo/5412ce178720cd21/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539832"
+      "scraped_at": "2025-12-15T01:26:41.940696"
     },
     {
-      "title": "ダーク・スター",
-      "url": "https://eiga.com/movie/18874/",
+      "title": "セフレの品格（プライド） 終恋",
+      "url": "https://eiga.com/movie/104722/",
       "release_date": "12月12日",
-      "thumbnail": "https://media.eiga.com/images/movie/18874/photo/9fb9d7797667a5cb/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539897"
+      "thumbnail": "https://media.eiga.com/images/movie/104722/photo/5f223af17d491b62/320.jpg",
+      "scraped_at": "2025-12-15T01:26:41.940765"
     },
     {
       "title": "映画 きかんしゃトーマス サンタをさがせ！パーシーのクリスマス急行",
       "url": "https://eiga.com/movie/104173/",
       "release_date": "12月12日",
       "thumbnail": "https://media.eiga.com/images/movie/104173/photo/902b40b36184dd8a/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.539962"
-    },
-    {
-      "title": "METライブビューイング2025-26 プッチーニ《ラ・ボエーム》",
-      "url": "https://eiga.com/movie/104186/",
-      "release_date": "12月12日",
-      "thumbnail": "https://media.eiga.com/images/movie/104186/photo/26b46dcd428f838a/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.540026"
-    },
-    {
-      "title": "ガスト・アップ",
-      "url": "https://eiga.com/movie/104854/",
-      "release_date": "12月12日",
-      "thumbnail": "https://media.eiga.com/images/movie/104854/photo/ab38acd12f92faa1/320.jpg",
-      "scraped_at": "2025-12-14T01:38:10.540089"
+      "scraped_at": "2025-12-15T01:26:41.940828"
     }
   ]
 }
