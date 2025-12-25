@@ -1,139 +1,139 @@
 {
-  "updated_at": "2025-12-24T01:23:23.104322",
+  "updated_at": "2025-12-25T01:24:27.592475",
   "count": 19,
   "movies": [
+    {
+      "title": "ジョージ・マイケル 栄光の輝きと心の闇",
+      "url": "https://eiga.com/movie/104692/",
+      "release_date": "12月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/104692/photo/2eee1a36d493e8e3/320.jpg",
+      "scraped_at": "2025-12-25T01:24:27.506060"
+    },
+    {
+      "title": "翔んだタックル大旋風",
+      "url": "https://eiga.com/movie/103706/",
+      "release_date": "12月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/103706/photo/ae1edfd9736fce73/320.jpg",
+      "scraped_at": "2025-12-25T01:24:27.506164"
+    },
+    {
+      "title": "ナショナル・シアター・ライブ「インター・エイリア」",
+      "url": "https://eiga.com/movie/104635/",
+      "release_date": "12月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/104635/photo/51402927b25199f4/320.jpg",
+      "scraped_at": "2025-12-25T01:24:27.506245"
+    },
     {
       "title": "映画ラストマン FIRST LOVE",
       "url": "https://eiga.com/movie/103903/",
       "release_date": "12月24日",
       "thumbnail": "https://media.eiga.com/images/movie/103903/photo/4416d0bc72679d73/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.880993"
+      "scraped_at": "2025-12-25T01:24:27.506325"
     },
     {
       "title": "Nissy Entertainment “Re:10th Anniversary Final” BEST DOME TOUR “The Movie”",
       "url": "https://eiga.com/movie/105127/",
       "release_date": "12月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105127/photo/5974bbed0f5f704b/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881103"
+      "scraped_at": "2025-12-25T01:24:27.506424"
     },
     {
       "title": "Nissy Documentary Movie “Re:10th Anniversary Final” BEST DOME TOUR",
       "url": "https://eiga.com/movie/105128/",
       "release_date": "12月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105128/photo/1a129cd32b2a5cd0/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881185"
+      "scraped_at": "2025-12-25T01:24:27.506506"
     },
     {
       "title": "ポンヌフの恋人",
       "url": "https://eiga.com/movie/55905/",
       "release_date": "12月20日",
       "thumbnail": "https://media.eiga.com/images/movie/55905/photo/b51539280c2dbe2a/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881265"
+      "scraped_at": "2025-12-25T01:24:27.506577"
     },
     {
       "title": "少女はアンデスの星を見た",
       "url": "https://eiga.com/movie/104824/",
       "release_date": "12月20日",
       "thumbnail": "https://media.eiga.com/images/movie/104824/photo/9a36d06308b15679/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881343"
+      "scraped_at": "2025-12-25T01:24:27.506650"
     },
     {
       "title": "もしも脳梗塞になったなら",
       "url": "https://eiga.com/movie/104535/",
       "release_date": "12月20日",
       "thumbnail": "https://media.eiga.com/images/movie/104535/photo/f4ed79c19beff547/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881419"
+      "scraped_at": "2025-12-25T01:24:27.506721"
     },
     {
       "title": "新ドイツ零年",
       "url": "https://eiga.com/movie/44512/",
       "release_date": "12月20日",
       "thumbnail": "https://media.eiga.com/images/movie/44512/photo/3fb11aa0d484386f/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881491"
+      "scraped_at": "2025-12-25T01:24:27.506789"
     },
     {
       "title": "ドイツ零年",
       "url": "https://eiga.com/movie/47136/",
       "release_date": "12月20日",
       "thumbnail": "https://media.eiga.com/images/movie/47136/photo/123ca11923c0db1e/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881566"
+      "scraped_at": "2025-12-25T01:24:27.506855"
     },
     {
       "title": "新解釈・幕末伝",
       "url": "https://eiga.com/movie/103950/",
       "release_date": "12月19日",
       "thumbnail": "https://media.eiga.com/images/movie/103950/photo/446dcc9db4f6dad6/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881664"
+      "scraped_at": "2025-12-25T01:24:27.506926"
     },
     {
       "title": "アバター ファイヤー・アンド・アッシュ",
       "url": "https://eiga.com/movie/87902/",
       "release_date": "12月19日",
       "thumbnail": "https://media.eiga.com/images/movie/87902/photo/53760240b47971c8/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881745"
+      "scraped_at": "2025-12-25T01:24:27.506993"
     },
     {
       "title": "星と月は天の穴",
       "url": "https://eiga.com/movie/104561/",
       "release_date": "12月19日",
       "thumbnail": "https://media.eiga.com/images/movie/104561/photo/a5fa91f0d3cad24f/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881816"
+      "scraped_at": "2025-12-25T01:24:27.507061"
     },
     {
       "title": "ビューティフル・ジャーニー ふたりの時空旅行",
       "url": "https://eiga.com/movie/104525/",
       "release_date": "12月19日",
       "thumbnail": "https://media.eiga.com/images/movie/104525/photo/e79b62a2408cf920/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881883"
+      "scraped_at": "2025-12-25T01:24:27.507127"
     },
     {
       "title": "ボディビルダー",
       "url": "https://eiga.com/movie/104740/",
       "release_date": "12月19日",
       "thumbnail": "https://media.eiga.com/images/movie/104740/photo/f02b587d102a48e7/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.881949"
+      "scraped_at": "2025-12-25T01:24:27.507195"
     },
     {
       "title": "初恋芸人",
       "url": "https://eiga.com/movie/104591/",
       "release_date": "12月19日",
       "thumbnail": "https://media.eiga.com/images/movie/104591/photo/efa4c0d2d0807596/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.882016"
+      "scraped_at": "2025-12-25T01:24:27.507261"
     },
     {
       "title": "世界一不運なお針子の人生最悪な1日",
       "url": "https://eiga.com/movie/104690/",
       "release_date": "12月19日",
       "thumbnail": "https://media.eiga.com/images/movie/104690/photo/93dae7911d8d45aa/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.882083"
+      "scraped_at": "2025-12-25T01:24:27.507328"
     },
     {
       "title": "ヤンヤン 夏の想い出",
       "url": "https://eiga.com/movie/30584/",
       "release_date": "12月19日",
       "thumbnail": "https://media.eiga.com/images/movie/30584/photo/ef3a0b0aa20813d6/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.882150"
-    },
-    {
-      "title": "チャップリン",
-      "url": "https://eiga.com/movie/104825/",
-      "release_date": "12月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/104825/photo/8906030780c9b048/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.882216"
-    },
-    {
-      "title": "無明の橋",
-      "url": "https://eiga.com/movie/104533/",
-      "release_date": "12月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/104533/photo/89b64fb39642df78/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.882282"
-    },
-    {
-      "title": "マチルダ 悪魔の遺伝子",
-      "url": "https://eiga.com/movie/105202/",
-      "release_date": "12月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/105202/photo/8ed0c7faa8642753/320.jpg",
-      "scraped_at": "2025-12-24T01:23:22.882356"
+      "scraped_at": "2025-12-25T01:24:27.507400"
     }
   ]
 }
