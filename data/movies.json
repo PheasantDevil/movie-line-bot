@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-27T01:22:40.802131",
+  "updated_at": "2025-12-28T01:42:41.809422",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/98549/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/98549/photo/523c8d3f5747cbc7/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.175352"
-    },
-    {
-      "title": "サムシング・エクストラ！ やさしい泥棒のゆかいな逃避行",
-      "url": "https://eiga.com/movie/104614/",
-      "release_date": "12月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/104614/photo/2bb29961bb436637/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.175453"
+      "scraped_at": "2025-12-28T01:42:41.742916"
     },
     {
       "title": "この本を盗む者は",
       "url": "https://eiga.com/movie/104053/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/104053/photo/a58562b3da8c6adb/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.175530"
+      "scraped_at": "2025-12-28T01:42:41.743021"
+    },
+    {
+      "title": "サムシング・エクストラ！ やさしい泥棒のゆかいな逃避行",
+      "url": "https://eiga.com/movie/104614/",
+      "release_date": "12月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/104614/photo/2bb29961bb436637/320.jpg",
+      "scraped_at": "2025-12-28T01:42:41.743101"
     },
     {
       "title": "Fox Hunt フォックス・ハント",
       "url": "https://eiga.com/movie/104724/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/104724/photo/38701fd35f867b3e/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.175605"
+      "scraped_at": "2025-12-28T01:42:41.743177"
     },
     {
       "title": "ジョージ・マイケル 栄光の輝きと心の闇",
       "url": "https://eiga.com/movie/104692/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/104692/photo/2eee1a36d493e8e3/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.175679"
+      "scraped_at": "2025-12-28T01:42:41.743258"
     },
     {
       "title": "ナタ 魔童の大暴れ",
       "url": "https://eiga.com/movie/103459/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/103459/photo/d64f7f6671b2d4b0/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.175750"
+      "scraped_at": "2025-12-28T01:42:41.743353"
     },
     {
       "title": "映画 HAWKS SP!RIT 273日の記憶",
       "url": "https://eiga.com/movie/104841/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/104841/photo/b13aa3f4de0eb841/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.175824"
+      "scraped_at": "2025-12-28T01:42:41.743430"
     },
     {
       "title": "AFRAID アフレイド",
       "url": "https://eiga.com/movie/102377/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/102377/photo/9227291a1e9d2724/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.175896"
-    },
-    {
-      "title": "白の花実",
-      "url": "https://eiga.com/movie/104323/",
-      "release_date": "12月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/104323/photo/13b5f3247d25f083/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.175963"
+      "scraped_at": "2025-12-28T01:42:41.743506"
     },
     {
       "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第1幕",
       "url": "https://eiga.com/movie/103597/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/103597/photo/5c19846299aa84b7/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.176029"
+      "scraped_at": "2025-12-28T01:42:41.743577"
+    },
+    {
+      "title": "白の花実",
+      "url": "https://eiga.com/movie/104323/",
+      "release_date": "12月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/104323/photo/13b5f3247d25f083/320.jpg",
+      "scraped_at": "2025-12-28T01:42:41.743647"
     },
     {
       "title": "大命中！MEは何しにアマゾンへ？",
       "url": "https://eiga.com/movie/104921/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/104921/photo/fab81d9515e54b88/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.176093"
+      "scraped_at": "2025-12-28T01:42:41.743720"
     },
     {
       "title": "翔んだタックル大旋風",
       "url": "https://eiga.com/movie/103706/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/103706/photo/ae1edfd9736fce73/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.176178"
+      "scraped_at": "2025-12-28T01:42:41.743788"
     },
     {
       "title": "あなたならどうする？ 人生を決める百万ドルのキス",
       "url": "https://eiga.com/movie/105105/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105105/photo/7b75318277045cd0/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.176248"
-    },
-    {
-      "title": "ナショナル・シアター・ライブ「インター・エイリア」",
-      "url": "https://eiga.com/movie/104635/",
-      "release_date": "12月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/104635/photo/51402927b25199f4/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.176313"
+      "scraped_at": "2025-12-28T01:42:41.743855"
     },
     {
       "title": "SWAN LAKE starring KizunaAI",
       "url": "https://eiga.com/movie/103902/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/103902/photo/afd863fd699af2d3/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.176377"
+      "scraped_at": "2025-12-28T01:42:41.743927"
+    },
+    {
+      "title": "ナショナル・シアター・ライブ「インター・エイリア」",
+      "url": "https://eiga.com/movie/104635/",
+      "release_date": "12月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/104635/photo/51402927b25199f4/320.jpg",
+      "scraped_at": "2025-12-28T01:42:41.743997"
     },
     {
       "title": "秘密關係 Secret Lover 最後の約束",
       "url": "https://eiga.com/movie/104924/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/104924/photo/708d526c94a55a38/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.176446"
+      "scraped_at": "2025-12-28T01:42:41.744071"
     },
     {
       "title": "ワールド・オブ・ハンス・ジマー 新次元へ",
       "url": "https://eiga.com/movie/105164/",
       "release_date": "12月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105164/photo/c909a8c26eb3c215/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.176511"
+      "scraped_at": "2025-12-28T01:42:41.744139"
     },
     {
       "title": "映画ラストマン FIRST LOVE",
       "url": "https://eiga.com/movie/103903/",
       "release_date": "12月24日",
       "thumbnail": "https://media.eiga.com/images/movie/103903/photo/4416d0bc72679d73/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.176576"
+      "scraped_at": "2025-12-28T01:42:41.744205"
     },
     {
       "title": "Nissy Entertainment “Re:10th Anniversary Final” BEST DOME TOUR “The Movie”",
       "url": "https://eiga.com/movie/105127/",
       "release_date": "12月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105127/photo/5974bbed0f5f704b/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.176643"
+      "scraped_at": "2025-12-28T01:42:41.744272"
     },
     {
       "title": "Nissy Documentary Movie “Re:10th Anniversary Final” BEST DOME TOUR",
       "url": "https://eiga.com/movie/105128/",
       "release_date": "12月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105128/photo/1a129cd32b2a5cd0/320.jpg",
-      "scraped_at": "2025-12-27T01:22:40.176707"
+      "scraped_at": "2025-12-28T01:42:41.744360"
     }
   ]
 }
