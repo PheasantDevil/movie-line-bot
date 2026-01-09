@@ -1,125 +1,139 @@
 {
-  "updated_at": "2026-01-08T01:27:03.359781",
-  "count": 17,
+  "updated_at": "2026-01-09T01:27:17.280703",
+  "count": 19,
   "movies": [
     {
-      "title": "ワーキングマン",
-      "url": "https://eiga.com/movie/103664/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/103664/photo/ec7c85ddff679914/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.546455"
+      "title": "コート・スティーリング",
+      "url": "https://eiga.com/movie/104538/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/104538/photo/5126b3282500ca69/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.436533"
     },
     {
-      "title": "WAR バトル・オブ・フェイト",
-      "url": "https://eiga.com/movie/104957/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/104957/photo/d8dfbfc21e4eb882/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.546558"
+      "title": "五十年目の俺たちの旅",
+      "url": "https://eiga.com/movie/103934/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/103934/photo/831abd8f9eb96fc2/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.436638"
     },
     {
-      "title": "パプリカ",
-      "url": "https://eiga.com/movie/1587/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/1587/photo/7a7fd2cdb0015615/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.546637"
+      "title": "架空の犬と嘘をつく猫",
+      "url": "https://eiga.com/movie/104698/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/104698/photo/5cfb664d85c14899/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.436719"
     },
     {
-      "title": "マッド・フェイト 狂運",
-      "url": "https://eiga.com/movie/100389/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/100389/photo/ad862bd00f88959c/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.546722"
+      "title": "YADANG ヤダン",
+      "url": "https://eiga.com/movie/104996/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/104996/photo/7a0eca233d39aeaf/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.436795"
     },
     {
-      "title": "ヴィレッジ 声帯切村（コエキリムラ）",
-      "url": "https://eiga.com/movie/105129/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/105129/photo/7b9f94f009473957/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.546795"
+      "title": "ストレイト・ストーリー",
+      "url": "https://eiga.com/movie/1851/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/1851/photo/0c0a98a42045393d/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.436872"
     },
     {
-      "title": "#RUNSEOKJIN_EP.TOUR THE MOVIE",
-      "url": "https://eiga.com/movie/105097/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/105097/photo/82e9d9d092c69356/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.546867"
+      "title": "おくびょう鳥が歌うほうへ",
+      "url": "https://eiga.com/movie/104712/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/104712/photo/4cb5ef76f846b57b/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.436944"
     },
     {
-      "title": "シネマ歌舞伎 歌舞伎NEXT 朧の森に棲む鬼 幸四郎版",
-      "url": "https://eiga.com/movie/103410/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/103410/photo/0f6d5a46cf827661/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.546942"
+      "title": "悪魔のいけにえ",
+      "url": "https://eiga.com/movie/41965/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/41965/photo/385e65aa9b16a781/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437013"
     },
     {
-      "title": "ダーティハンター",
-      "url": "https://eiga.com/movie/62018/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/62018/photo/d0d36657c815dc5d/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.547022"
+      "title": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
+      "url": "https://eiga.com/movie/102296/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/102296/photo/065aa88fe5291577/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437086"
     },
     {
-      "title": "拘束",
-      "url": "https://eiga.com/movie/105134/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/105134/photo/5e1e1a3413b95c76/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.547091"
+      "title": "喝采",
+      "url": "https://eiga.com/movie/105035/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/105035/photo/4d772147cd32aa32/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437155"
     },
     {
-      "title": "ストールン・ガール 真実の行方",
-      "url": "https://eiga.com/movie/105133/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/105133/photo/ec13a3f6b8a8332b/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.547159"
+      "title": "小屋番 八ヶ岳に生きる 劇場版",
+      "url": "https://eiga.com/movie/103235/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/103235/photo/e523080cd968118c/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437222"
     },
     {
-      "title": "侵略者 ブチャの悲劇",
-      "url": "https://eiga.com/movie/105130/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/105130/photo/6e63f6589838fb79/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.547224"
+      "title": "CROSSING 心の交差点",
+      "url": "https://eiga.com/movie/105056/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/105056/photo/2a7bf2f925f81392/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437289"
     },
     {
-      "title": "ブッチャーズ・クロッシング 荒野の黙示録",
-      "url": "https://eiga.com/movie/105131/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/105131/photo/9836b173d2d1ac80/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.547289"
+      "title": "ALL YOU NEED IS KILL",
+      "url": "https://eiga.com/movie/104872/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/104872/photo/ff4daa942e548631/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437377"
     },
     {
-      "title": "ハード・チェイサー 楽園の闇",
-      "url": "https://eiga.com/movie/105132/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/105132/photo/4ee8c88d8b35a384/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.547368"
+      "title": "インランド・エンパイア",
+      "url": "https://eiga.com/movie/1943/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/1943/photo/c75b601bbe5a4697/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437446"
     },
     {
-      "title": "拳銃 兵士の休暇",
-      "url": "https://eiga.com/movie/105107/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/105107/photo/4c48049538440def/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.547438"
+      "title": "ヱヴァンゲリヲン新劇場版：Q",
+      "url": "https://eiga.com/movie/57115/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/57115/photo/5c7a3673b59343c2/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437517"
     },
     {
-      "title": "A DOCUMENTARY FILM OF LOSTAGE ひかりのまち、わたしたちの",
-      "url": "https://eiga.com/movie/105161/",
-      "release_date": "1月2日",
-      "thumbnail": "https://media.eiga.com/images/movie/105161/photo/0393f04c1d6bf786/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.547504"
+      "title": "イエス イエスソングス ライヴ・イン・ロンドン1972",
+      "url": "https://eiga.com/movie/105246/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/105246/photo/cdaec80b14e65d01/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437584"
     },
     {
-      "title": "劇場版 緊急取調室 THE FINAL",
-      "url": "https://eiga.com/movie/98549/",
-      "release_date": "12月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/98549/photo/523c8d3f5747cbc7/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.547699"
+      "title": "偽りの楽園",
+      "url": "https://eiga.com/movie/105139/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/105139/photo/8cfb60902ec88422/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437651"
     },
     {
-      "title": "この本を盗む者は",
-      "url": "https://eiga.com/movie/104053/",
-      "release_date": "12月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/104053/photo/a58562b3da8c6adb/320.jpg",
-      "scraped_at": "2026-01-08T01:27:02.547765"
+      "title": "愛がきこえる",
+      "url": "https://eiga.com/movie/103848/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/103848/photo/77207f793a2318b8/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437723"
+    },
+    {
+      "title": "冒険者たち ガンバと7匹のなかま",
+      "url": "https://eiga.com/movie/41646/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/41646/photo/13abedd230e79f2b/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437789"
+    },
+    {
+      "title": "ぼくの名前はラワン",
+      "url": "https://eiga.com/movie/104689/",
+      "release_date": "1月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/104689/photo/6218e2cd8f77cc19/320.jpg",
+      "scraped_at": "2026-01-09T01:27:16.437857"
     }
   ]
 }
