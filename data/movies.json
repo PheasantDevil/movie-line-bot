@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-01-22T01:39:22.541558",
+  "updated_at": "2026-01-23T01:26:56.026615",
   "count": 20,
   "movies": [
     {
-      "title": "イマジナリーライン",
-      "url": "https://eiga.com/movie/104968/",
-      "release_date": "1月17日",
-      "thumbnail": "https://media.eiga.com/images/movie/104968/photo/10b59c2b8e341bbf/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.652570"
+      "title": "MERCY マーシー AI裁判",
+      "url": "https://eiga.com/movie/104849/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/104849/photo/a910942c1b431288/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.284815"
     },
     {
-      "title": "ただ、やるべきことを",
-      "url": "https://eiga.com/movie/104859/",
-      "release_date": "1月17日",
-      "thumbnail": "https://media.eiga.com/images/movie/104859/photo/a572ef1f895c0acb/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.652678"
+      "title": "パンダプラン",
+      "url": "https://eiga.com/movie/104990/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/104990/photo/eac59b9847ee4b68/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.284917"
     },
     {
-      "title": "マライコッタイ・ヴァーリバン",
-      "url": "https://eiga.com/movie/105071/",
-      "release_date": "1月17日",
-      "thumbnail": "https://media.eiga.com/images/movie/105071/photo/afd7700db7505f9c/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.652762"
+      "title": "恋愛裁判",
+      "url": "https://eiga.com/movie/103829/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/103829/photo/013c9e73f60ea7da/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.284998"
     },
     {
-      "title": "アバウトアス ・バット・ノット・アバウトアス",
-      "url": "https://eiga.com/movie/104742/",
-      "release_date": "1月17日",
-      "thumbnail": "https://media.eiga.com/images/movie/104742/photo/a3565aa743e7a8de/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.652843"
+      "title": "安楽死特区",
+      "url": "https://eiga.com/movie/104474/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/104474/photo/7f7507e32039ee80/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285073"
     },
     {
-      "title": "ウォーフェア 戦地最前線",
-      "url": "https://eiga.com/movie/103745/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/103745/photo/973ef8916588a838/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.652923"
+      "title": "ファイブ・ナイツ・アット・フレディーズ2",
+      "url": "https://eiga.com/movie/104648/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/104648/photo/d6cd11adb1211e74/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285150"
     },
     {
-      "title": "28年後... 白骨の神殿",
-      "url": "https://eiga.com/movie/104557/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/104557/photo/9fcdf6851d92ca1f/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.652999"
+      "title": "終点のあの子",
+      "url": "https://eiga.com/movie/104047/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/104047/photo/a7b6067dd1093fcd/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285221"
     },
     {
-      "title": "有吉の壁 劇場版アドリブ大河「面白城の18人」",
-      "url": "https://eiga.com/movie/105093/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/105093/photo/233b5b14e2dcb7a8/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653072"
+      "title": "ヒグマ!!",
+      "url": "https://eiga.com/movie/104424/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/104424/photo/0e80f3cdbd988caa/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285291"
     },
     {
-      "title": "ダウントン・アビー グランドフィナーレ",
-      "url": "https://eiga.com/movie/104618/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/104618/photo/ff39bb1678a2a2c3/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653153"
+      "title": "黒の牛",
+      "url": "https://eiga.com/movie/97195/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/97195/photo/b38ceffc74cc1015/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285370"
     },
     {
-      "title": "万事快調 オール・グリーンズ",
-      "url": "https://eiga.com/movie/104356/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/104356/photo/b7850671cdbdc69f/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653226"
+      "title": "カリギュラ 究極版",
+      "url": "https://eiga.com/movie/105193/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/105193/photo/c018199c5f0967ff/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285460"
     },
     {
-      "title": "モディリアーニ！",
-      "url": "https://eiga.com/movie/105096/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/105096/photo/e019bc6c73a02b7e/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653296"
+      "title": "PROJECT Y",
+      "url": "https://eiga.com/movie/104632/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/104632/photo/ff63e9a3b2c6787f/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285528"
     },
     {
-      "title": "長安のライチ",
-      "url": "https://eiga.com/movie/104983/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/104983/photo/274301074272e504/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653365"
+      "title": "インコンプリート・チェアーズ",
+      "url": "https://eiga.com/movie/104651/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/104651/photo/27bc6a403ec886f8/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285594"
     },
     {
-      "title": "プシュパ 君臨",
-      "url": "https://eiga.com/movie/103054/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/103054/photo/ea85aadba2565a8e/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653433"
+      "title": "ただいまって言える場所",
+      "url": "https://eiga.com/movie/104893/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/104893/photo/89f99096db602f2c/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285659"
     },
     {
-      "title": "アグリーシスター 可愛いあの娘は醜いわたし",
-      "url": "https://eiga.com/movie/104860/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/104860/photo/83682733dd1393a7/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653521"
+      "title": "愛のごとく",
+      "url": "https://eiga.com/movie/104165/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/104165/photo/b143738d47e8ab20/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285725"
     },
     {
-      "title": "Tokyo Melody Ryuichi Sakamoto",
-      "url": "https://eiga.com/movie/75353/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/75353/photo/2f3f476d3a0a52a3/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653591"
+      "title": "LIVE IN THEATER「BATTLE OF TOKYO うつくしき嘘」",
+      "url": "https://eiga.com/movie/104650/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/104650/photo/1b0e094f0e95d486/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285793"
     },
     {
-      "title": "ザ・カース",
-      "url": "https://eiga.com/movie/104602/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/104602/photo/d04bbbebeafdbfdb/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653659"
+      "title": "ワールド・ブレイカー",
+      "url": "https://eiga.com/movie/105147/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/105147/photo/4d2e5f1ac88747b3/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285862"
     },
     {
-      "title": "グッドワン",
-      "url": "https://eiga.com/movie/102874/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/102874/photo/f8071bdfdc9d0446/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653726"
+      "title": "役者になったスパイ",
+      "url": "https://eiga.com/movie/105037/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/105037/photo/1eba8d934e33a96b/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285932"
     },
     {
-      "title": "とれ！",
-      "url": "https://eiga.com/movie/104789/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/104789/photo/a1f148646337f4ff/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653795"
+      "title": "シネマ歌舞伎 歌舞伎NEXT 朧の森に棲む鬼 松也版",
+      "url": "https://eiga.com/movie/103411/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/103411/photo/ff60a7e23ff4731a/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.285997"
     },
     {
-      "title": "チャック・ベリー ブラウン・アイド・ハンサム・マン",
-      "url": "https://eiga.com/movie/104855/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/104855/photo/863654adbfcdb4ee/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653864"
+      "title": "怪獣天国",
+      "url": "https://eiga.com/movie/105196/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/105196/photo/c35b43eea7f00416/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.286062"
     },
     {
-      "title": "旅の終わりのたからもの",
-      "url": "https://eiga.com/movie/104595/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/104595/photo/ada7623a4b9fa114/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.653933"
+      "title": "魔法の天使クリィミーマミ 永遠のワンスモア",
+      "url": "https://eiga.com/movie/28820/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/28820/photo/a8015b12294ff007/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.286128"
     },
     {
-      "title": "プシュパ 覚醒",
-      "url": "https://eiga.com/movie/100234/",
-      "release_date": "1月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/100234/photo/79fe739939d40ca2/320.jpg",
-      "scraped_at": "2026-01-22T01:39:21.654000"
+      "title": "アリゲーター 暴水領域",
+      "url": "https://eiga.com/movie/105150/",
+      "release_date": "1月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/105150/photo/ff6b0db0819da16e/320.jpg",
+      "scraped_at": "2026-01-23T01:26:55.286193"
     }
   ]
 }
