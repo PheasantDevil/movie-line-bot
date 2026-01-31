@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-01-30T01:51:18.344263",
+  "updated_at": "2026-01-31T01:47:08.396831",
   "count": 20,
   "movies": [
+    {
+      "title": "祖谷物語 おくのひと",
+      "url": "https://eiga.com/movie/79018/",
+      "release_date": "1月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/79018/photo/bd3d6e67cd9795e4/320.jpg",
+      "scraped_at": "2026-01-31T01:47:07.574066"
+    },
+    {
+      "title": "シケモクとクズと花火と",
+      "url": "https://eiga.com/movie/103061/",
+      "release_date": "1月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/103061/photo/bb66aca9225593cc/320.jpg",
+      "scraped_at": "2026-01-31T01:47:07.574183"
+    },
+    {
+      "title": "時のおと",
+      "url": "https://eiga.com/movie/105157/",
+      "release_date": "1月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/105157/photo/4861bb990324708b/320.jpg",
+      "scraped_at": "2026-01-31T01:47:07.574266"
+    },
+    {
+      "title": "ボーイ・ミーツ・ガール（1983）",
+      "url": "https://eiga.com/movie/27929/",
+      "release_date": "1月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/27929/photo/794adbcfd8514fe0/320.jpg",
+      "scraped_at": "2026-01-31T01:47:07.574344"
+    },
+    {
+      "title": "水の中で息をする 彼女でも彼でもなく",
+      "url": "https://eiga.com/movie/105226/",
+      "release_date": "1月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/105226/photo/2100ad8c94ba5d26/320.jpg",
+      "scraped_at": "2026-01-31T01:47:07.574422"
+    },
     {
       "title": "ランニング・マン",
       "url": "https://eiga.com/movie/104207/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/104207/photo/c146b1d916f55cad/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.252861"
+      "scraped_at": "2026-01-31T01:47:07.574497"
     },
     {
       "title": "メラニア",
       "url": "https://eiga.com/movie/105307/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/105307/photo/8cf07c236580a981/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.252976"
+      "scraped_at": "2026-01-31T01:47:07.574568"
     },
     {
       "title": "HELP 復讐島",
       "url": "https://eiga.com/movie/104863/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/104863/photo/50370b03512c23d0/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253058"
+      "scraped_at": "2026-01-31T01:47:07.574642"
     },
     {
       "title": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
       "url": "https://eiga.com/movie/95672/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/95672/photo/63417b0648e299d6/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253134"
+      "scraped_at": "2026-01-31T01:47:07.574717"
     },
     {
       "title": "クスノキの番人",
       "url": "https://eiga.com/movie/103696/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/103696/photo/6e9f6853c5e9b187/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253212"
+      "scraped_at": "2026-01-31T01:47:07.574786"
     },
     {
       "title": "マーズ・エクスプレス",
       "url": "https://eiga.com/movie/104599/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/104599/photo/47e82077a152b7c5/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253291"
+      "scraped_at": "2026-01-31T01:47:07.574852"
     },
     {
       "title": "白蛇：浮生 巡りめぐる運命の赤い糸",
       "url": "https://eiga.com/movie/105081/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/105081/photo/d7bb71b680d8f96c/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253382"
+      "scraped_at": "2026-01-31T01:47:07.574918"
     },
     {
       "title": "JO1DER SHOW 2025 ‘WHEREVER WE ARE’ IN TOKYO DOME - LIVE FILM",
       "url": "https://eiga.com/movie/105243/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/105243/photo/d1e8c39a5959d433/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253458"
+      "scraped_at": "2026-01-31T01:47:07.574983"
     },
     {
       "title": "鬼胎（クィテ） 黒い修道女",
       "url": "https://eiga.com/movie/105162/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/105162/photo/89fe896d41cf2633/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253529"
+      "scraped_at": "2026-01-31T01:47:07.575099"
     },
     {
       "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第2幕",
       "url": "https://eiga.com/movie/104269/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/104269/photo/7253071d3fa95714/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253597"
+      "scraped_at": "2026-01-31T01:47:07.575172"
     },
     {
       "title": "ガーゴイル",
       "url": "https://eiga.com/movie/51671/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/51671/photo/f377c72697c57092/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253664"
+      "scraped_at": "2026-01-31T01:47:07.575239"
     },
     {
       "title": "クイーンダム 誕生",
       "url": "https://eiga.com/movie/105014/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/105014/photo/4f81e09437207296/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253733"
-    },
-    {
-      "title": "パルブロス 黙示録の子供たち",
-      "url": "https://eiga.com/movie/105151/",
-      "release_date": "1月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/105151/photo/6db2cc5501f599f1/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253802"
+      "scraped_at": "2026-01-31T01:47:07.575305"
     },
     {
       "title": "それいけ！アンパンマン いのちの星のドーリィ",
       "url": "https://eiga.com/movie/33551/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/33551/photo/65baf6a070d6faea/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253870"
+      "scraped_at": "2026-01-31T01:47:07.575370"
+    },
+    {
+      "title": "パルブロス 黙示録の子供たち",
+      "url": "https://eiga.com/movie/105151/",
+      "release_date": "1月30日",
+      "thumbnail": "https://media.eiga.com/images/movie/105151/photo/6db2cc5501f599f1/320.jpg",
+      "scraped_at": "2026-01-31T01:47:07.575440"
     },
     {
       "title": "スケッチ 描かれたモンスターたち",
       "url": "https://eiga.com/movie/104443/",
       "release_date": "1月30日",
       "thumbnail": "https://media.eiga.com/images/movie/104443/photo/c584704d7b2adabd/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.253941"
-    },
-    {
-      "title": "在日ミャンマー人 わたしたちの自由",
-      "url": "https://eiga.com/movie/105102/",
-      "release_date": "1月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/105102/photo/32b0440a90d7730e/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.254010"
-    },
-    {
-      "title": "スタック",
-      "url": "https://eiga.com/movie/105152/",
-      "release_date": "1月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/105152/photo/47379d3f3044e271/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.254077"
-    },
-    {
-      "title": "ラスト・ロデオ 約束のフィールド",
-      "url": "https://eiga.com/movie/103996/",
-      "release_date": "1月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/103996/photo/8062c4d4fc901237/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.254144"
-    },
-    {
-      "title": "オリビアと雲",
-      "url": "https://eiga.com/movie/102559/",
-      "release_date": "1月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/102559/photo/974fad9e9d56c1dc/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.254218"
-    },
-    {
-      "title": "おててつないで",
-      "url": "https://eiga.com/movie/105076/",
-      "release_date": "1月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/105076/photo/dc5c5e5d8676e6d1/320.jpg",
-      "scraped_at": "2026-01-30T01:51:18.254286"
+      "scraped_at": "2026-01-31T01:47:07.575507"
     }
   ]
 }
