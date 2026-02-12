@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-02-11T02:06:23.676915",
+  "updated_at": "2026-02-12T01:59:31.861418",
   "count": 20,
   "movies": [
+    {
+      "title": "新劇場版 銀魂 吉原大炎上",
+      "url": "https://eiga.com/movie/104470/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/104470/photo/5415885f43d2b031/320.jpg",
+      "scraped_at": "2026-02-12T01:59:31.478123"
+    },
+    {
+      "title": "劇場版 僕の心のヤバイやつ",
+      "url": "https://eiga.com/movie/102594/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/102594/photo/e5a90e5046d566d0/320.jpg",
+      "scraped_at": "2026-02-12T01:59:31.478230"
+    },
     {
       "title": "ミックスモダン",
       "url": "https://eiga.com/movie/104299/",
       "release_date": "2月7日",
       "thumbnail": "https://media.eiga.com/images/movie/104299/photo/6064a7d4e501320b/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550073"
+      "scraped_at": "2026-02-12T01:59:31.478309"
     },
     {
       "title": "キラー・オブ・シープ",
       "url": "https://eiga.com/movie/96712/",
       "release_date": "2月7日",
       "thumbnail": "https://media.eiga.com/images/movie/96712/photo/30fc70d7198624ae/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550172"
+      "scraped_at": "2026-02-12T01:59:31.478390"
     },
     {
       "title": "マイ・ブラザーズ・ウェディング",
       "url": "https://eiga.com/movie/96713/",
       "release_date": "2月7日",
       "thumbnail": "https://media.eiga.com/images/movie/96713/photo/d4e39ad7820bde04/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550242"
+      "scraped_at": "2026-02-12T01:59:31.478468"
     },
     {
       "title": "ほどなく、お別れです",
       "url": "https://eiga.com/movie/103865/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/103865/photo/3853a72c017d0094/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550305"
+      "scraped_at": "2026-02-12T01:59:31.478542"
     },
     {
       "title": "禍禍女",
       "url": "https://eiga.com/movie/104392/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104392/photo/d9bdba3e6f56737a/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550369"
+      "scraped_at": "2026-02-12T01:59:31.478612"
     },
     {
       "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
       "url": "https://eiga.com/movie/105176/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105176/photo/0f0181efc5d572c6/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550429"
+      "scraped_at": "2026-02-12T01:59:31.478685"
     },
     {
       "title": "BE:the ONE START BEYOND DREAMS",
       "url": "https://eiga.com/movie/105154/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105154/photo/5c36fdc7b5da3a41/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550484"
+      "scraped_at": "2026-02-12T01:59:31.478755"
     },
     {
       "title": "トゥギャザー",
       "url": "https://eiga.com/movie/104389/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104389/photo/ffdac8c3603c793c/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550542"
+      "scraped_at": "2026-02-12T01:59:31.478823"
     },
     {
       "title": "ツーリストファミリー",
       "url": "https://eiga.com/movie/104955/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104955/photo/1405f85ff23598a4/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550596"
+      "scraped_at": "2026-02-12T01:59:31.478890"
     },
     {
       "title": "射鵰英雄伝",
       "url": "https://eiga.com/movie/105078/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105078/photo/e98338cf034d901e/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550651"
-    },
-    {
-      "title": "神社 悪魔のささやき",
-      "url": "https://eiga.com/movie/105192/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/105192/photo/c3d37b15c4fcb18f/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550702"
+      "scraped_at": "2026-02-12T01:59:31.478956"
     },
     {
       "title": "たしかにあった幻",
       "url": "https://eiga.com/movie/104391/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104391/photo/dec0562157d9930f/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550756"
+      "scraped_at": "2026-02-12T01:59:31.479048"
+    },
+    {
+      "title": "神社 悪魔のささやき",
+      "url": "https://eiga.com/movie/105192/",
+      "release_date": "2月6日",
+      "thumbnail": "https://media.eiga.com/images/movie/105192/photo/c3d37b15c4fcb18f/320.jpg",
+      "scraped_at": "2026-02-12T01:59:31.479120"
     },
     {
       "title": "テレビショッピングの女王 青池春香の事件チャンネル",
       "url": "https://eiga.com/movie/105092/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105092/photo/af5806ab3cfc12b8/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550805"
+      "scraped_at": "2026-02-12T01:59:31.479187"
     },
     {
       "title": "FUKUYAMA MASAHARU LIVE FILM@NAGASAKI 月光 ずっとこの光につながっていたんだ",
       "url": "https://eiga.com/movie/104856/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104856/photo/95797949101e00f4/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550852"
+      "scraped_at": "2026-02-12T01:59:31.479254"
     },
     {
       "title": "涼宮ハルヒの消失",
       "url": "https://eiga.com/movie/55063/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/55063/photo/8fb1dd4c77658bd9/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550900"
+      "scraped_at": "2026-02-12T01:59:31.479321"
     },
     {
       "title": "FRÉWAKA フレワカ",
       "url": "https://eiga.com/movie/105181/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105181/photo/387e27e63767b156/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550949"
+      "scraped_at": "2026-02-12T01:59:31.479387"
     },
     {
       "title": "パンダのすごい世界",
       "url": "https://eiga.com/movie/104953/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104953/photo/50ced0c0f237587c/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.550998"
+      "scraped_at": "2026-02-12T01:59:31.479454"
     },
     {
       "title": "クリーム フェアウェル・コンサート1968",
       "url": "https://eiga.com/movie/105407/",
       "release_date": "2月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105407/photo/37a33ec696cea1d1/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.551059"
-    },
-    {
-      "title": "レクイエム・フォー・ドリーム",
-      "url": "https://eiga.com/movie/1608/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/1608/photo/60b4cb446cb479cb/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.551109"
-    },
-    {
-      "title": "「ORCHESTRA POSSIBLE 音楽は心のくすり」 on イオンシネマ",
-      "url": "https://eiga.com/movie/105272/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/105272/photo/3f2e332f66269c78/320.jpg",
-      "scraped_at": "2026-02-11T02:06:23.551157"
+      "scraped_at": "2026-02-12T01:59:31.479519"
     }
   ]
 }
