@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-02-12T01:59:31.861418",
+  "updated_at": "2026-02-13T02:02:25.001353",
   "count": 20,
   "movies": [
+    {
+      "title": "ブゴニア",
+      "url": "https://eiga.com/movie/104405/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/104405/photo/3f9b06d964bd3d66/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.872207"
+    },
+    {
+      "title": "クライム101",
+      "url": "https://eiga.com/movie/104952/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/104952/photo/a2fe0b0b47a3a141/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.872324"
+    },
     {
       "title": "新劇場版 銀魂 吉原大炎上",
       "url": "https://eiga.com/movie/104470/",
       "release_date": "2月13日",
       "thumbnail": "https://media.eiga.com/images/movie/104470/photo/5415885f43d2b031/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478123"
+      "scraped_at": "2026-02-13T02:02:24.872407"
     },
     {
       "title": "劇場版 僕の心のヤバイやつ",
       "url": "https://eiga.com/movie/102594/",
       "release_date": "2月13日",
       "thumbnail": "https://media.eiga.com/images/movie/102594/photo/e5a90e5046d566d0/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478230"
+      "scraped_at": "2026-02-13T02:02:24.872485"
     },
     {
-      "title": "ミックスモダン",
-      "url": "https://eiga.com/movie/104299/",
-      "release_date": "2月7日",
-      "thumbnail": "https://media.eiga.com/images/movie/104299/photo/6064a7d4e501320b/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478309"
+      "title": "純愛上等！",
+      "url": "https://eiga.com/movie/103049/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/103049/photo/09db8ba24fa7a204/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.872563"
     },
     {
-      "title": "キラー・オブ・シープ",
-      "url": "https://eiga.com/movie/96712/",
-      "release_date": "2月7日",
-      "thumbnail": "https://media.eiga.com/images/movie/96712/photo/30fc70d7198624ae/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478390"
+      "title": "スペルマゲドン 精なる大冒険",
+      "url": "https://eiga.com/movie/105175/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/105175/photo/ba248eddac938aa8/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.872639"
     },
     {
-      "title": "マイ・ブラザーズ・ウェディング",
-      "url": "https://eiga.com/movie/96713/",
-      "release_date": "2月7日",
-      "thumbnail": "https://media.eiga.com/images/movie/96713/photo/d4e39ad7820bde04/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478468"
+      "title": "シン・エヴァンゲリオン劇場版",
+      "url": "https://eiga.com/movie/57683/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/57683/photo/35a3b62a2f5c77ab/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.872711"
     },
     {
-      "title": "ほどなく、お別れです",
-      "url": "https://eiga.com/movie/103865/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/103865/photo/3853a72c017d0094/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478542"
+      "title": "私のすべて",
+      "url": "https://eiga.com/movie/103415/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/103415/photo/d1f103fb31e1ee32/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.872787"
     },
     {
-      "title": "禍禍女",
-      "url": "https://eiga.com/movie/104392/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/104392/photo/d9bdba3e6f56737a/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478612"
+      "title": "超時空英雄伝エイリアノイド PART1：神剣激突",
+      "url": "https://eiga.com/movie/105049/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/105049/photo/f4df81e95652ecf8/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.872863"
     },
     {
-      "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
-      "url": "https://eiga.com/movie/105176/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/105176/photo/0f0181efc5d572c6/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478685"
+      "title": "ANIMAL",
+      "url": "https://eiga.com/movie/100826/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/100826/photo/2e9e064590fefd92/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.872934"
     },
     {
-      "title": "BE:the ONE START BEYOND DREAMS",
-      "url": "https://eiga.com/movie/105154/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/105154/photo/5c36fdc7b5da3a41/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478755"
+      "title": "13日の金曜日（1980）",
+      "url": "https://eiga.com/movie/45432/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/45432/photo/110a27f5b92c2000/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.873002"
     },
     {
-      "title": "トゥギャザー",
-      "url": "https://eiga.com/movie/104389/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/104389/photo/ffdac8c3603c793c/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478823"
+      "title": "劇場版 ほんとうにあった怖い話 ゾク変な間取り",
+      "url": "https://eiga.com/movie/105399/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/105399/photo/270ae781ea6c01ae/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.873070"
     },
     {
-      "title": "ツーリストファミリー",
-      "url": "https://eiga.com/movie/104955/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/104955/photo/1405f85ff23598a4/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478890"
+      "title": "道行き",
+      "url": "https://eiga.com/movie/102180/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/102180/photo/dfec5f26ca62349e/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.873154"
     },
     {
-      "title": "射鵰英雄伝",
-      "url": "https://eiga.com/movie/105078/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/105078/photo/e98338cf034d901e/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.478956"
+      "title": "ブルックリンでZ級監督と恋に落ちた私",
+      "url": "https://eiga.com/movie/103929/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/103929/photo/e9cbc5f71f40f5c7/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.873229"
     },
     {
-      "title": "たしかにあった幻",
-      "url": "https://eiga.com/movie/104391/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/104391/photo/dec0562157d9930f/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.479048"
+      "title": "オスロ、8月31日",
+      "url": "https://eiga.com/movie/81669/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/81669/photo/04cecf4042cc1aef/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.873298"
     },
     {
-      "title": "神社 悪魔のささやき",
-      "url": "https://eiga.com/movie/105192/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/105192/photo/c3d37b15c4fcb18f/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.479120"
+      "title": "リプライズ",
+      "url": "https://eiga.com/movie/81668/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/81668/photo/042cad260a9f5934/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.873366"
     },
     {
-      "title": "テレビショッピングの女王 青池春香の事件チャンネル",
-      "url": "https://eiga.com/movie/105092/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/105092/photo/af5806ab3cfc12b8/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.479187"
+      "title": "ヘブンズベル",
+      "url": "https://eiga.com/movie/103626/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/103626/photo/bcfcc78810844c04/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.873435"
     },
     {
-      "title": "FUKUYAMA MASAHARU LIVE FILM@NAGASAKI 月光 ずっとこの光につながっていたんだ",
-      "url": "https://eiga.com/movie/104856/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/104856/photo/95797949101e00f4/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.479254"
+      "title": "ナショナル・シアター・ライブ「ハムレット」",
+      "url": "https://eiga.com/movie/104638/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/104638/photo/b2dba0a90cfa927f/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.873508"
     },
     {
-      "title": "涼宮ハルヒの消失",
-      "url": "https://eiga.com/movie/55063/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/55063/photo/8fb1dd4c77658bd9/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.479321"
+      "title": "英国ロイヤル・バレエ＆オペラ in シネマ 2025/26 ロイヤル・バレエ「シンデレラ」",
+      "url": "https://eiga.com/movie/105019/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/105019/photo/f0c62f9566f35a10/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.873582"
     },
     {
-      "title": "FRÉWAKA フレワカ",
-      "url": "https://eiga.com/movie/105181/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/105181/photo/387e27e63767b156/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.479387"
-    },
-    {
-      "title": "パンダのすごい世界",
-      "url": "https://eiga.com/movie/104953/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/104953/photo/50ced0c0f237587c/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.479454"
-    },
-    {
-      "title": "クリーム フェアウェル・コンサート1968",
-      "url": "https://eiga.com/movie/105407/",
-      "release_date": "2月6日",
-      "thumbnail": "https://media.eiga.com/images/movie/105407/photo/37a33ec696cea1d1/320.jpg",
-      "scraped_at": "2026-02-12T01:59:31.479519"
+      "title": "不貞の女",
+      "url": "https://eiga.com/movie/105241/",
+      "release_date": "2月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/105241/photo/31500912cf5e5364/320.jpg",
+      "scraped_at": "2026-02-13T02:02:24.873650"
     }
   ]
 }
