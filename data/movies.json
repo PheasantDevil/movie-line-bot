@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-02-26T01:52:50.077869",
+  "updated_at": "2026-02-27T01:51:40.470756",
   "count": 20,
   "movies": [
+    {
+      "title": "木挽町のあだ討ち",
+      "url": "https://eiga.com/movie/104590/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/104590/photo/79b4806da4bb2a70/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.629777"
+    },
+    {
+      "title": "嵐が丘",
+      "url": "https://eiga.com/movie/104550/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/104550/photo/056346b7684aeacd/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.629896"
+    },
+    {
+      "title": "レンタル・ファミリー",
+      "url": "https://eiga.com/movie/101439/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/101439/photo/f0e9b069b97a021a/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.629980"
+    },
+    {
+      "title": "#拡散",
+      "url": "https://eiga.com/movie/104884/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/104884/photo/ddbfa2aaf9148d2a/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630060"
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "url": "https://eiga.com/movie/104573/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/104573/photo/bb9799982e2537e0/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630136"
+    },
+    {
+      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
+      "url": "https://eiga.com/movie/102590/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/102590/photo/cab9cd03096551ee/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630208"
+    },
+    {
+      "title": "ロビー！ 4000億円を懸けた仁義なき18ホール",
+      "url": "https://eiga.com/movie/105126/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105126/photo/ef3eba4ab1843bc5/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630278"
+    },
+    {
+      "title": "死の天使 ヨーゼフ・メンゲレ",
+      "url": "https://eiga.com/movie/105269/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105269/photo/6b432cf83f7d3d13/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630352"
+    },
+    {
+      "title": "Shiva Baby シヴァ・ベイビー",
+      "url": "https://eiga.com/movie/105055/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105055/photo/4f8cea882b98e996/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630422"
+    },
+    {
+      "title": "結局珈琲",
+      "url": "https://eiga.com/movie/104471/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/104471/photo/70cfb3c718bea3d8/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630492"
+    },
+    {
+      "title": "夜鶯 ある洋館での殺人事件",
+      "url": "https://eiga.com/movie/105296/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105296/photo/c68e853456aaa19b/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630561"
+    },
+    {
+      "title": "MALUM 悪しき神",
+      "url": "https://eiga.com/movie/105224/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105224/photo/a5a968031a8a18ac/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630630"
+    },
+    {
+      "title": "ローリング・ストーンズ・アット・ザ・マックス",
+      "url": "https://eiga.com/movie/50979/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/50979/photo/9f170bf23e0741aa/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630740"
+    },
+    {
+      "title": "正義廻廊",
+      "url": "https://eiga.com/movie/105415/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105415/photo/082cdb91b2e35d0e/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630819"
+    },
+    {
+      "title": "超時空英雄伝エイリアノイド PART2：終局決戦",
+      "url": "https://eiga.com/movie/105050/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105050/photo/ff65603c40bf7751/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630889"
+    },
+    {
+      "title": "1923",
+      "url": "https://eiga.com/movie/105396/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105396/photo/af500efded7df490/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.630957"
+    },
+    {
+      "title": "ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS",
+      "url": "https://eiga.com/movie/105480/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105480/photo/6d9b105dc4b57985/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.631024"
+    },
+    {
+      "title": "コーナー・オブ・ジ・アース カムチャツカ",
+      "url": "https://eiga.com/movie/105208/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105208/photo/34144c211057a460/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.631096"
+    },
+    {
+      "title": "TRAVERSE 2 Next Level",
+      "url": "https://eiga.com/movie/105059/",
+      "release_date": "2月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105059/photo/65965849c6612f2e/320.jpg",
+      "scraped_at": "2026-02-27T01:51:39.631161"
+    },
     {
       "title": "Twenty One Pilots: More Than We Ever Imagined",
       "url": "https://eiga.com/movie/105520/",
       "release_date": "2月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105520/photo/4f2bdd07dd976d9d/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.940583"
-    },
-    {
-      "title": "ポーラX",
-      "url": "https://eiga.com/movie/28226/",
-      "release_date": "2月21日",
-      "thumbnail": "https://media.eiga.com/images/movie/28226/photo/251b5340508427c5/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.940693"
-    },
-    {
-      "title": "どうしようもない10人",
-      "url": "https://eiga.com/movie/105106/",
-      "release_date": "2月21日",
-      "thumbnail": "https://media.eiga.com/images/movie/105106/photo/10bd4aff80dc0983/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.940774"
-    },
-    {
-      "title": "ゴーレム",
-      "url": "https://eiga.com/movie/105299/",
-      "release_date": "2月21日",
-      "thumbnail": "https://media.eiga.com/images/movie/105299/photo/7796f8a2bb14a07d/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.940851"
-    },
-    {
-      "title": "宇宙戦争 次の世紀",
-      "url": "https://eiga.com/movie/105300/",
-      "release_date": "2月21日",
-      "thumbnail": "https://media.eiga.com/images/movie/105300/photo/652b6110bc059afb/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.940928"
-    },
-    {
-      "title": "明日を夜に捨てて",
-      "url": "https://eiga.com/movie/105234/",
-      "release_date": "2月21日",
-      "thumbnail": "https://media.eiga.com/images/movie/105234/photo/d1e4c7b283a75347/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941001"
-    },
-    {
-      "title": "DEAD OR ZOMBIE",
-      "url": "https://eiga.com/movie/105478/",
-      "release_date": "2月21日",
-      "thumbnail": "https://media.eiga.com/images/movie/105478/photo/e37199bd45e6d9a3/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941072"
-    },
-    {
-      "title": "オビ・オバ 文明の終わり",
-      "url": "https://eiga.com/movie/104656/",
-      "release_date": "2月21日",
-      "thumbnail": "https://media.eiga.com/images/movie/104656/photo/bc0d1651e4de556f/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941155"
-    },
-    {
-      "title": "ガガ 英雄たちに栄光あれ",
-      "url": "https://eiga.com/movie/105301/",
-      "release_date": "2月21日",
-      "thumbnail": "https://media.eiga.com/images/movie/105301/photo/d5668164f50ef305/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941225"
-    },
-    {
-      "title": "教場 Requiem",
-      "url": "https://eiga.com/movie/104816/",
-      "release_date": "2月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/104816/photo/2b77424700ee9493/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941294"
-    },
-    {
-      "title": "超かぐや姫！",
-      "url": "https://eiga.com/movie/105011/",
-      "release_date": "2月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/105011/photo/a50bac68030c0d85/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941362"
-    },
-    {
-      "title": "おさるのベン",
-      "url": "https://eiga.com/movie/104875/",
-      "release_date": "2月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/104875/photo/90ceb6711879340c/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941428"
-    },
-    {
-      "title": "夜勤事件 The Convenience Store",
-      "url": "https://eiga.com/movie/104606/",
-      "release_date": "2月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/104606/photo/d0545480238cea90/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941515"
-    },
-    {
-      "title": "災 劇場版",
-      "url": "https://eiga.com/movie/104365/",
-      "release_date": "2月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/104365/photo/ce5efeef0eb0e0e0/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941582"
-    },
-    {
-      "title": "センチメンタル・バリュー",
-      "url": "https://eiga.com/movie/103740/",
-      "release_date": "2月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/103740/photo/97dec37c0e7f1a88/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941648"
-    },
-    {
-      "title": "ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦",
-      "url": "https://eiga.com/movie/104844/",
-      "release_date": "2月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/104844/photo/14598e3d281cc9bb/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941715"
-    },
-    {
-      "title": "ブーニン 天才ピアニストの沈黙と再生",
-      "url": "https://eiga.com/movie/104686/",
-      "release_date": "2月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/104686/photo/74499e3ba2ef8a40/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941781"
-    },
-    {
-      "title": "東方神起 20th Anniversary Film「IDENTITY」",
-      "url": "https://eiga.com/movie/104989/",
-      "release_date": "2月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/104989/photo/8c4d15c6b1b3ec92/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941847"
-    },
-    {
-      "title": "CatVideoFest",
-      "url": "https://eiga.com/movie/105384/",
-      "release_date": "2月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/105384/photo/d0849076fa996d03/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941915"
-    },
-    {
-      "title": "幻愛 夢の向こうに",
-      "url": "https://eiga.com/movie/96156/",
-      "release_date": "2月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/96156/photo/2115aa0e692eb66d/320.jpg",
-      "scraped_at": "2026-02-26T01:52:49.941981"
+      "scraped_at": "2026-02-27T01:51:39.631226"
     }
   ]
 }
