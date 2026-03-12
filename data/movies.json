@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11T01:49:12.558024",
+  "updated_at": "2026-03-12T01:53:50.163672",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/105015/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/105015/photo/52f925f1ba302704/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440049"
+      "scraped_at": "2026-03-12T01:53:49.297334"
     },
     {
       "title": "ギョンアの娘",
       "url": "https://eiga.com/movie/105400/",
       "release_date": "3月7日",
       "thumbnail": "https://media.eiga.com/images/movie/105400/photo/1340c47c7d7c9402/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440152"
+      "scraped_at": "2026-03-12T01:53:49.297436"
     },
     {
       "title": "ホールディング・リアット",
       "url": "https://eiga.com/movie/105363/",
       "release_date": "3月7日",
       "thumbnail": "https://media.eiga.com/images/movie/105363/photo/f904fbde6d779818/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440231"
+      "scraped_at": "2026-03-12T01:53:49.297515"
     },
     {
       "title": "スペシャルズ",
       "url": "https://eiga.com/movie/104233/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104233/photo/b450f6db2886e3b5/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440307"
+      "scraped_at": "2026-03-12T01:53:49.297590"
     },
     {
       "title": "ウィキッド 永遠の約束",
       "url": "https://eiga.com/movie/104315/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104315/photo/b162f8aecca1c212/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440384"
+      "scraped_at": "2026-03-12T01:53:49.297665"
     },
     {
       "title": "しあわせな選択",
       "url": "https://eiga.com/movie/104410/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104410/photo/896b72dab8340aea/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440457"
+      "scraped_at": "2026-03-12T01:53:49.297737"
     },
     {
       "title": "映画 冬のソナタ 日本特別版",
       "url": "https://eiga.com/movie/105303/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105303/photo/3d94881a0aaf2220/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440528"
+      "scraped_at": "2026-03-12T01:53:49.297807"
     },
     {
       "title": "ナースコール",
       "url": "https://eiga.com/movie/105278/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105278/photo/3c87040161f4634c/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440602"
+      "scraped_at": "2026-03-12T01:53:49.297881"
     },
     {
       "title": "花緑青が明ける日に",
       "url": "https://eiga.com/movie/101677/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/101677/photo/ecca2b0e04cad64d/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440671"
+      "scraped_at": "2026-03-12T01:53:49.297949"
     },
     {
       "title": "宣誓",
       "url": "https://eiga.com/movie/105257/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105257/photo/8bb516e51a1ebe87/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440738"
+      "scraped_at": "2026-03-12T01:53:49.298016"
     },
     {
       "title": "ブルームーン",
       "url": "https://eiga.com/movie/103463/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/103463/photo/7d1ea6158949bf3e/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440825"
+      "scraped_at": "2026-03-12T01:53:49.298082"
     },
     {
       "title": "ザ・クロウ",
       "url": "https://eiga.com/movie/102334/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/102334/photo/f5fe363022e9cd73/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440896"
+      "scraped_at": "2026-03-12T01:53:49.298148"
     },
     {
       "title": "オーロラの涙",
       "url": "https://eiga.com/movie/105345/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105345/photo/00b2e50e2c9b435e/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.440963"
+      "scraped_at": "2026-03-12T01:53:49.298235"
     },
     {
       "title": "人狼 JIN-ROH",
       "url": "https://eiga.com/movie/37317/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/37317/photo/99e8ee954ba9c2e5/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.441029"
+      "scraped_at": "2026-03-12T01:53:49.298303"
     },
     {
       "title": "361 White and Black",
       "url": "https://eiga.com/movie/105298/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105298/photo/24a0518b751396d0/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.441096"
+      "scraped_at": "2026-03-12T01:53:49.298369"
     },
     {
       "title": "エリス＆トム ボサノヴァ名盤誕生秘話",
       "url": "https://eiga.com/movie/105183/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105183/photo/eb0b3751320b9759/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.441164"
+      "scraped_at": "2026-03-12T01:53:49.298436"
     },
     {
       "title": "劇場先行版「NEEDY GIRL OVERDOSE OVERTURE」",
       "url": "https://eiga.com/movie/105054/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105054/photo/ee99ce68815d39b2/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.441231"
+      "scraped_at": "2026-03-12T01:53:49.298502"
     },
     {
       "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕",
       "url": "https://eiga.com/movie/104270/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104270/photo/38895a999301bd4d/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.441298"
+      "scraped_at": "2026-03-12T01:53:49.298567"
     },
     {
       "title": "GEMNIBUS vol.2",
       "url": "https://eiga.com/movie/105212/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105212/photo/ca4cb0dd5a8c3be1/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.441366"
+      "scraped_at": "2026-03-12T01:53:49.298633"
     },
     {
       "title": "RIP SLYME THE MOVIE 25th ANNIVERSARY GREATEST MEMORY",
       "url": "https://eiga.com/movie/105406/",
       "release_date": "3月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105406/photo/0c4212268271f74a/320.jpg",
-      "scraped_at": "2026-03-11T01:49:12.441432"
+      "scraped_at": "2026-03-12T01:53:49.298696"
     }
   ]
 }
