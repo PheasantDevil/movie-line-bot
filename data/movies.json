@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T02:07:34.193866",
+  "updated_at": "2026-03-16T02:08:49.227941",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/105402/",
       "release_date": "3月14日",
       "thumbnail": "https://media.eiga.com/images/movie/105402/photo/9c84b0c0032b3f97/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.134919"
-    },
-    {
-      "title": "ひなぎく",
-      "url": "https://eiga.com/movie/34164/",
-      "release_date": "3月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/34164/photo/df46bd7fe49fa654/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135037"
-    },
-    {
-      "title": "父と家族とわたしのこと",
-      "url": "https://eiga.com/movie/105405/",
-      "release_date": "3月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/105405/photo/624c012d87b73c1d/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135119"
-    },
-    {
-      "title": "ハローマイフレンド",
-      "url": "https://eiga.com/movie/103989/",
-      "release_date": "3月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/103989/photo/fee56080f6e99163/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135196"
-    },
-    {
-      "title": "長浜",
-      "url": "https://eiga.com/movie/103141/",
-      "release_date": "3月14日",
-      "thumbnail": "https://media.eiga.com/images/movie/103141/photo/c843fdfb2bb8c3b7/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135273"
+      "scraped_at": "2026-03-16T02:08:49.151797"
     },
     {
       "title": "今は昔、栄養映画館の旅",
       "url": "https://eiga.com/movie/105315/",
       "release_date": "3月14日",
       "thumbnail": "https://media.eiga.com/images/movie/105315/photo/d689f3a7906128fd/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135357"
+      "scraped_at": "2026-03-16T02:08:49.151904"
+    },
+    {
+      "title": "ひなぎく",
+      "url": "https://eiga.com/movie/34164/",
+      "release_date": "3月14日",
+      "thumbnail": "https://media.eiga.com/images/movie/34164/photo/df46bd7fe49fa654/320.jpg",
+      "scraped_at": "2026-03-16T02:08:49.151995"
+    },
+    {
+      "title": "父と家族とわたしのこと",
+      "url": "https://eiga.com/movie/105405/",
+      "release_date": "3月14日",
+      "thumbnail": "https://media.eiga.com/images/movie/105405/photo/624c012d87b73c1d/320.jpg",
+      "scraped_at": "2026-03-16T02:08:49.152079"
+    },
+    {
+      "title": "ハローマイフレンド",
+      "url": "https://eiga.com/movie/103989/",
+      "release_date": "3月14日",
+      "thumbnail": "https://media.eiga.com/images/movie/103989/photo/fee56080f6e99163/320.jpg",
+      "scraped_at": "2026-03-16T02:08:49.152158"
+    },
+    {
+      "title": "長浜",
+      "url": "https://eiga.com/movie/103141/",
+      "release_date": "3月14日",
+      "thumbnail": "https://media.eiga.com/images/movie/103141/photo/c843fdfb2bb8c3b7/320.jpg",
+      "scraped_at": "2026-03-16T02:08:49.152237"
     },
     {
       "title": "マーティ・シュプリーム 世界をつかめ",
       "url": "https://eiga.com/movie/105015/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/105015/photo/52f925f1ba302704/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135429"
+      "scraped_at": "2026-03-16T02:08:49.152310"
     },
     {
       "title": "パリに咲くエトワール",
       "url": "https://eiga.com/movie/104428/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/104428/photo/9d8f620c1dcccc05/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135503"
+      "scraped_at": "2026-03-16T02:08:49.152386"
     },
     {
       "title": "ゴールデンカムイ 網走監獄襲撃編",
       "url": "https://eiga.com/movie/103034/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/103034/photo/19a0fae5edb20ddc/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135572"
+      "scraped_at": "2026-03-16T02:08:49.152458"
     },
     {
       "title": "私がビーバーになる時",
       "url": "https://eiga.com/movie/103999/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/103999/photo/0f0af639cde77546/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135642"
+      "scraped_at": "2026-03-16T02:08:49.152527"
     },
     {
       "title": "ソドムの市（1975）",
       "url": "https://eiga.com/movie/46311/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/46311/photo/45a4114ded8e977b/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135708"
+      "scraped_at": "2026-03-16T02:08:49.152598"
     },
     {
       "title": "放送禁止 ぼくの3人の妻",
       "url": "https://eiga.com/movie/105262/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/105262/photo/5593be45acfb6448/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135781"
+      "scraped_at": "2026-03-16T02:08:49.152690"
     },
     {
       "title": "96分",
       "url": "https://eiga.com/movie/105253/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/105253/photo/7fafe5e5e75a1901/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135852"
+      "scraped_at": "2026-03-16T02:08:49.152760"
     },
     {
       "title": "映画ひみつのアイプリ まんかいバズリウムライブ！",
       "url": "https://eiga.com/movie/105165/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/105165/photo/5ffe065cb9a0de77/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135924"
+      "scraped_at": "2026-03-16T02:08:49.152828"
     },
     {
       "title": "ジョン・クランコ バレエの革命児",
       "url": "https://eiga.com/movie/105274/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/105274/photo/9b0980c98daa1039/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.135990"
+      "scraped_at": "2026-03-16T02:08:49.152896"
     },
     {
       "title": "ギャビーのドールハウス ザ・ムービー",
       "url": "https://eiga.com/movie/104604/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/104604/photo/8ab3b43e2ca1a6f8/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.136075"
+      "scraped_at": "2026-03-16T02:08:49.152964"
     },
     {
       "title": "ブータン 山の教室",
       "url": "https://eiga.com/movie/93667/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/93667/photo/cd8d7f64d1cf975b/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.136143"
+      "scraped_at": "2026-03-16T02:08:49.153030"
     },
     {
       "title": "砂丘",
       "url": "https://eiga.com/movie/44749/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/44749/photo/4b4ed1bb4542eb33/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.136213"
+      "scraped_at": "2026-03-16T02:08:49.153096"
     },
     {
       "title": "パリ・オペラ座 IN シネマ 2026 バレエ「ル・パルク」",
       "url": "https://eiga.com/movie/105191/",
       "release_date": "3月13日",
       "thumbnail": "https://media.eiga.com/images/movie/105191/photo/95ed298eddcf10a6/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.136279"
+      "scraped_at": "2026-03-16T02:08:49.153162"
     },
     {
-      "title": "みつかるまで",
-      "url": "https://eiga.com/movie/105544/",
+      "title": "ムー×ベルジネピクチャーズ 未確認アニメ夜話",
+      "url": "https://eiga.com/movie/105564/",
       "release_date": "3月13日",
-      "thumbnail": "https://media.eiga.com/images/movie/105544/photo/8715f42d0c990213/320.jpg",
-      "scraped_at": "2026-03-15T02:07:34.136344"
+      "thumbnail": "https://media.eiga.com/images/movie/105564/photo/2766e0c558e4b510/320.jpg",
+      "scraped_at": "2026-03-16T02:08:49.153227"
     }
   ]
 }
