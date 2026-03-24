@@ -1,5 +1,146 @@
 {
-  "updated_at": "2026-03-23T02:02:00.764499",
-  "count": 0,
-  "movies": []
+  "updated_at": "2026-03-24T01:53:49.330757",
+  "count": 20,
+  "movies": [
+    {
+      "title": "A Missing Part また君に会えるまで",
+      "url": "https://eiga.com/movie/105613/",
+      "release_date": "3月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/105613/photo/00fb011c54f46ea3/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.253833"
+    },
+    {
+      "title": "自然は君に何を語るのか",
+      "url": "https://eiga.com/movie/103467/",
+      "release_date": "3月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/103467/photo/adda9a6b9f8dc065/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.253937"
+    },
+    {
+      "title": "粒子のダンス",
+      "url": "https://eiga.com/movie/105628/",
+      "release_date": "3月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/105628/photo/f8bac3bcc80eb9f1/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254016"
+    },
+    {
+      "title": "365DAYs＋2彷徨う大人たち",
+      "url": "https://eiga.com/movie/105583/",
+      "release_date": "3月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/105583/photo/ec9e2e7d6008d750/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254092"
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー",
+      "url": "https://eiga.com/movie/104209/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/104209/photo/edd2dbd570705394/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254169"
+    },
+    {
+      "title": "全知的な読者の視点から",
+      "url": "https://eiga.com/movie/105258/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/105258/photo/6461888ea8f657d6/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254241"
+    },
+    {
+      "title": "君が最後に遺した歌",
+      "url": "https://eiga.com/movie/104601/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/104601/photo/ccb4a677513c7063/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254311"
+    },
+    {
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "url": "https://eiga.com/movie/104562/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/104562/photo/240cc5b01d933fa4/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254385"
+    },
+    {
+      "title": "アメリと雨の物語",
+      "url": "https://eiga.com/movie/104798/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/104798/photo/033b647500e5c7b2/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254454"
+    },
+    {
+      "title": "決断するとき",
+      "url": "https://eiga.com/movie/101112/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/101112/photo/c749a6d8de6315b7/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254547"
+    },
+    {
+      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー",
+      "url": "https://eiga.com/movie/105342/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/105342/photo/88793d5ff9e52dfa/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254616"
+    },
+    {
+      "title": "カミング・ホーム",
+      "url": "https://eiga.com/movie/105510/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/105510/photo/1e17fea9066a0e27/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254681"
+    },
+    {
+      "title": "東京逃避行",
+      "url": "https://eiga.com/movie/104876/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/104876/photo/94868d821faf5419/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254751"
+    },
+    {
+      "title": "チェッカーズ 1988 SCREW TOUR at 東京ドーム 4Kリマスター",
+      "url": "https://eiga.com/movie/105605/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/105605/photo/5e689f30400d7856/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254816"
+    },
+    {
+      "title": "おしり前マン 復活のおしり前帝国",
+      "url": "https://eiga.com/movie/105302/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/105302/photo/6a9c76998e718397/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254881"
+    },
+    {
+      "title": "ゲキ×シネ「紅鬼物語」",
+      "url": "https://eiga.com/movie/104278/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/104278/photo/a1c20dd76f94920c/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.254947"
+    },
+    {
+      "title": "マクロスプラス MOVIE EDITION",
+      "url": "https://eiga.com/movie/40903/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/40903/photo/515269de74985c51/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.255012"
+    },
+    {
+      "title": "劇場版 エスカフローネ",
+      "url": "https://eiga.com/movie/35042/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/35042/photo/2e6155aae9b4cbd1/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.255078"
+    },
+    {
+      "title": "ゾンビ 1/2 Right Side of the Living Dead",
+      "url": "https://eiga.com/movie/104741/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/104741/photo/d6f278d260f781a2/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.255143"
+    },
+    {
+      "title": "ナショナル・シアター・ライブ「フィフス・ステップ」",
+      "url": "https://eiga.com/movie/104637/",
+      "release_date": "3月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/104637/photo/80d80b22f11d0c07/320.jpg",
+      "scraped_at": "2026-03-24T01:53:49.255209"
+    }
+  ]
 }
