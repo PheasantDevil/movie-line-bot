@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T01:57:54.613077",
+  "updated_at": "2026-03-29T02:09:07.324302",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/102608/",
       "release_date": "3月28日",
       "thumbnail": "https://media.eiga.com/images/movie/102608/photo/9c1e8592a3eef398/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.535178"
+      "scraped_at": "2026-03-29T02:09:07.243896"
     },
     {
       "title": "津田寛治に撮休はない",
       "url": "https://eiga.com/movie/104994/",
       "release_date": "3月28日",
       "thumbnail": "https://media.eiga.com/images/movie/104994/photo/87cd6fd075c2a8b2/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.535284"
+      "scraped_at": "2026-03-29T02:09:07.244003"
     },
     {
       "title": "鍵から抜け出した女",
       "url": "https://eiga.com/movie/105458/",
       "release_date": "3月28日",
       "thumbnail": "https://media.eiga.com/images/movie/105458/photo/3adf45fd7928a1cf/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.535369"
+      "scraped_at": "2026-03-29T02:09:07.244083"
     },
     {
       "title": "ドゥリム パレス",
       "url": "https://eiga.com/movie/105526/",
       "release_date": "3月28日",
       "thumbnail": "https://media.eiga.com/images/movie/105526/photo/881cdd70f15a7a79/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.535447"
-    },
-    {
-      "title": "TRUE KYOHEI SAKAGUCHI SHOW 坂口恭平生活",
-      "url": "https://eiga.com/movie/105553/",
-      "release_date": "3月28日",
-      "thumbnail": "https://media.eiga.com/images/movie/105553/photo/6b5a1273e3b45de1/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.535524"
-    },
-    {
-      "title": "HOLD UP MORNING",
-      "url": "https://eiga.com/movie/105188/",
-      "release_date": "3月28日",
-      "thumbnail": "https://media.eiga.com/images/movie/105188/photo/1151d0ac1b5d7048/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.535597"
+      "scraped_at": "2026-03-29T02:09:07.244160"
     },
     {
       "title": "MAMMON",
       "url": "https://eiga.com/movie/105546/",
       "release_date": "3月28日",
       "thumbnail": "https://media.eiga.com/images/movie/105546/photo/bd8d30d608786d23/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.535668"
+      "scraped_at": "2026-03-29T02:09:07.244237"
     },
     {
-      "title": "山人（やまんど） 縄文の響きが木霊する",
-      "url": "https://eiga.com/movie/105573/",
+      "title": "HOLD UP MORNING",
+      "url": "https://eiga.com/movie/105188/",
       "release_date": "3月28日",
-      "thumbnail": "https://media.eiga.com/images/movie/105573/photo/bb79914ea4b1cdb5/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.535741"
+      "thumbnail": "https://media.eiga.com/images/movie/105188/photo/1151d0ac1b5d7048/320.jpg",
+      "scraped_at": "2026-03-29T02:09:07.244311"
     },
     {
       "title": "ライフテープ",
       "url": "https://eiga.com/movie/105079/",
       "release_date": "3月28日",
       "thumbnail": "https://media.eiga.com/images/movie/105079/photo/5dd82ef4da43abf8/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.535811"
+      "scraped_at": "2026-03-29T02:09:07.244382"
+    },
+    {
+      "title": "山人（やまんど） 縄文の響きが木霊する",
+      "url": "https://eiga.com/movie/105573/",
+      "release_date": "3月28日",
+      "thumbnail": "https://media.eiga.com/images/movie/105573/photo/bb79914ea4b1cdb5/320.jpg",
+      "scraped_at": "2026-03-29T02:09:07.244483"
+    },
+    {
+      "title": "TRUE KYOHEI SAKAGUCHI SHOW 坂口恭平生活",
+      "url": "https://eiga.com/movie/105553/",
+      "release_date": "3月28日",
+      "thumbnail": "https://media.eiga.com/images/movie/105553/photo/6b5a1273e3b45de1/320.jpg",
+      "scraped_at": "2026-03-29T02:09:07.244558"
     },
     {
       "title": "鬼の花嫁",
       "url": "https://eiga.com/movie/105186/",
       "release_date": "3月27日",
       "thumbnail": "https://media.eiga.com/images/movie/105186/photo/42c9686aa993a2c1/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.535902"
+      "scraped_at": "2026-03-29T02:09:07.244627"
     },
     {
       "title": "映画 えんとつ町のプペル 約束の時計台",
       "url": "https://eiga.com/movie/103760/",
       "release_date": "3月27日",
       "thumbnail": "https://media.eiga.com/images/movie/103760/photo/2fe856c9133a9c11/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.535973"
+      "scraped_at": "2026-03-29T02:09:07.244695"
     },
     {
       "title": "ストリート・キングダム 自分の音を鳴らせ。",
       "url": "https://eiga.com/movie/105077/",
       "release_date": "3月27日",
       "thumbnail": "https://media.eiga.com/images/movie/105077/photo/bbb40969b4cf9633/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.536039"
+      "scraped_at": "2026-03-29T02:09:07.244762"
     },
     {
       "title": "90メートル",
       "url": "https://eiga.com/movie/105058/",
       "release_date": "3月27日",
       "thumbnail": "https://media.eiga.com/images/movie/105058/photo/cfa8dc16d6b8476c/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.536105"
+      "scraped_at": "2026-03-29T02:09:07.244828"
     },
     {
       "title": "フェザーズ その家に巣食うもの",
       "url": "https://eiga.com/movie/105414/",
       "release_date": "3月27日",
       "thumbnail": "https://media.eiga.com/images/movie/105414/photo/d21e235b325d14c9/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.536170"
+      "scraped_at": "2026-03-29T02:09:07.244892"
     },
     {
       "title": "キング・オブ・キングス",
       "url": "https://eiga.com/movie/103744/",
       "release_date": "3月27日",
       "thumbnail": "https://media.eiga.com/images/movie/103744/photo/c411f98a6ebb2fb8/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.536235"
-    },
-    {
-      "title": "私たちの話し方",
-      "url": "https://eiga.com/movie/104995/",
-      "release_date": "3月27日",
-      "thumbnail": "https://media.eiga.com/images/movie/104995/photo/25c8581590e383e6/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.536301"
+      "scraped_at": "2026-03-29T02:09:07.244957"
     },
     {
       "title": "そして彼女たちは",
       "url": "https://eiga.com/movie/103725/",
       "release_date": "3月27日",
       "thumbnail": "https://media.eiga.com/images/movie/103725/photo/492a12673e4f13b9/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.536367"
+      "scraped_at": "2026-03-29T02:09:07.245034"
+    },
+    {
+      "title": "私たちの話し方",
+      "url": "https://eiga.com/movie/104995/",
+      "release_date": "3月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/104995/photo/25c8581590e383e6/320.jpg",
+      "scraped_at": "2026-03-29T02:09:07.245101"
     },
     {
       "title": "ハウス・オブ・ザ・デビル",
       "url": "https://eiga.com/movie/105479/",
       "release_date": "3月27日",
       "thumbnail": "https://media.eiga.com/images/movie/105479/photo/c6ddd753a700cb8c/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.536434"
+      "scraped_at": "2026-03-29T02:09:07.245171"
+    },
+    {
+      "title": "2025 INI LIVE [XQUARE - MASTERPIECE] - LIVE FILM",
+      "url": "https://eiga.com/movie/105493/",
+      "release_date": "3月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/105493/photo/02e5f1b7de48e831/320.jpg",
+      "scraped_at": "2026-03-29T02:09:07.245237"
     },
     {
       "title": "トニー滝谷",
       "url": "https://eiga.com/movie/41432/",
       "release_date": "3月27日",
       "thumbnail": "https://media.eiga.com/images/movie/41432/photo/eeb1370644a4ddf6/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.536500"
-    },
-    {
-      "title": "Ryuichi Sakamoto | Trio Tour 2012",
-      "url": "https://eiga.com/movie/105397/",
-      "release_date": "3月27日",
-      "thumbnail": "https://media.eiga.com/images/movie/105397/photo/b4ee5bc078bf821a/320.jpg",
-      "scraped_at": "2026-03-28T01:57:54.536566"
+      "scraped_at": "2026-03-29T02:09:07.245302"
     }
   ]
 }
