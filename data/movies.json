@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-04-03T02:05:27.394336",
+  "updated_at": "2026-04-04T01:57:30.502456",
   "count": 20,
   "movies": [
+    {
+      "title": "マダム・ソワ・セヴェンヌ",
+      "url": "https://eiga.com/movie/105537/",
+      "release_date": "4月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/105537/photo/ec307c4d9f78138d/320.jpg",
+      "scraped_at": "2026-04-04T01:57:30.425718"
+    },
+    {
+      "title": "エス（インターナショナル版）",
+      "url": "https://eiga.com/movie/105675/",
+      "release_date": "4月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/105675/photo/933dd6ffbe9abb48/320.jpg",
+      "scraped_at": "2026-04-04T01:57:30.425825"
+    },
+    {
+      "title": "鏡（1975）",
+      "url": "https://eiga.com/movie/43272/",
+      "release_date": "4月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/43272/photo/c3cb2cb3b7b66f25/320.jpg",
+      "scraped_at": "2026-04-04T01:57:30.425906"
+    },
+    {
+      "title": "三角屋の交差点で",
+      "url": "https://eiga.com/movie/105586/",
+      "release_date": "4月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/105586/photo/70991b71104747f8/320.jpg",
+      "scraped_at": "2026-04-04T01:57:30.425983"
+    },
+    {
+      "title": "XiXi（シィシィ）、私を踊る",
+      "url": "https://eiga.com/movie/105413/",
+      "release_date": "4月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/105413/photo/6e9c94580ab735b2/320.jpg",
+      "scraped_at": "2026-04-04T01:57:30.426058"
+    },
+    {
+      "title": "笑え",
+      "url": "https://eiga.com/movie/105676/",
+      "release_date": "4月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/105676/photo/0cd9bb0d0968e901/320.jpg",
+      "scraped_at": "2026-04-04T01:57:30.426131"
+    },
     {
       "title": "俺たちのアナコンダ",
       "url": "https://eiga.com/movie/105320/",
       "release_date": "4月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105320/photo/71938a427f8cd624/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.971965"
+      "scraped_at": "2026-04-04T01:57:30.426199"
     },
     {
       "title": "ザ・ブライド！",
       "url": "https://eiga.com/movie/105309/",
       "release_date": "4月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105309/photo/fc1956a892ccae38/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972063"
-    },
-    {
-      "title": "炎かがよへ",
-      "url": "https://eiga.com/movie/105304/",
-      "release_date": "4月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/105304/photo/b5fc6a5b6d2a4a64/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972131"
+      "scraped_at": "2026-04-04T01:57:30.426273"
     },
     {
       "title": "黄金泥棒",
       "url": "https://eiga.com/movie/104612/",
       "release_date": "4月3日",
       "thumbnail": "https://media.eiga.com/images/movie/104612/photo/2daf8493cccf249e/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972200"
+      "scraped_at": "2026-04-04T01:57:30.426388"
+    },
+    {
+      "title": "落下音",
+      "url": "https://eiga.com/movie/103738/",
+      "release_date": "4月3日",
+      "thumbnail": "https://media.eiga.com/images/movie/103738/photo/c7cde116f5040889/320.jpg",
+      "scraped_at": "2026-04-04T01:57:30.426458"
+    },
+    {
+      "title": "炎かがよへ",
+      "url": "https://eiga.com/movie/105304/",
+      "release_date": "4月3日",
+      "thumbnail": "https://media.eiga.com/images/movie/105304/photo/b5fc6a5b6d2a4a64/320.jpg",
+      "scraped_at": "2026-04-04T01:57:30.426523"
     },
     {
       "title": "PILOT 人生のリフライト",
       "url": "https://eiga.com/movie/105530/",
       "release_date": "4月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105530/photo/4849165e1e2732c4/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972264"
+      "scraped_at": "2026-04-04T01:57:30.426587"
     },
     {
       "title": "済州島四・三事件 ハラン",
       "url": "https://eiga.com/movie/105547/",
       "release_date": "4月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105547/photo/02a78cc42ff852d8/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972322"
+      "scraped_at": "2026-04-04T01:57:30.426652"
     },
     {
       "title": "ヒット・エンド・ファン！臨時決闘",
       "url": "https://eiga.com/movie/105690/",
       "release_date": "4月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105690/photo/f4199e9da1c55d16/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972376"
+      "scraped_at": "2026-04-04T01:57:30.426715"
     },
     {
       "title": "殺手#4（キラー・ナンバー4）",
       "url": "https://eiga.com/movie/105249/",
       "release_date": "4月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105249/photo/79fd380d2804bb89/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972434"
+      "scraped_at": "2026-04-04T01:57:30.426778"
     },
     {
       "title": "ザッケン！",
       "url": "https://eiga.com/movie/105155/",
       "release_date": "4月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105155/photo/1cdb0a0146d294c5/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972487"
+      "scraped_at": "2026-04-04T01:57:30.426842"
+    },
+    {
+      "title": "OCHI！ オチ",
+      "url": "https://eiga.com/movie/103853/",
+      "release_date": "4月3日",
+      "thumbnail": "https://media.eiga.com/images/movie/103853/photo/a65368d433e5a514/320.jpg",
+      "scraped_at": "2026-04-04T01:57:30.426906"
     },
     {
       "title": "Riceboy ライスボーイ",
       "url": "https://eiga.com/movie/105457/",
       "release_date": "4月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105457/photo/1988fcc806b91a99/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972536"
+      "scraped_at": "2026-04-04T01:57:30.426976"
     },
     {
       "title": "パリから来た殺し屋",
       "url": "https://eiga.com/movie/105554/",
       "release_date": "4月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105554/photo/eb33d7b52eefdf51/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972600"
+      "scraped_at": "2026-04-04T01:57:30.427042"
     },
     {
       "title": "501号室の男 ある作家の記録",
       "url": "https://eiga.com/movie/105651/",
       "release_date": "4月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105651/photo/3581f0c71b1b68eb/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972651"
-    },
-    {
-      "title": "ロングホットサマーバケーション",
-      "url": "https://eiga.com/movie/105334/",
-      "release_date": "4月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/105334/photo/14a1dc74f3307358/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972700"
-    },
-    {
-      "title": "劇場版 宇野昌磨アイスショー「Ice Brave 新横浜 Special Edition」",
-      "url": "https://eiga.com/movie/105656/",
-      "release_date": "4月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/105656/photo/0365d4d88bbf163a/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972749"
-    },
-    {
-      "title": "黴の花",
-      "url": "https://eiga.com/movie/105678/",
-      "release_date": "4月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/105678/photo/6c73ad160a831c8c/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972796"
-    },
-    {
-      "title": "劇場版スポンジ・ボブ 呪われた海賊と大冒険だワワワワワ！",
-      "url": "https://eiga.com/movie/105065/",
-      "release_date": "4月1日",
-      "thumbnail": "https://media.eiga.com/images/movie/105065/photo/6aefa31ff3486f31/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972843"
-    },
-    {
-      "title": "津田寛治に撮休はない",
-      "url": "https://eiga.com/movie/104994/",
-      "release_date": "3月28日",
-      "thumbnail": "https://media.eiga.com/images/movie/104994/photo/87cd6fd075c2a8b2/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972890"
-    },
-    {
-      "title": "チェイン・リアクションズ",
-      "url": "https://eiga.com/movie/102608/",
-      "release_date": "3月28日",
-      "thumbnail": "https://media.eiga.com/images/movie/102608/photo/9c1e8592a3eef398/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972936"
-    },
-    {
-      "title": "鍵から抜け出した女",
-      "url": "https://eiga.com/movie/105458/",
-      "release_date": "3月28日",
-      "thumbnail": "https://media.eiga.com/images/movie/105458/photo/3adf45fd7928a1cf/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.972986"
-    },
-    {
-      "title": "ドゥリム パレス",
-      "url": "https://eiga.com/movie/105526/",
-      "release_date": "3月28日",
-      "thumbnail": "https://media.eiga.com/images/movie/105526/photo/881cdd70f15a7a79/320.jpg",
-      "scraped_at": "2026-04-03T02:05:26.973037"
+      "scraped_at": "2026-04-04T01:57:30.427105"
     }
   ]
 }
