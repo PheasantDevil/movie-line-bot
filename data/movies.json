@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-04-24T02:26:58.418464",
+  "updated_at": "2026-04-25T02:08:42.099566",
   "count": 20,
   "movies": [
+    {
+      "title": "トゥ・ランド",
+      "url": "https://eiga.com/movie/105589/",
+      "release_date": "4月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105589/photo/2efc037cc7a6ddfa/320.jpg",
+      "scraped_at": "2026-04-25T02:08:42.025686"
+    },
+    {
+      "title": "台湾ハリウッド",
+      "url": "https://eiga.com/movie/82162/",
+      "release_date": "4月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/82162/photo/4330255995f4347d/320.jpg",
+      "scraped_at": "2026-04-25T02:08:42.025790"
+    },
+    {
+      "title": "超低予算ムービー大作戦",
+      "url": "https://eiga.com/movie/105758/",
+      "release_date": "4月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105758/photo/7481ffe1a67951e0/320.jpg",
+      "scraped_at": "2026-04-25T02:08:42.025877"
+    },
+    {
+      "title": "とうちゃん",
+      "url": "https://eiga.com/movie/104007/",
+      "release_date": "4月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/104007/photo/2630c3a83193f7f8/320.jpg",
+      "scraped_at": "2026-04-25T02:08:42.025956"
+    },
+    {
+      "title": "風船の行方",
+      "url": "https://eiga.com/movie/105863/",
+      "release_date": "4月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105863/photo/667892c609b6f02f/320.jpg",
+      "scraped_at": "2026-04-25T02:08:42.026033"
+    },
+    {
+      "title": "鰤の大晦日",
+      "url": "https://eiga.com/movie/105864/",
+      "release_date": "4月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105864/photo/9d3e1267132b3dac/320.jpg",
+      "scraped_at": "2026-04-25T02:08:42.026108"
+    },
+    {
+      "title": "めぐる面影、今、祖父に会う",
+      "url": "https://eiga.com/movie/105759/",
+      "release_date": "4月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105759/photo/2e3e7ee60abd27a8/320.jpg",
+      "scraped_at": "2026-04-25T02:08:42.026179"
+    },
     {
       "title": "ザ・スーパーマリオギャラクシー・ムービー",
       "url": "https://eiga.com/movie/104621/",
       "release_date": "4月24日",
       "thumbnail": "https://media.eiga.com/images/movie/104621/photo/ee23f30882c3f24f/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.338302"
+      "scraped_at": "2026-04-25T02:08:42.026253"
     },
     {
       "title": "オールド・オーク",
       "url": "https://eiga.com/movie/99304/",
       "release_date": "4月24日",
       "thumbnail": "https://media.eiga.com/images/movie/99304/photo/def63a937450f99e/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.338464"
-    },
-    {
-      "title": "LOST LAND ロストランド",
-      "url": "https://eiga.com/movie/104326/",
-      "release_date": "4月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/104326/photo/b9247449f7d670f3/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.338548"
-    },
-    {
-      "title": "ARCO アルコ",
-      "url": "https://eiga.com/movie/105460/",
-      "release_date": "4月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/105460/photo/0652ca4326370102/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.338631"
+      "scraped_at": "2026-04-25T02:08:42.026324"
     },
     {
       "title": "最終楽章 響け！ユーフォニアム 前編",
       "url": "https://eiga.com/movie/103602/",
       "release_date": "4月24日",
       "thumbnail": "https://media.eiga.com/images/movie/103602/photo/7117a5664e310dda/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.338707"
+      "scraped_at": "2026-04-25T02:08:42.026391"
+    },
+    {
+      "title": "ARCO アルコ",
+      "url": "https://eiga.com/movie/105460/",
+      "release_date": "4月24日",
+      "thumbnail": "https://media.eiga.com/images/movie/105460/photo/0652ca4326370102/320.jpg",
+      "scraped_at": "2026-04-25T02:08:42.026458"
+    },
+    {
+      "title": "LOST LAND ロストランド",
+      "url": "https://eiga.com/movie/104326/",
+      "release_date": "4月24日",
+      "thumbnail": "https://media.eiga.com/images/movie/104326/photo/b9247449f7d670f3/320.jpg",
+      "scraped_at": "2026-04-25T02:08:42.026525"
     },
     {
       "title": "サムライ（1967）",
       "url": "https://eiga.com/movie/44916/",
       "release_date": "4月24日",
       "thumbnail": "https://media.eiga.com/images/movie/44916/photo/8bfb264b225d3736/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.338806"
+      "scraped_at": "2026-04-25T02:08:42.026590"
     },
     {
       "title": "月の犬",
       "url": "https://eiga.com/movie/105390/",
       "release_date": "4月24日",
       "thumbnail": "https://media.eiga.com/images/movie/105390/photo/f36142378dbabfd1/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.338886"
+      "scraped_at": "2026-04-25T02:08:42.026686"
     },
     {
       "title": "ツイッギー",
       "url": "https://eiga.com/movie/105623/",
       "release_date": "4月24日",
       "thumbnail": "https://media.eiga.com/images/movie/105623/photo/496075fa2cdecca6/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.338961"
+      "scraped_at": "2026-04-25T02:08:42.026756"
     },
     {
       "title": "スクラップ・ヘブン",
       "url": "https://eiga.com/movie/41241/",
       "release_date": "4月24日",
       "thumbnail": "https://media.eiga.com/images/movie/41241/photo/ff3c04b7e82a9e52/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339035"
+      "scraped_at": "2026-04-25T02:08:42.026822"
     },
     {
       "title": "沢田美由紀のガマランドにお邪魔します",
       "url": "https://eiga.com/movie/105660/",
       "release_date": "4月24日",
       "thumbnail": "https://media.eiga.com/images/movie/105660/photo/b46cec289b6340fc/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339104"
-    },
-    {
-      "title": "悲しくて美しい世界 THIS IS SPARKLEHORSE",
-      "url": "https://eiga.com/movie/105659/",
-      "release_date": "4月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/105659/photo/8f6c26b73c0682f0/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339175"
+      "scraped_at": "2026-04-25T02:08:42.026889"
     },
     {
       "title": "白い車に乗った女",
       "url": "https://eiga.com/movie/105331/",
       "release_date": "4月24日",
       "thumbnail": "https://media.eiga.com/images/movie/105331/photo/f06d9a4d2bb0e854/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339245"
+      "scraped_at": "2026-04-25T02:08:42.026955"
     },
     {
       "title": "ビリー・アイドル パンク・ロッカーの反逆と代償",
       "url": "https://eiga.com/movie/105842/",
       "release_date": "4月24日",
       "thumbnail": "https://media.eiga.com/images/movie/105842/photo/1fb44cf9eecb7e2b/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339313"
+      "scraped_at": "2026-04-25T02:08:42.027027"
     },
     {
-      "title": "ヤマトタケル 白鳥伝説",
-      "url": "https://eiga.com/movie/104938/",
+      "title": "悲しくて美しい世界 THIS IS SPARKLEHORSE",
+      "url": "https://eiga.com/movie/105659/",
       "release_date": "4月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/104938/photo/0616d90bed60902e/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339380"
-    },
-    {
-      "title": "トゥインクル・トゥインクル・キラー・カーン",
-      "url": "https://eiga.com/movie/20908/",
-      "release_date": "4月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/20908/photo/ad7b0945971e9b8a/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339448"
-    },
-    {
-      "title": "完全版 ザ・レンチキュラーズ a/b",
-      "url": "https://eiga.com/movie/105989/",
-      "release_date": "4月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/105989/photo/77937418c851c90c/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339515"
-    },
-    {
-      "title": "METライブビューイング2025-26 ワーグナー《トリスタンとイゾルデ》",
-      "url": "https://eiga.com/movie/104190/",
-      "release_date": "4月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/104190/photo/f36120583a68bc7f/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339582"
-    },
-    {
-      "title": "海辺の恋",
-      "url": "https://eiga.com/movie/105382/",
-      "release_date": "4月18日",
-      "thumbnail": "https://media.eiga.com/images/movie/105382/photo/a839faf70d774f07/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339650"
-    },
-    {
-      "title": "宮古島物語ふたたヴィラ かんかかりゃの願い",
-      "url": "https://eiga.com/movie/105661/",
-      "release_date": "4月18日",
-      "thumbnail": "https://media.eiga.com/images/movie/105661/photo/25e852b60aef22d5/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339718"
-    },
-    {
-      "title": "オー・パン・クぺ",
-      "url": "https://eiga.com/movie/105383/",
-      "release_date": "4月18日",
-      "thumbnail": "https://media.eiga.com/images/movie/105383/photo/66621441b1857e1b/320.jpg",
-      "scraped_at": "2026-04-24T02:26:58.339827"
+      "thumbnail": "https://media.eiga.com/images/movie/105659/photo/8f6c26b73c0682f0/320.jpg",
+      "scraped_at": "2026-04-25T02:08:42.027095"
     }
   ]
 }
