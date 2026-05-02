@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-05-01T02:48:55.209733",
+  "updated_at": "2026-05-02T02:30:30.119412",
   "count": 20,
   "movies": [
+    {
+      "title": "猫を放つ",
+      "url": "https://eiga.com/movie/104509/",
+      "release_date": "5月2日",
+      "thumbnail": "https://media.eiga.com/images/movie/104509/photo/9475e2e83d77acf9/320.jpg",
+      "scraped_at": "2026-05-02T02:30:30.036378"
+    },
+    {
+      "title": "コスモ・コルプス",
+      "url": "https://eiga.com/movie/105542/",
+      "release_date": "5月2日",
+      "thumbnail": "https://media.eiga.com/images/movie/105542/photo/edcfca479546d3fd/320.jpg",
+      "scraped_at": "2026-05-02T02:30:30.036483"
+    },
+    {
+      "title": "サンタクロースたちの休暇",
+      "url": "https://eiga.com/movie/105644/",
+      "release_date": "5月2日",
+      "thumbnail": "https://media.eiga.com/images/movie/105644/photo/064611ee191e8b80/320.jpg",
+      "scraped_at": "2026-05-02T02:30:30.036563"
+    },
     {
       "title": "プラダを着た悪魔2",
       "url": "https://eiga.com/movie/104001/",
       "release_date": "5月1日",
       "thumbnail": "https://media.eiga.com/images/movie/104001/photo/93f2fde3e331c77d/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.135711"
+      "scraped_at": "2026-05-02T02:30:30.036659"
     },
     {
       "title": "サンキュー、チャック",
       "url": "https://eiga.com/movie/104121/",
       "release_date": "5月1日",
       "thumbnail": "https://media.eiga.com/images/movie/104121/photo/bc44da3a94ac62ed/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.135818"
+      "scraped_at": "2026-05-02T02:30:30.036747"
     },
     {
       "title": "ラプソディ・ラプソディ",
       "url": "https://eiga.com/movie/105491/",
       "release_date": "5月1日",
       "thumbnail": "https://media.eiga.com/images/movie/105491/photo/6f05227b730a6228/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.135898"
+      "scraped_at": "2026-05-02T02:30:30.036822"
     },
     {
       "title": "ドランクヌードル",
       "url": "https://eiga.com/movie/105658/",
       "release_date": "5月1日",
       "thumbnail": "https://media.eiga.com/images/movie/105658/photo/562572bc000e08c3/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.135974"
+      "scraped_at": "2026-05-02T02:30:30.036892"
     },
     {
       "title": "バケモノ",
       "url": "https://eiga.com/movie/106066/",
       "release_date": "5月1日",
       "thumbnail": "https://media.eiga.com/images/movie/106066/photo/3608f8ead82b660c/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136075"
+      "scraped_at": "2026-05-02T02:30:30.036966"
     },
     {
       "title": "幸せの、忘れもの。",
       "url": "https://eiga.com/movie/105662/",
       "release_date": "5月1日",
       "thumbnail": "https://media.eiga.com/images/movie/105662/photo/cc59186b60402076/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136150"
+      "scraped_at": "2026-05-02T02:30:30.037037"
     },
     {
       "title": "プッシャー（1996）",
       "url": "https://eiga.com/movie/48730/",
       "release_date": "5月1日",
       "thumbnail": "https://media.eiga.com/images/movie/48730/photo/a4f2cbb058328542/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136220"
+      "scraped_at": "2026-05-02T02:30:30.037105"
     },
     {
       "title": "センチュリアン",
       "url": "https://eiga.com/movie/46246/",
       "release_date": "5月1日",
       "thumbnail": "https://media.eiga.com/images/movie/46246/photo/737424e815eb68bf/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136293"
-    },
-    {
-      "title": "誓い 建築家B・V・ドーシ",
-      "url": "https://eiga.com/movie/105577/",
-      "release_date": "5月1日",
-      "thumbnail": "https://media.eiga.com/images/movie/105577/photo/6e4e4a9c0bd45822/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136362"
+      "scraped_at": "2026-05-02T02:30:30.037172"
     },
     {
       "title": "ナショナル・シアター・ライブ「オーディエンス」",
       "url": "https://eiga.com/movie/80136/",
       "release_date": "5月1日",
       "thumbnail": "https://media.eiga.com/images/movie/80136/photo/a84b9b55e6ed5b77/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136435"
-    },
-    {
-      "title": "プッシャー2",
-      "url": "https://eiga.com/movie/78083/",
-      "release_date": "5月1日",
-      "thumbnail": "https://media.eiga.com/images/movie/78083/photo/69916722028e8e04/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136502"
-    },
-    {
-      "title": "プッシャー3",
-      "url": "https://eiga.com/movie/78084/",
-      "release_date": "5月1日",
-      "thumbnail": "https://media.eiga.com/images/movie/78084/photo/8b6c4e5dbaf76523/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136572"
+      "scraped_at": "2026-05-02T02:30:30.037240"
     },
     {
       "title": "ユートピアの力",
       "url": "https://eiga.com/movie/105576/",
       "release_date": "5月1日",
       "thumbnail": "https://media.eiga.com/images/movie/105576/photo/1cbbeee419e0c206/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136640"
+      "scraped_at": "2026-05-02T02:30:30.037313"
+    },
+    {
+      "title": "誓い 建築家B・V・ドーシ",
+      "url": "https://eiga.com/movie/105577/",
+      "release_date": "5月1日",
+      "thumbnail": "https://media.eiga.com/images/movie/105577/photo/6e4e4a9c0bd45822/320.jpg",
+      "scraped_at": "2026-05-02T02:30:30.037380"
+    },
+    {
+      "title": "プッシャー2",
+      "url": "https://eiga.com/movie/78083/",
+      "release_date": "5月1日",
+      "thumbnail": "https://media.eiga.com/images/movie/78083/photo/69916722028e8e04/320.jpg",
+      "scraped_at": "2026-05-02T02:30:30.037446"
+    },
+    {
+      "title": "プッシャー3",
+      "url": "https://eiga.com/movie/78084/",
+      "release_date": "5月1日",
+      "thumbnail": "https://media.eiga.com/images/movie/78084/photo/8b6c4e5dbaf76523/320.jpg",
+      "scraped_at": "2026-05-02T02:30:30.037519"
     },
     {
       "title": "SAKAMOTO DAYS",
       "url": "https://eiga.com/movie/104665/",
       "release_date": "4月29日",
       "thumbnail": "https://media.eiga.com/images/movie/104665/photo/81d7dc07bf31115b/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136705"
+      "scraped_at": "2026-05-02T02:30:30.037587"
     },
     {
       "title": "アギト 超能力戦争",
       "url": "https://eiga.com/movie/105469/",
       "release_date": "4月29日",
       "thumbnail": "https://media.eiga.com/images/movie/105469/photo/e8bc657feb3f3aae/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136771"
+      "scraped_at": "2026-05-02T02:30:30.037673"
     },
     {
       "title": "パワー・トゥ・ザ・ピープル ジョン＆ヨーコ・ライヴ・イン・NYC",
       "url": "https://eiga.com/movie/105897/",
       "release_date": "4月29日",
       "thumbnail": "https://media.eiga.com/images/movie/105897/photo/3545e93e4ec37f43/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136837"
+      "scraped_at": "2026-05-02T02:30:30.037749"
     },
     {
       "title": "トゥ・ランド",
       "url": "https://eiga.com/movie/105589/",
       "release_date": "4月25日",
       "thumbnail": "https://media.eiga.com/images/movie/105589/photo/2efc037cc7a6ddfa/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136907"
-    },
-    {
-      "title": "台湾ハリウッド",
-      "url": "https://eiga.com/movie/82162/",
-      "release_date": "4月25日",
-      "thumbnail": "https://media.eiga.com/images/movie/82162/photo/4330255995f4347d/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.136971"
-    },
-    {
-      "title": "超低予算ムービー大作戦",
-      "url": "https://eiga.com/movie/105758/",
-      "release_date": "4月25日",
-      "thumbnail": "https://media.eiga.com/images/movie/105758/photo/7481ffe1a67951e0/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.137067"
-    },
-    {
-      "title": "めぐる面影、今、祖父に会う",
-      "url": "https://eiga.com/movie/105759/",
-      "release_date": "4月25日",
-      "thumbnail": "https://media.eiga.com/images/movie/105759/photo/2e3e7ee60abd27a8/320.jpg",
-      "scraped_at": "2026-05-01T02:48:55.137136"
+      "scraped_at": "2026-05-02T02:30:30.037867"
     }
   ]
 }
