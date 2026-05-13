@@ -1,139 +1,146 @@
 {
-  "updated_at": "2026-05-12T02:44:17.621070",
-  "count": 19,
+  "updated_at": "2026-05-13T02:49:54.713197",
+  "count": 20,
   "movies": [
+    {
+      "title": "トップガン マーヴェリック",
+      "url": "https://eiga.com/movie/91554/",
+      "release_date": "5月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/91554/photo/d122f72f05591782/320.jpg",
+      "scraped_at": "2026-05-13T02:49:54.636250"
+    },
+    {
+      "title": "トップガン",
+      "url": "https://eiga.com/movie/21197/",
+      "release_date": "5月13日",
+      "thumbnail": "https://media.eiga.com/images/movie/21197/photo/d3d5acdd5aaaabd7/320.jpg",
+      "scraped_at": "2026-05-13T02:49:54.636359"
+    },
     {
       "title": "POCA PON ポカポン",
       "url": "https://eiga.com/movie/102788/",
       "release_date": "5月9日",
       "thumbnail": "https://media.eiga.com/images/movie/102788/photo/0557f3c978eed297/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.560678"
+      "scraped_at": "2026-05-13T02:49:54.636443"
     },
     {
       "title": "風琴 あるリードオルガン修復家のあしあと",
       "url": "https://eiga.com/movie/104068/",
       "release_date": "5月9日",
       "thumbnail": "https://media.eiga.com/images/movie/104068/photo/f1d55bf8b2536fcb/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.560778"
+      "scraped_at": "2026-05-13T02:49:54.636526"
     },
     {
       "title": "未来",
       "url": "https://eiga.com/movie/105074/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/105074/photo/02f30a3e4b7f15b6/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.560845"
+      "scraped_at": "2026-05-13T02:49:54.636607"
     },
     {
       "title": "ひつじ探偵団",
       "url": "https://eiga.com/movie/105793/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/105793/photo/88367af439f89a82/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.560907"
+      "scraped_at": "2026-05-13T02:49:54.636683"
     },
     {
       "title": "グランド・イリュージョン ダイヤモンド・ミッション",
       "url": "https://eiga.com/movie/105073/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/105073/photo/05fea6d05b6ad28b/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.560969"
+      "scraped_at": "2026-05-13T02:49:54.636781"
     },
     {
       "title": "劇場版 魔法科高校の劣等生 四葉継承編",
       "url": "https://eiga.com/movie/102013/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/102013/photo/73eaa7d9dad30bd9/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561027"
+      "scraped_at": "2026-05-13T02:49:54.636863"
     },
     {
       "title": "ゼイ・ウィル・キル・ユー",
       "url": "https://eiga.com/movie/105597/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/105597/photo/781b976f9b0c8832/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561086"
+      "scraped_at": "2026-05-13T02:49:54.636935"
     },
     {
       "title": "シンプル・アクシデント 偶然",
       "url": "https://eiga.com/movie/103735/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/103735/photo/c0906377f29c9693/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561143"
+      "scraped_at": "2026-05-13T02:49:54.637003"
     },
     {
       "title": "幕末ヒポクラテスたち",
       "url": "https://eiga.com/movie/105053/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/105053/photo/d2bd678ba921ed22/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561196"
+      "scraped_at": "2026-05-13T02:49:54.637070"
     },
     {
       "title": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
       "url": "https://eiga.com/movie/104080/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/104080/photo/cbbd3c644a5b3928/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561248"
+      "scraped_at": "2026-05-13T02:49:54.637143"
     },
     {
       "title": "旅立ちのラストダンス",
       "url": "https://eiga.com/movie/102603/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/102603/photo/735b08d76194c15d/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561297"
+      "scraped_at": "2026-05-13T02:49:54.637211"
     },
     {
       "title": "霧のごとく",
       "url": "https://eiga.com/movie/105857/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/105857/photo/839b37aace7ea9b7/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561345"
+      "scraped_at": "2026-05-13T02:49:54.637278"
     },
     {
       "title": "レッド・ソニア 反逆の剣",
       "url": "https://eiga.com/movie/105841/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/105841/photo/933a278529ee54ae/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561392"
+      "scraped_at": "2026-05-13T02:49:54.637345"
     },
     {
       "title": "デンジャラス・アニマルズ 絶望海域",
       "url": "https://eiga.com/movie/105716/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/105716/photo/58e0e8e4a1c405c1/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561439"
+      "scraped_at": "2026-05-13T02:49:54.637413"
     },
     {
       "title": "ビリー・アイリッシュ HIT ME HARD AND SOFT : THE TOUR (LIVE IN 3D)",
       "url": "https://eiga.com/movie/105218/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/105218/photo/f9958c6dcc2a3eaa/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561486"
+      "scraped_at": "2026-05-13T02:49:54.637480"
     },
     {
       "title": "赤い糸 輪廻のひみつ",
       "url": "https://eiga.com/movie/96941/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/96941/photo/278175ce7fa1b03f/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561541"
+      "scraped_at": "2026-05-13T02:49:54.637547"
     },
     {
       "title": "ザ・ヤクザ",
       "url": "https://eiga.com/movie/13777/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/13777/photo/0cea993094a81721/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561595"
+      "scraped_at": "2026-05-13T02:49:54.637615"
     },
     {
       "title": "竜宮の誘い",
       "url": "https://eiga.com/movie/105802/",
       "release_date": "5月8日",
       "thumbnail": "https://media.eiga.com/images/movie/105802/photo/a5501d3e08ab79c7/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561659"
-    },
-    {
-      "title": "絞首台からの生還",
-      "url": "https://eiga.com/movie/105960/",
-      "release_date": "5月8日",
-      "thumbnail": "https://media.eiga.com/images/movie/105960/photo/833d908f22eea9df/320.jpg",
-      "scraped_at": "2026-05-12T02:44:17.561708"
+      "scraped_at": "2026-05-13T02:49:54.637680"
     }
   ]
 }
