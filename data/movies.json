@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-05-18T03:26:40.577882",
+  "updated_at": "2026-05-19T02:55:50.149350",
   "count": 20,
   "movies": [
     {
-      "title": "歌舞伎役者 片岡仁左衛門 第3巻「人と芸の巻 中巻」",
-      "url": "https://eiga.com/movie/105984/",
+      "title": "歌舞伎役者 片岡仁左衛門 第4巻「人と芸の巻 下巻」",
+      "url": "https://eiga.com/movie/105985/",
       "release_date": "5月23日",
-      "thumbnail": "https://media.eiga.com/images/movie/105984/photo/a55d84d8f8f03acc/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516238"
+      "thumbnail": "https://media.eiga.com/images/movie/105985/photo/ba59e32b41a8935f/320.jpg",
+      "scraped_at": "2026-05-19T02:55:49.701929"
     },
     {
       "title": "いろは",
       "url": "https://eiga.com/movie/105694/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/105694/photo/ff861ca29d21191b/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516335"
+      "scraped_at": "2026-05-19T02:55:49.702031"
     },
     {
       "title": "ニッポン狂想曲",
       "url": "https://eiga.com/movie/105795/",
       "release_date": "5月16日",
       "thumbnail": "https://media.eiga.com/images/movie/105795/photo/e7278d77f9578708/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516400"
+      "scraped_at": "2026-05-19T02:55:49.702109"
     },
     {
       "title": "歌舞伎役者 片岡仁左衛門 第1巻「若鮎の巻」",
       "url": "https://eiga.com/movie/41286/",
       "release_date": "5月16日",
       "thumbnail": "https://media.eiga.com/images/movie/41286/photo/42c97c1a8d9089fd/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516463"
+      "scraped_at": "2026-05-19T02:55:49.702183"
     },
     {
       "title": "歌舞伎役者 片岡仁左衛門 第2巻「人と芸の巻 上巻」",
       "url": "https://eiga.com/movie/105983/",
       "release_date": "5月16日",
       "thumbnail": "https://media.eiga.com/images/movie/105983/photo/9fd4203984ddd60a/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516526"
-    },
-    {
-      "title": "廃用身",
-      "url": "https://eiga.com/movie/105287/",
-      "release_date": "5月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/105287/photo/848a30337d5e1750/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516596"
-    },
-    {
-      "title": "映画 正直不動産",
-      "url": "https://eiga.com/movie/103458/",
-      "release_date": "5月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/103458/photo/0656d756f0265d41/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516652"
-    },
-    {
-      "title": "君のクイズ",
-      "url": "https://eiga.com/movie/104894/",
-      "release_date": "5月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/104894/photo/eb3defd1a20260f4/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516715"
-    },
-    {
-      "title": "スマッシング・マシーン",
-      "url": "https://eiga.com/movie/104412/",
-      "release_date": "5月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/104412/photo/224ee8255179ef47/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516769"
-    },
-    {
-      "title": "チェイサーゲームW 水魚の交わり",
-      "url": "https://eiga.com/movie/105366/",
-      "release_date": "5月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/105366/photo/2d16bfc04d74ed3a/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516819"
+      "scraped_at": "2026-05-19T02:55:49.702250"
     },
     {
       "title": "機動警察パトレイバー EZY File 1",
       "url": "https://eiga.com/movie/105424/",
       "release_date": "5月15日",
       "thumbnail": "https://media.eiga.com/images/movie/105424/photo/d74e0aa1c7c0add9/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516868"
+      "scraped_at": "2026-05-19T02:55:49.702315"
+    },
+    {
+      "title": "廃用身",
+      "url": "https://eiga.com/movie/105287/",
+      "release_date": "5月15日",
+      "thumbnail": "https://media.eiga.com/images/movie/105287/photo/848a30337d5e1750/320.jpg",
+      "scraped_at": "2026-05-19T02:55:49.702377"
+    },
+    {
+      "title": "映画 正直不動産",
+      "url": "https://eiga.com/movie/103458/",
+      "release_date": "5月15日",
+      "thumbnail": "https://media.eiga.com/images/movie/103458/photo/0656d756f0265d41/320.jpg",
+      "scraped_at": "2026-05-19T02:55:49.702442"
+    },
+    {
+      "title": "君のクイズ",
+      "url": "https://eiga.com/movie/104894/",
+      "release_date": "5月15日",
+      "thumbnail": "https://media.eiga.com/images/movie/104894/photo/eb3defd1a20260f4/320.jpg",
+      "scraped_at": "2026-05-19T02:55:49.702506"
+    },
+    {
+      "title": "スマッシング・マシーン",
+      "url": "https://eiga.com/movie/104412/",
+      "release_date": "5月15日",
+      "thumbnail": "https://media.eiga.com/images/movie/104412/photo/224ee8255179ef47/320.jpg",
+      "scraped_at": "2026-05-19T02:55:49.702564"
+    },
+    {
+      "title": "チェイサーゲームW 水魚の交わり",
+      "url": "https://eiga.com/movie/105366/",
+      "release_date": "5月15日",
+      "thumbnail": "https://media.eiga.com/images/movie/105366/photo/2d16bfc04d74ed3a/320.jpg",
+      "scraped_at": "2026-05-19T02:55:49.702622"
     },
     {
       "title": "THE MUMMY ザ・マミー 棺の中の少女",
       "url": "https://eiga.com/movie/105663/",
       "release_date": "5月15日",
       "thumbnail": "https://media.eiga.com/images/movie/105663/photo/cd1c0bee99ff95fc/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516916"
+      "scraped_at": "2026-05-19T02:55:49.702691"
     },
     {
       "title": "EPiC エピック エルヴィス・プレスリー・イン・コンサート",
       "url": "https://eiga.com/movie/105395/",
       "release_date": "5月15日",
       "thumbnail": "https://media.eiga.com/images/movie/105395/photo/c7ce800559d573b7/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.516965"
-    },
-    {
-      "title": "ママと神さまとシルヴィ・バルタン",
-      "url": "https://eiga.com/movie/105329/",
-      "release_date": "5月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/105329/photo/f485056fa55d83b6/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.517018"
-    },
-    {
-      "title": "Stray Kids: The dominATE Experience",
-      "url": "https://eiga.com/movie/105539/",
-      "release_date": "5月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/105539/photo/d34301873dd0a870/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.517071"
+      "scraped_at": "2026-05-19T02:55:49.702750"
     },
     {
       "title": "Perfume“コールドスリープ” 25 years Document",
       "url": "https://eiga.com/movie/105305/",
       "release_date": "5月15日",
       "thumbnail": "https://media.eiga.com/images/movie/105305/photo/123771f59f406e97/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.517122"
+      "scraped_at": "2026-05-19T02:55:49.702809"
     },
     {
-      "title": "ザ・コラール 希望を紡ぐ歌",
-      "url": "https://eiga.com/movie/105770/",
+      "title": "ママと神さまとシルヴィ・バルタン",
+      "url": "https://eiga.com/movie/105329/",
       "release_date": "5月15日",
-      "thumbnail": "https://media.eiga.com/images/movie/105770/photo/b9af4d23cf00440a/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.517172"
+      "thumbnail": "https://media.eiga.com/images/movie/105329/photo/f485056fa55d83b6/320.jpg",
+      "scraped_at": "2026-05-19T02:55:49.702867"
+    },
+    {
+      "title": "Stray Kids: The dominATE Experience",
+      "url": "https://eiga.com/movie/105539/",
+      "release_date": "5月15日",
+      "thumbnail": "https://media.eiga.com/images/movie/105539/photo/d34301873dd0a870/320.jpg",
+      "scraped_at": "2026-05-19T02:55:49.702925"
     },
     {
       "title": "Erica エリカ",
       "url": "https://eiga.com/movie/103701/",
       "release_date": "5月15日",
       "thumbnail": "https://media.eiga.com/images/movie/103701/photo/5ad60b102b94e763/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.517222"
+      "scraped_at": "2026-05-19T02:55:49.702983"
+    },
+    {
+      "title": "ザ・コラール 希望を紡ぐ歌",
+      "url": "https://eiga.com/movie/105770/",
+      "release_date": "5月15日",
+      "thumbnail": "https://media.eiga.com/images/movie/105770/photo/b9af4d23cf00440a/320.jpg",
+      "scraped_at": "2026-05-19T02:55:49.703040"
     },
     {
       "title": "殺し屋1",
       "url": "https://eiga.com/movie/1484/",
       "release_date": "5月15日",
       "thumbnail": "https://media.eiga.com/images/movie/1484/photo/7d8a58c1f54b86c3/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.517271"
+      "scraped_at": "2026-05-19T02:55:49.703098"
     },
     {
       "title": "ボタニスト 植物を愛する少年",
       "url": "https://eiga.com/movie/104328/",
       "release_date": "5月15日",
       "thumbnail": "https://media.eiga.com/images/movie/104328/photo/2fc9d1a4421a7070/320.jpg",
-      "scraped_at": "2026-05-18T03:26:40.517318"
+      "scraped_at": "2026-05-19T02:55:49.703155"
     }
   ]
 }
