@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-05-25T03:33:36.060772",
+  "updated_at": "2026-05-26T02:53:01.546689",
   "count": 20,
   "movies": [
-    {
-      "title": "歌舞伎役者 片岡仁左衛門 第5巻「孫右衛門の巻」",
-      "url": "https://eiga.com/movie/105986/",
-      "release_date": "5月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/105986/photo/55742ae1c38064f7/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.298878"
-    },
     {
       "title": "小春日和 Indian Summer",
       "url": "https://eiga.com/movie/105739/",
       "release_date": "5月29日",
       "thumbnail": "https://media.eiga.com/images/movie/105739/photo/e335ff2084750249/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.298980"
+      "scraped_at": "2026-05-26T02:53:01.490193"
     },
     {
       "title": "軋み KISHIMI",
       "url": "https://eiga.com/movie/105645/",
       "release_date": "5月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105645/photo/e601377668118cc1/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299052"
+      "scraped_at": "2026-05-26T02:53:01.490304"
     },
     {
       "title": "心のパズル",
       "url": "https://eiga.com/movie/105749/",
       "release_date": "5月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105749/photo/d670b43a066109ae/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299115"
-    },
-    {
-      "title": "遊歩 ノーボーダー",
-      "url": "https://eiga.com/movie/105859/",
-      "release_date": "5月23日",
-      "thumbnail": "https://media.eiga.com/images/movie/105859/photo/11f2fb1830ddc540/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299180"
+      "scraped_at": "2026-05-26T02:53:01.490370"
     },
     {
       "title": "キラークイーン Phantom School",
       "url": "https://eiga.com/movie/105896/",
       "release_date": "5月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105896/photo/73d38cd0ce324dce/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299238"
+      "scraped_at": "2026-05-26T02:53:01.490436"
+    },
+    {
+      "title": "遊歩 ノーボーダー",
+      "url": "https://eiga.com/movie/105859/",
+      "release_date": "5月23日",
+      "thumbnail": "https://media.eiga.com/images/movie/105859/photo/11f2fb1830ddc540/320.jpg",
+      "scraped_at": "2026-05-26T02:53:01.490503"
     },
     {
       "title": "イート・ザ・ナイト",
       "url": "https://eiga.com/movie/102872/",
       "release_date": "5月23日",
       "thumbnail": "https://media.eiga.com/images/movie/102872/photo/e9f9c2e5317f4447/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299291"
+      "scraped_at": "2026-05-26T02:53:01.490561"
     },
     {
       "title": "歌舞伎役者 片岡仁左衛門 第3巻「人と芸の巻 中巻」",
       "url": "https://eiga.com/movie/105984/",
       "release_date": "5月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105984/photo/a55d84d8f8f03acc/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299350"
+      "scraped_at": "2026-05-26T02:53:01.490615"
     },
     {
       "title": "歌舞伎役者 片岡仁左衛門 第4巻「人と芸の巻 下巻」",
       "url": "https://eiga.com/movie/105985/",
       "release_date": "5月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105985/photo/ba59e32b41a8935f/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299404"
+      "scraped_at": "2026-05-26T02:53:01.490674"
     },
     {
       "title": "スター・ウォーズ マンダロリアン・アンド・グローグー",
       "url": "https://eiga.com/movie/101055/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/101055/photo/13f49196ec023ded/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299456"
+      "scraped_at": "2026-05-26T02:53:01.490726"
     },
     {
       "title": "名無し",
       "url": "https://eiga.com/movie/104852/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/104852/photo/9056089639e9de61/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299504"
+      "scraped_at": "2026-05-26T02:53:01.490777"
     },
     {
       "title": "ミステリー・アリーナ",
       "url": "https://eiga.com/movie/105227/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/105227/photo/59c1eb210aff7e9d/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299552"
+      "scraped_at": "2026-05-26T02:53:01.490826"
     },
     {
       "title": "SUPER BEAVER LIVE & DOCUMENTARY 現在地",
       "url": "https://eiga.com/movie/105496/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/105496/photo/d446ee117c3eeb6b/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299600"
+      "scraped_at": "2026-05-26T02:53:01.490875"
     },
     {
       "title": "ヴィヴァルディと私",
       "url": "https://eiga.com/movie/105898/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/105898/photo/6faf48b26a628478/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299647"
+      "scraped_at": "2026-05-26T02:53:01.490923"
     },
     {
       "title": "オラン・イカン",
       "url": "https://eiga.com/movie/102498/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/102498/photo/92a1505b55f336d3/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299694"
+      "scraped_at": "2026-05-26T02:53:01.490970"
     },
     {
       "title": "いろは",
       "url": "https://eiga.com/movie/105694/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/105694/photo/ff861ca29d21191b/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299758"
+      "scraped_at": "2026-05-26T02:53:01.491017"
     },
     {
       "title": "OXANA 裸の革命家・オクサナ",
       "url": "https://eiga.com/movie/105619/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/105619/photo/6dbb0b680f66a8f5/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299806"
+      "scraped_at": "2026-05-26T02:53:01.491067"
     },
     {
       "title": "クニコからはじまる話",
       "url": "https://eiga.com/movie/105792/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/105792/photo/b7928368cb62a197/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299854"
+      "scraped_at": "2026-05-26T02:53:01.491115"
     },
     {
       "title": "劇場版「HAMAツアーズpresents “おもてなしライブ” Sparkle」",
       "url": "https://eiga.com/movie/105702/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/105702/photo/cf3e402e2cd5e7ea/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299906"
+      "scraped_at": "2026-05-26T02:53:01.491162"
     },
     {
       "title": "ボーイズ・ゴー・トゥ・ジュピター",
       "url": "https://eiga.com/movie/105104/",
       "release_date": "5月22日",
       "thumbnail": "https://media.eiga.com/images/movie/105104/photo/16ed23b5c8c16659/320.jpg",
-      "scraped_at": "2026-05-25T03:33:35.299955"
+      "scraped_at": "2026-05-26T02:53:01.491233"
+    },
+    {
+      "title": "石井ふく子 100歳 心のドラマの軌跡",
+      "url": "https://eiga.com/movie/105982/",
+      "release_date": "5月22日",
+      "thumbnail": "https://media.eiga.com/images/movie/105982/photo/5f6e33955b921105/320.jpg",
+      "scraped_at": "2026-05-26T02:53:01.491297"
     }
   ]
 }
