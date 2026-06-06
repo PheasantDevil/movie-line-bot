@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-06-05T03:31:09.308369",
+  "updated_at": "2026-06-06T02:52:01.422896",
   "count": 20,
   "movies": [
+    {
+      "title": "わたしの聖なるインド",
+      "url": "https://eiga.com/movie/105801/",
+      "release_date": "6月6日",
+      "thumbnail": "https://media.eiga.com/images/movie/105801/photo/7136c8cde49db92a/320.jpg",
+      "scraped_at": "2026-06-06T02:52:00.927073"
+    },
+    {
+      "title": "10th ANNIVERSARY OSOMATSUSAN SPECIAL 6DAYS",
+      "url": "https://eiga.com/movie/106085/",
+      "release_date": "6月6日",
+      "thumbnail": "https://media.eiga.com/images/movie/106085/photo/6476ce62b40177c7/320.jpg",
+      "scraped_at": "2026-06-06T02:52:00.927175"
+    },
+    {
+      "title": "聴く隣人のいるところ",
+      "url": "https://eiga.com/movie/105727/",
+      "release_date": "6月6日",
+      "thumbnail": "https://media.eiga.com/images/movie/105727/photo/5a68642961c31117/320.jpg",
+      "scraped_at": "2026-06-06T02:52:00.927257"
+    },
     {
       "title": "マスターズ・オブ・ユニバース",
       "url": "https://eiga.com/movie/105461/",
       "release_date": "6月5日",
       "thumbnail": "https://media.eiga.com/images/movie/105461/photo/fddc0c540c140258/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.788799"
+      "scraped_at": "2026-06-06T02:52:00.927335"
     },
     {
       "title": "モータルコンバット ネクストラウンド",
       "url": "https://eiga.com/movie/105860/",
       "release_date": "6月5日",
       "thumbnail": "https://media.eiga.com/images/movie/105860/photo/98fe1d3401fcd8b2/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.788899"
+      "scraped_at": "2026-06-06T02:52:00.927413"
     },
     {
       "title": "Never After Dark ネバーアフターダーク",
       "url": "https://eiga.com/movie/105401/",
       "release_date": "6月5日",
       "thumbnail": "https://media.eiga.com/images/movie/105401/photo/12bf742a5b81f611/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.788978"
-    },
-    {
-      "title": "FUJIKO",
-      "url": "https://eiga.com/movie/103625/",
-      "release_date": "6月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/103625/photo/8911e2513ceebd64/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789055"
+      "scraped_at": "2026-06-06T02:52:00.927487"
     },
     {
       "title": "シラート",
       "url": "https://eiga.com/movie/103729/",
       "release_date": "6月5日",
       "thumbnail": "https://media.eiga.com/images/movie/103729/photo/a48c87d33e4603f4/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789137"
+      "scraped_at": "2026-06-06T02:52:00.927559"
     },
     {
-      "title": "山口くんはワルくない",
-      "url": "https://eiga.com/movie/105194/",
+      "title": "FUJIKO",
+      "url": "https://eiga.com/movie/103625/",
       "release_date": "6月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/105194/photo/8f500105282cc901/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789237"
+      "thumbnail": "https://media.eiga.com/images/movie/103625/photo/8911e2513ceebd64/320.jpg",
+      "scraped_at": "2026-06-06T02:52:00.927632"
     },
     {
       "title": "モブ子の恋",
       "url": "https://eiga.com/movie/99526/",
       "release_date": "6月5日",
       "thumbnail": "https://media.eiga.com/images/movie/99526/photo/1006cb4c1a9f1544/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789309"
+      "scraped_at": "2026-06-06T02:52:00.927736"
     },
     {
-      "title": "カーンターラ 神の降臨",
-      "url": "https://eiga.com/movie/105737/",
+      "title": "山口くんはワルくない",
+      "url": "https://eiga.com/movie/105194/",
       "release_date": "6月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/105737/photo/37abb530051e4369/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789383"
+      "thumbnail": "https://media.eiga.com/images/movie/105194/photo/8f500105282cc901/320.jpg",
+      "scraped_at": "2026-06-06T02:52:00.927807"
     },
     {
       "title": "The Amazing Digital Circus ザ・ラストアクト",
       "url": "https://eiga.com/movie/106238/",
       "release_date": "6月5日",
       "thumbnail": "https://media.eiga.com/images/movie/106238/photo/6ff430f240ec4979/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789454"
+      "scraped_at": "2026-06-06T02:52:00.927875"
     },
     {
-      "title": "君と僕の5分",
-      "url": "https://eiga.com/movie/105768/",
+      "title": "カーンターラ 神の降臨",
+      "url": "https://eiga.com/movie/105737/",
       "release_date": "6月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/105768/photo/824186118884f89a/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789526"
+      "thumbnail": "https://media.eiga.com/images/movie/105737/photo/37abb530051e4369/320.jpg",
+      "scraped_at": "2026-06-06T02:52:00.927951"
     },
     {
       "title": "アン・リー はじまりの物語",
       "url": "https://eiga.com/movie/104403/",
       "release_date": "6月5日",
       "thumbnail": "https://media.eiga.com/images/movie/104403/photo/aa4055add6ebaf4a/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789596"
-    },
-    {
-      "title": "スカーフェイス",
-      "url": "https://eiga.com/movie/16478/",
-      "release_date": "6月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/16478/photo/5bf5c348faa1258d/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789664"
-    },
-    {
-      "title": "アダムの原罪",
-      "url": "https://eiga.com/movie/105753/",
-      "release_date": "6月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/105753/photo/78e059127620ff0a/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789731"
-    },
-    {
-      "title": "オンデマンド",
-      "url": "https://eiga.com/movie/106206/",
-      "release_date": "6月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/106206/photo/608cf39329840bd2/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789797"
+      "scraped_at": "2026-06-06T02:52:00.928020"
     },
     {
       "title": "SAMURAI BLUE Project for FIFA World Cup 2026™️ 「ONE CREATURE」無数の個性、ひとつの生きもの。",
       "url": "https://eiga.com/movie/105950/",
       "release_date": "6月5日",
       "thumbnail": "https://media.eiga.com/images/movie/105950/photo/729410d489ba1281/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789863"
+      "scraped_at": "2026-06-06T02:52:00.928087"
+    },
+    {
+      "title": "君と僕の5分",
+      "url": "https://eiga.com/movie/105768/",
+      "release_date": "6月5日",
+      "thumbnail": "https://media.eiga.com/images/movie/105768/photo/824186118884f89a/320.jpg",
+      "scraped_at": "2026-06-06T02:52:00.928154"
+    },
+    {
+      "title": "スカーフェイス",
+      "url": "https://eiga.com/movie/16478/",
+      "release_date": "6月5日",
+      "thumbnail": "https://media.eiga.com/images/movie/16478/photo/5bf5c348faa1258d/320.jpg",
+      "scraped_at": "2026-06-06T02:52:00.928226"
+    },
+    {
+      "title": "アダムの原罪",
+      "url": "https://eiga.com/movie/105753/",
+      "release_date": "6月5日",
+      "thumbnail": "https://media.eiga.com/images/movie/105753/photo/78e059127620ff0a/320.jpg",
+      "scraped_at": "2026-06-06T02:52:00.928299"
     },
     {
       "title": "ぼったくり家族",
       "url": "https://eiga.com/movie/105957/",
       "release_date": "6月5日",
       "thumbnail": "https://media.eiga.com/images/movie/105957/photo/a21fed1e62a7ffc8/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789929"
+      "scraped_at": "2026-06-06T02:52:00.928367"
     },
     {
       "title": "福本清三 どこかで誰かが見ていてくれる",
       "url": "https://eiga.com/movie/105844/",
       "release_date": "6月5日",
       "thumbnail": "https://media.eiga.com/images/movie/105844/photo/d8bcea3aaa22b756/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.789995"
+      "scraped_at": "2026-06-06T02:52:00.928433"
     },
     {
-      "title": "ギデンズ・コーの功夫（カンフー）",
-      "url": "https://eiga.com/movie/106147/",
+      "title": "オンデマンド",
+      "url": "https://eiga.com/movie/106206/",
       "release_date": "6月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/106147/photo/f9ceea1482108aa1/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.790061"
-    },
-    {
-      "title": "the moment ザ・モーメント",
-      "url": "https://eiga.com/movie/106047/",
-      "release_date": "6月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/106047/photo/1b2b3e2c355a17a1/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.790127"
-    },
-    {
-      "title": "岡本万太",
-      "url": "https://eiga.com/movie/105849/",
-      "release_date": "6月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/105849/photo/5d64bd7e40c9ed4c/320.jpg",
-      "scraped_at": "2026-06-05T03:31:08.790218"
+      "thumbnail": "https://media.eiga.com/images/movie/106206/photo/608cf39329840bd2/320.jpg",
+      "scraped_at": "2026-06-06T02:52:00.928500"
     }
   ]
 }
