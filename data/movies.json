@@ -1,139 +1,139 @@
 {
-  "updated_at": "2026-06-17T03:51:37.472333",
+  "updated_at": "2026-06-18T03:38:41.054865",
   "count": 19,
   "movies": [
+    {
+      "title": "免許返納!?",
+      "url": "https://eiga.com/movie/105248/",
+      "release_date": "6月19日",
+      "thumbnail": "https://media.eiga.com/images/movie/105248/photo/ff72d6e0f86dc6be/320.jpg",
+      "scraped_at": "2026-06-18T03:38:40.491269"
+    },
     {
       "title": "魔女の宅急便（1989）",
       "url": "https://eiga.com/movie/28558/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/28558/photo/75df6f927ea0aacc/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.393504"
+      "scraped_at": "2026-06-18T03:38:40.491375"
     },
     {
       "title": "PEAK END",
       "url": "https://eiga.com/movie/105830/",
       "release_date": "6月13日",
       "thumbnail": "https://media.eiga.com/images/movie/105830/photo/cff81ff2d97907c9/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.393606"
+      "scraped_at": "2026-06-18T03:38:40.491454"
     },
     {
       "title": "清掃する女 亡霊",
       "url": "https://eiga.com/movie/106228/",
       "release_date": "6月13日",
       "thumbnail": "https://media.eiga.com/images/movie/106228/photo/30f025a1c8340dbe/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.393685"
+      "scraped_at": "2026-06-18T03:38:40.491530"
     },
     {
       "title": "ゆっくりあるく 川村浪子、84歳のダンス",
       "url": "https://eiga.com/movie/106068/",
       "release_date": "6月13日",
       "thumbnail": "https://media.eiga.com/images/movie/106068/photo/403be076cb29d7c9/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.393766"
+      "scraped_at": "2026-06-18T03:38:40.491607"
     },
     {
       "title": "Michael マイケル",
       "url": "https://eiga.com/movie/102093/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/102093/photo/d1b3ebd544042e07/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.393845"
+      "scraped_at": "2026-06-18T03:38:40.491679"
     },
     {
       "title": "映画 おそ松さん 人類クズ化計画!!!!!?",
       "url": "https://eiga.com/movie/104088/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/104088/photo/fb7d929006ee54a0/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.393917"
+      "scraped_at": "2026-06-18T03:38:40.491773"
     },
     {
       "title": "祝山",
       "url": "https://eiga.com/movie/105741/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/105741/photo/80161ad3a688e831/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.393988"
+      "scraped_at": "2026-06-18T03:38:40.491853"
     },
     {
       "title": "NEW GROUP",
       "url": "https://eiga.com/movie/104222/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/104222/photo/931dec203be36d02/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394061"
+      "scraped_at": "2026-06-18T03:38:40.491935"
     },
     {
       "title": "メモリィズ",
       "url": "https://eiga.com/movie/105245/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/105245/photo/5b4d0801714408a7/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394131"
+      "scraped_at": "2026-06-18T03:38:40.492004"
     },
     {
       "title": "劇場版 旅人検視官 道場修作",
       "url": "https://eiga.com/movie/105752/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/105752/photo/b8e0eabb8e82de44/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394199"
+      "scraped_at": "2026-06-18T03:38:40.492071"
     },
     {
       "title": "臨時増発 ミルキー☆サブウェイ 各駅停車劇場行き",
       "url": "https://eiga.com/movie/106172/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/106172/photo/55af9e105c575852/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394271"
+      "scraped_at": "2026-06-18T03:38:40.492141"
     },
     {
       "title": "DIE MY LOVE ダイ・マイ・ラブ",
       "url": "https://eiga.com/movie/103900/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/103900/photo/e6b91555a9771bc0/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394358"
+      "scraped_at": "2026-06-18T03:38:40.492208"
     },
     {
       "title": "エレノアってグレイト。",
       "url": "https://eiga.com/movie/105717/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/105717/photo/aac53eaf8662deb9/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394434"
-    },
-    {
-      "title": "ユマカウンティの行き止まり",
-      "url": "https://eiga.com/movie/106072/",
-      "release_date": "6月12日",
-      "thumbnail": "https://media.eiga.com/images/movie/106072/photo/32d84861c1b10993/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394508"
+      "scraped_at": "2026-06-18T03:38:40.492272"
     },
     {
       "title": "ジェニー・ペンはご機嫌ななめ",
       "url": "https://eiga.com/movie/105609/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/105609/photo/c75ccf0790a78752/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394574"
+      "scraped_at": "2026-06-18T03:38:40.492338"
     },
     {
       "title": "ブルーイ in シネマ みちしるべ",
       "url": "https://eiga.com/movie/105665/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/105665/photo/d91a24523559586c/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394641"
+      "scraped_at": "2026-06-18T03:38:40.492404"
+    },
+    {
+      "title": "ユマカウンティの行き止まり",
+      "url": "https://eiga.com/movie/106072/",
+      "release_date": "6月12日",
+      "thumbnail": "https://media.eiga.com/images/movie/106072/photo/32d84861c1b10993/320.jpg",
+      "scraped_at": "2026-06-18T03:38:40.492470"
     },
     {
       "title": "ライフセーバー！",
       "url": "https://eiga.com/movie/105937/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/105937/photo/c05882404352033e/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394706"
+      "scraped_at": "2026-06-18T03:38:40.492536"
     },
     {
       "title": "劇場版 山崎一門II 日本統一",
       "url": "https://eiga.com/movie/105914/",
       "release_date": "6月12日",
       "thumbnail": "https://media.eiga.com/images/movie/105914/photo/3984eeac59ec9835/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394773"
-    },
-    {
-      "title": "hinata",
-      "url": "https://eiga.com/movie/106233/",
-      "release_date": "6月12日",
-      "thumbnail": "https://media.eiga.com/images/movie/106233/photo/c91e913e9600803e/320.jpg",
-      "scraped_at": "2026-06-17T03:51:37.394838"
+      "scraped_at": "2026-06-18T03:38:40.492602"
     }
   ]
 }
