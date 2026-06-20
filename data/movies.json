@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-06-19T04:01:49.318150",
+  "updated_at": "2026-06-20T03:25:27.702030",
   "count": 20,
   "movies": [
     {
-      "title": "マジカル・シークレット・ツアー",
-      "url": "https://eiga.com/movie/105486/",
-      "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/105486/photo/b058d8412f865268/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.233917"
+      "title": "ディッシュアップ",
+      "url": "https://eiga.com/movie/105771/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/105771/photo/3c07bd2686c5419a/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.587211"
     },
     {
-      "title": "免許返納!?",
-      "url": "https://eiga.com/movie/105248/",
-      "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/105248/photo/ff72d6e0f86dc6be/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234014"
+      "title": "愛の世紀",
+      "url": "https://eiga.com/movie/1257/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/1257/photo/91cb7b35795f7837/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.587313"
+    },
+    {
+      "title": "アワーミュージック",
+      "url": "https://eiga.com/movie/1584/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/1584/photo/00464b84cfe60b86/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.587413"
+    },
+    {
+      "title": "ウィスキー・ガロア",
+      "url": "https://eiga.com/movie/106142/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/106142/photo/d7eaf175f438f16b/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.587499"
+    },
+    {
+      "title": "映画史特別編 選ばれた瞬間",
+      "url": "https://eiga.com/movie/105872/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/105872/photo/c8bbb84f019d8434/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.587577"
+    },
+    {
+      "title": "カインド・ハート",
+      "url": "https://eiga.com/movie/106143/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/106143/photo/4c7d5c10e8db72d1/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.587650"
+    },
+    {
+      "title": "ゴダール・ソシアリスム",
+      "url": "https://eiga.com/movie/55820/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/55820/photo/d18b358fafb904d0/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.587719"
+    },
+    {
+      "title": "山の焚火",
+      "url": "https://eiga.com/movie/50251/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/50251/photo/60320c7422d884d0/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.587801"
+    },
+    {
+      "title": "ラベンダー・ヒル・モブ",
+      "url": "https://eiga.com/movie/106145/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/106145/photo/03c21754f93c4abb/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.587872"
     },
     {
       "title": "黒牢城",
       "url": "https://eiga.com/movie/105427/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105427/photo/a4101f785d3488eb/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234081"
+      "scraped_at": "2026-06-20T03:25:27.587940"
+    },
+    {
+      "title": "免許返納!?",
+      "url": "https://eiga.com/movie/105248/",
+      "release_date": "6月19日",
+      "thumbnail": "https://media.eiga.com/images/movie/105248/photo/ff72d6e0f86dc6be/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.588007"
     },
     {
       "title": "急に具合が悪くなる",
       "url": "https://eiga.com/movie/103908/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/103908/photo/687f3afacff2f49c/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234145"
+      "scraped_at": "2026-06-20T03:25:27.588073"
     },
     {
-      "title": "偏向報道",
-      "url": "https://eiga.com/movie/106121/",
+      "title": "マジカル・シークレット・ツアー",
+      "url": "https://eiga.com/movie/105486/",
       "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/106121/photo/3b76e0fc548edccb/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234211"
-    },
-    {
-      "title": "魔女の宅急便（1989）",
-      "url": "https://eiga.com/movie/28558/",
-      "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/28558/photo/75df6f927ea0aacc/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234271"
+      "thumbnail": "https://media.eiga.com/images/movie/105486/photo/b058d8412f865268/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.588140"
     },
     {
       "title": "君は映画",
       "url": "https://eiga.com/movie/105232/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105232/photo/2f1c4eab956d794e/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234331"
+      "scraped_at": "2026-06-20T03:25:27.588207"
     },
     {
       "title": "さよなら、僕の英雄",
       "url": "https://eiga.com/movie/105852/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105852/photo/7ddff95c6aa6283a/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234395"
-    },
-    {
-      "title": "遺愛",
-      "url": "https://eiga.com/movie/105509/",
-      "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/105509/photo/a972562710d72239/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234453"
-    },
-    {
-      "title": "アイ・ワズ・ア・ストレンジャー",
-      "url": "https://eiga.com/movie/105981/",
-      "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/105981/photo/729ad70280edff83/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234510"
-    },
-    {
-      "title": "ダイヤモンド 私たちの衣装工房",
-      "url": "https://eiga.com/movie/105750/",
-      "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/105750/photo/1fc680892302c8b4/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234569"
-    },
-    {
-      "title": "スクリーム 7",
-      "url": "https://eiga.com/movie/105695/",
-      "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/105695/photo/490eb84e89c3e434/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234630"
-    },
-    {
-      "title": "プリティ・クレイジー 悪魔が引っ越してきた",
-      "url": "https://eiga.com/movie/105794/",
-      "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/105794/photo/ce5a72d52319743f/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234687"
+      "scraped_at": "2026-06-20T03:25:27.588272"
     },
     {
       "title": "億万長者の不都合な終末",
       "url": "https://eiga.com/movie/105932/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105932/photo/f726442228100ee9/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234744"
+      "scraped_at": "2026-06-20T03:25:27.588338"
     },
     {
-      "title": "バカンスは始まったばかり",
-      "url": "https://eiga.com/movie/106079/",
+      "title": "魔女の宅急便（1989）",
+      "url": "https://eiga.com/movie/28558/",
       "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/106079/photo/f529fec39c61af21/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234800"
+      "thumbnail": "https://media.eiga.com/images/movie/28558/photo/75df6f927ea0aacc/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.588453"
     },
     {
-      "title": "傘少女",
-      "url": "https://eiga.com/movie/102437/",
+      "title": "遺愛",
+      "url": "https://eiga.com/movie/105509/",
       "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/102437/photo/02a98664dc2f989c/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234885"
+      "thumbnail": "https://media.eiga.com/images/movie/105509/photo/a972562710d72239/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.588534"
     },
     {
-      "title": "イミディエイト ファミリー",
-      "url": "https://eiga.com/movie/106042/",
+      "title": "偏向報道",
+      "url": "https://eiga.com/movie/106121/",
       "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/106042/photo/3416ead308402723/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.234945"
+      "thumbnail": "https://media.eiga.com/images/movie/106121/photo/3b76e0fc548edccb/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.588609"
     },
     {
-      "title": "おくりもの",
-      "url": "https://eiga.com/movie/105994/",
+      "title": "プリティ・クレイジー 悪魔が引っ越してきた",
+      "url": "https://eiga.com/movie/105794/",
       "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/105994/photo/1517be3d302bb1a7/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.235002"
-    },
-    {
-      "title": "お笑えない芸人",
-      "url": "https://eiga.com/movie/105404/",
-      "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/105404/photo/7927a49676160fbb/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.235060"
-    },
-    {
-      "title": "怪獣と老人",
-      "url": "https://eiga.com/movie/104605/",
-      "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/104605/photo/45e53cfec93d3fb9/320.jpg",
-      "scraped_at": "2026-06-19T04:01:49.235116"
+      "thumbnail": "https://media.eiga.com/images/movie/105794/photo/ce5a72d52319743f/320.jpg",
+      "scraped_at": "2026-06-20T03:25:27.588677"
     }
   ]
 }
