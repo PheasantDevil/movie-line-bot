@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T03:55:02.771009",
+  "updated_at": "2026-06-22T03:56:48.314133",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/105771/",
       "release_date": "6月20日",
       "thumbnail": "https://media.eiga.com/images/movie/105771/photo/3c07bd2686c5419a/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.701696"
+      "scraped_at": "2026-06-22T03:56:48.252710"
     },
     {
       "title": "愛の世紀",
       "url": "https://eiga.com/movie/1257/",
       "release_date": "6月20日",
       "thumbnail": "https://media.eiga.com/images/movie/1257/photo/91cb7b35795f7837/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.701792"
-    },
-    {
-      "title": "アワーミュージック",
-      "url": "https://eiga.com/movie/1584/",
-      "release_date": "6月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/1584/photo/00464b84cfe60b86/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.701859"
-    },
-    {
-      "title": "ウィスキー・ガロア",
-      "url": "https://eiga.com/movie/106142/",
-      "release_date": "6月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/106142/photo/d7eaf175f438f16b/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.701923"
-    },
-    {
-      "title": "映画史特別編 選ばれた瞬間",
-      "url": "https://eiga.com/movie/105872/",
-      "release_date": "6月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/105872/photo/c8bbb84f019d8434/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.701986"
-    },
-    {
-      "title": "カインド・ハート",
-      "url": "https://eiga.com/movie/106143/",
-      "release_date": "6月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/106143/photo/4c7d5c10e8db72d1/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702040"
+      "scraped_at": "2026-06-22T03:56:48.252811"
     },
     {
       "title": "ゴダール・ソシアリスム",
       "url": "https://eiga.com/movie/55820/",
       "release_date": "6月20日",
       "thumbnail": "https://media.eiga.com/images/movie/55820/photo/d18b358fafb904d0/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702091"
+      "scraped_at": "2026-06-22T03:56:48.252891"
+    },
+    {
+      "title": "ウィスキー・ガロア",
+      "url": "https://eiga.com/movie/106142/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/106142/photo/d7eaf175f438f16b/320.jpg",
+      "scraped_at": "2026-06-22T03:56:48.253020"
+    },
+    {
+      "title": "アワーミュージック",
+      "url": "https://eiga.com/movie/1584/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/1584/photo/00464b84cfe60b86/320.jpg",
+      "scraped_at": "2026-06-22T03:56:48.253086"
+    },
+    {
+      "title": "映画史特別編 選ばれた瞬間",
+      "url": "https://eiga.com/movie/105872/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/105872/photo/c8bbb84f019d8434/320.jpg",
+      "scraped_at": "2026-06-22T03:56:48.253142"
     },
     {
       "title": "白衣の男",
       "url": "https://eiga.com/movie/106144/",
       "release_date": "6月20日",
       "thumbnail": "https://media.eiga.com/images/movie/106144/photo/12513c05f9e6e3e0/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702146"
+      "scraped_at": "2026-06-22T03:56:48.253197"
     },
     {
-      "title": "我ら山人たち",
-      "url": "https://eiga.com/movie/92381/",
+      "title": "緑の山",
+      "url": "https://eiga.com/movie/92382/",
       "release_date": "6月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/92381/photo/3122d6e77c074fe2/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702210"
+      "thumbnail": "https://media.eiga.com/images/movie/92382/photo/682f9f2af9f18511/320.jpg",
+      "scraped_at": "2026-06-22T03:56:48.253254"
+    },
+    {
+      "title": "ラベンダー・ヒル・モブ",
+      "url": "https://eiga.com/movie/106145/",
+      "release_date": "6月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/106145/photo/03c21754f93c4abb/320.jpg",
+      "scraped_at": "2026-06-22T03:56:48.253310"
     },
     {
       "title": "黒牢城",
       "url": "https://eiga.com/movie/105427/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105427/photo/a4101f785d3488eb/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702260"
+      "scraped_at": "2026-06-22T03:56:48.253362"
     },
     {
       "title": "免許返納!?",
       "url": "https://eiga.com/movie/105248/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105248/photo/ff72d6e0f86dc6be/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702320"
+      "scraped_at": "2026-06-22T03:56:48.253412"
     },
     {
       "title": "急に具合が悪くなる",
       "url": "https://eiga.com/movie/103908/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/103908/photo/687f3afacff2f49c/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702368"
+      "scraped_at": "2026-06-22T03:56:48.253461"
     },
     {
       "title": "マジカル・シークレット・ツアー",
       "url": "https://eiga.com/movie/105486/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105486/photo/b058d8412f865268/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702415"
+      "scraped_at": "2026-06-22T03:56:48.253510"
     },
     {
       "title": "君は映画",
       "url": "https://eiga.com/movie/105232/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105232/photo/2f1c4eab956d794e/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702486"
+      "scraped_at": "2026-06-22T03:56:48.253556"
     },
     {
       "title": "さよなら、僕の英雄",
       "url": "https://eiga.com/movie/105852/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105852/photo/7ddff95c6aa6283a/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702542"
+      "scraped_at": "2026-06-22T03:56:48.253603"
     },
     {
       "title": "億万長者の不都合な終末",
       "url": "https://eiga.com/movie/105932/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105932/photo/f726442228100ee9/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702591"
+      "scraped_at": "2026-06-22T03:56:48.253652"
     },
     {
       "title": "魔女の宅急便（1989）",
       "url": "https://eiga.com/movie/28558/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/28558/photo/75df6f927ea0aacc/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702638"
+      "scraped_at": "2026-06-22T03:56:48.253702"
     },
     {
       "title": "遺愛",
       "url": "https://eiga.com/movie/105509/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105509/photo/a972562710d72239/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702684"
-    },
-    {
-      "title": "プリティ・クレイジー 悪魔が引っ越してきた",
-      "url": "https://eiga.com/movie/105794/",
-      "release_date": "6月19日",
-      "thumbnail": "https://media.eiga.com/images/movie/105794/photo/ce5a72d52319743f/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702731"
+      "scraped_at": "2026-06-22T03:56:48.253751"
     },
     {
       "title": "アイ・ワズ・ア・ストレンジャー",
       "url": "https://eiga.com/movie/105981/",
       "release_date": "6月19日",
       "thumbnail": "https://media.eiga.com/images/movie/105981/photo/729ad70280edff83/320.jpg",
-      "scraped_at": "2026-06-21T03:55:02.702781"
+      "scraped_at": "2026-06-22T03:56:48.253799"
+    },
+    {
+      "title": "偏向報道",
+      "url": "https://eiga.com/movie/106121/",
+      "release_date": "6月19日",
+      "thumbnail": "https://media.eiga.com/images/movie/106121/photo/3b76e0fc548edccb/320.jpg",
+      "scraped_at": "2026-06-22T03:56:48.253846"
     }
   ]
 }
