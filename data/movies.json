@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-06-28T03:32:36.116936",
+  "updated_at": "2026-06-29T03:37:26.632642",
   "count": 20,
   "movies": [
+    {
+      "title": "おばあちゃんの秘密",
+      "url": "https://eiga.com/movie/103487/",
+      "release_date": "7月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/103487/photo/5ffa634f3c9df857/320.jpg",
+      "scraped_at": "2026-06-29T03:37:26.570025"
+    },
+    {
+      "title": "ビートルズがいた夏",
+      "url": "https://eiga.com/movie/105874/",
+      "release_date": "7月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/105874/photo/80f5e3eab38bd0d2/320.jpg",
+      "scraped_at": "2026-06-29T03:37:26.570119"
+    },
     {
       "title": "バナ穴 BANA_ANA",
       "url": "https://eiga.com/movie/106033/",
       "release_date": "6月27日",
       "thumbnail": "https://media.eiga.com/images/movie/106033/photo/68e7edc2a18d19be/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011036"
+      "scraped_at": "2026-06-29T03:37:26.570187"
     },
     {
       "title": "ひとりたび",
       "url": "https://eiga.com/movie/102347/",
       "release_date": "6月27日",
       "thumbnail": "https://media.eiga.com/images/movie/102347/photo/ee58d0a8425bcff0/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011137"
+      "scraped_at": "2026-06-29T03:37:26.570247"
     },
     {
       "title": "健康ちえのわトランポリン教室",
       "url": "https://eiga.com/movie/105952/",
       "release_date": "6月27日",
       "thumbnail": "https://media.eiga.com/images/movie/105952/photo/0f9fbbe50434d6b0/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011216"
+      "scraped_at": "2026-06-29T03:37:26.570308"
     },
     {
       "title": "おかえりの湯",
       "url": "https://eiga.com/movie/104738/",
       "release_date": "6月27日",
       "thumbnail": "https://media.eiga.com/images/movie/104738/photo/07ca30603fcc0025/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011290"
+      "scraped_at": "2026-06-29T03:37:26.570363"
     },
     {
       "title": "雲と大地のはざまで",
       "url": "https://eiga.com/movie/106185/",
       "release_date": "6月27日",
       "thumbnail": "https://media.eiga.com/images/movie/106185/photo/c4a6415561af75b3/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011364"
+      "scraped_at": "2026-06-29T03:37:26.570431"
     },
     {
       "title": "熊蟲萬壽無彊クマムシばんじゅ・きわみなし The Space Bears 4 Ever 生命の戦略",
       "url": "https://eiga.com/movie/106111/",
       "release_date": "6月27日",
       "thumbnail": "https://media.eiga.com/images/movie/106111/photo/602dfa2c1f8a53de/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011442"
+      "scraped_at": "2026-06-29T03:37:26.570489"
     },
     {
       "title": "四月の余白",
       "url": "https://eiga.com/movie/105599/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105599/photo/795e8f8143aeb578/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011509"
+      "scraped_at": "2026-06-29T03:37:26.570541"
     },
     {
       "title": "スーパーガール",
       "url": "https://eiga.com/movie/105221/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105221/photo/9e738c144f484e9c/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011581"
+      "scraped_at": "2026-06-29T03:37:26.570590"
     },
     {
       "title": "ロングウォーク",
       "url": "https://eiga.com/movie/104619/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/104619/photo/5682b65d954414e8/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011649"
+      "scraped_at": "2026-06-29T03:37:26.570638"
     },
     {
       "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
       "url": "https://eiga.com/movie/104216/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/104216/photo/e8503289cd15c005/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011715"
+      "scraped_at": "2026-06-29T03:37:26.570686"
     },
     {
       "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
       "url": "https://eiga.com/movie/105855/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105855/photo/873fb607d9c51e27/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011787"
+      "scraped_at": "2026-06-29T03:37:26.570733"
     },
     {
       "title": "最終絶叫計画 令和！",
       "url": "https://eiga.com/movie/106116/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/106116/photo/a31d154ce40a48c0/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011880"
+      "scraped_at": "2026-06-29T03:37:26.570780"
     },
     {
       "title": "死神バーバー",
       "url": "https://eiga.com/movie/105696/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105696/photo/101456f1854f7b7c/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.011949"
+      "scraped_at": "2026-06-29T03:37:26.570826"
     },
     {
       "title": "ヤマトよ永遠に REBEL3199 第六章 碧い迷宮",
       "url": "https://eiga.com/movie/105620/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105620/photo/fd1041886f8c4d29/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.012013"
+      "scraped_at": "2026-06-29T03:37:26.570874"
     },
     {
       "title": "それいけ！アンパンマン パンタンと約束の星",
       "url": "https://eiga.com/movie/105459/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105459/photo/3a56d8669344ff1d/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.012079"
+      "scraped_at": "2026-06-29T03:37:26.570924"
     },
     {
       "title": "アウトウォーターズ 裂けた砂漠",
       "url": "https://eiga.com/movie/106118/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/106118/photo/81d92e2e765fabaf/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.012145"
+      "scraped_at": "2026-06-29T03:37:26.570970"
     },
     {
       "title": "家族という病",
       "url": "https://eiga.com/movie/99520/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/99520/photo/3d38e267b0f25bc2/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.012209"
+      "scraped_at": "2026-06-29T03:37:26.571021"
     },
     {
       "title": "エド・ケンパー",
       "url": "https://eiga.com/movie/106218/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/106218/photo/ff31cd1a7613e733/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.012274"
-    },
-    {
-      "title": "熱狂をこえて",
-      "url": "https://eiga.com/movie/105930/",
-      "release_date": "6月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/105930/photo/dfb609d32ca8a4ad/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.012339"
-    },
-    {
-      "title": "メリリー・ウィー・ロール・アロング",
-      "url": "https://eiga.com/movie/106222/",
-      "release_date": "6月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/106222/photo/3ceac82897e0e36b/320.jpg",
-      "scraped_at": "2026-06-28T03:32:36.012403"
+      "scraped_at": "2026-06-29T03:37:26.571071"
     }
   ]
 }
