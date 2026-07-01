@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-06-30T03:24:14.701994",
+  "updated_at": "2026-07-01T03:33:01.958615",
   "count": 20,
   "movies": [
     {
-      "title": "トイ・ストーリー5",
-      "url": "https://eiga.com/movie/104002/",
-      "release_date": "7月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/104002/photo/b5b4a03d5ee99770/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644009"
+      "title": "おばあちゃんの秘密",
+      "url": "https://eiga.com/movie/103487/",
+      "release_date": "7月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/103487/photo/5ffa634f3c9df857/320.jpg",
+      "scraped_at": "2026-07-01T03:33:01.885739"
     },
     {
       "title": "バナ穴 BANA_ANA",
       "url": "https://eiga.com/movie/106033/",
       "release_date": "6月27日",
       "thumbnail": "https://media.eiga.com/images/movie/106033/photo/68e7edc2a18d19be/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644107"
+      "scraped_at": "2026-07-01T03:33:01.885830"
     },
     {
       "title": "健康ちえのわトランポリン教室",
       "url": "https://eiga.com/movie/105952/",
       "release_date": "6月27日",
       "thumbnail": "https://media.eiga.com/images/movie/105952/photo/0f9fbbe50434d6b0/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644172"
+      "scraped_at": "2026-07-01T03:33:01.885896"
     },
     {
       "title": "ひとりたび",
       "url": "https://eiga.com/movie/102347/",
       "release_date": "6月27日",
       "thumbnail": "https://media.eiga.com/images/movie/102347/photo/ee58d0a8425bcff0/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644232"
-    },
-    {
-      "title": "おかえりの湯",
-      "url": "https://eiga.com/movie/104738/",
-      "release_date": "6月27日",
-      "thumbnail": "https://media.eiga.com/images/movie/104738/photo/07ca30603fcc0025/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644295"
+      "scraped_at": "2026-07-01T03:33:01.885964"
     },
     {
       "title": "雲と大地のはざまで",
       "url": "https://eiga.com/movie/106185/",
       "release_date": "6月27日",
       "thumbnail": "https://media.eiga.com/images/movie/106185/photo/c4a6415561af75b3/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644351"
+      "scraped_at": "2026-07-01T03:33:01.886032"
+    },
+    {
+      "title": "おかえりの湯",
+      "url": "https://eiga.com/movie/104738/",
+      "release_date": "6月27日",
+      "thumbnail": "https://media.eiga.com/images/movie/104738/photo/07ca30603fcc0025/320.jpg",
+      "scraped_at": "2026-07-01T03:33:01.886094"
     },
     {
       "title": "熊蟲萬壽無彊クマムシばんじゅ・きわみなし The Space Bears 4 Ever 生命の戦略",
       "url": "https://eiga.com/movie/106111/",
       "release_date": "6月27日",
       "thumbnail": "https://media.eiga.com/images/movie/106111/photo/602dfa2c1f8a53de/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644420"
-    },
-    {
-      "title": "四月の余白",
-      "url": "https://eiga.com/movie/105599/",
-      "release_date": "6月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/105599/photo/795e8f8143aeb578/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644481"
-    },
-    {
-      "title": "スーパーガール",
-      "url": "https://eiga.com/movie/105221/",
-      "release_date": "6月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/105221/photo/9e738c144f484e9c/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644545"
-    },
-    {
-      "title": "ロングウォーク",
-      "url": "https://eiga.com/movie/104619/",
-      "release_date": "6月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/104619/photo/5682b65d954414e8/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644599"
+      "scraped_at": "2026-07-01T03:33:01.886153"
     },
     {
       "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
       "url": "https://eiga.com/movie/104216/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/104216/photo/e8503289cd15c005/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644653"
+      "scraped_at": "2026-07-01T03:33:01.886220"
+    },
+    {
+      "title": "スーパーガール",
+      "url": "https://eiga.com/movie/105221/",
+      "release_date": "6月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/105221/photo/9e738c144f484e9c/320.jpg",
+      "scraped_at": "2026-07-01T03:33:01.886291"
+    },
+    {
+      "title": "四月の余白",
+      "url": "https://eiga.com/movie/105599/",
+      "release_date": "6月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/105599/photo/795e8f8143aeb578/320.jpg",
+      "scraped_at": "2026-07-01T03:33:01.886350"
+    },
+    {
+      "title": "ロングウォーク",
+      "url": "https://eiga.com/movie/104619/",
+      "release_date": "6月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/104619/photo/5682b65d954414e8/320.jpg",
+      "scraped_at": "2026-07-01T03:33:01.886407"
     },
     {
       "title": "ヤマトよ永遠に REBEL3199 第六章 碧い迷宮",
       "url": "https://eiga.com/movie/105620/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105620/photo/fd1041886f8c4d29/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644702"
-    },
-    {
-      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
-      "url": "https://eiga.com/movie/105855/",
-      "release_date": "6月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/105855/photo/873fb607d9c51e27/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644756"
+      "scraped_at": "2026-07-01T03:33:01.886464"
     },
     {
       "title": "死神バーバー",
       "url": "https://eiga.com/movie/105696/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105696/photo/101456f1854f7b7c/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644804"
+      "scraped_at": "2026-07-01T03:33:01.886520"
     },
     {
-      "title": "最終絶叫計画 令和！",
-      "url": "https://eiga.com/movie/106116/",
+      "title": "シンシン アンド ザ マウス SINSIN AND THE MOUSE",
+      "url": "https://eiga.com/movie/105855/",
       "release_date": "6月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/106116/photo/a31d154ce40a48c0/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644855"
+      "thumbnail": "https://media.eiga.com/images/movie/105855/photo/873fb607d9c51e27/320.jpg",
+      "scraped_at": "2026-07-01T03:33:01.886576"
     },
     {
       "title": "アウトウォーターズ 裂けた砂漠",
       "url": "https://eiga.com/movie/106118/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/106118/photo/81d92e2e765fabaf/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644906"
+      "scraped_at": "2026-07-01T03:33:01.886632"
     },
     {
-      "title": "エド・ケンパー",
-      "url": "https://eiga.com/movie/106218/",
+      "title": "最終絶叫計画 令和！",
+      "url": "https://eiga.com/movie/106116/",
       "release_date": "6月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/106218/photo/ff31cd1a7613e733/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.644955"
+      "thumbnail": "https://media.eiga.com/images/movie/106116/photo/a31d154ce40a48c0/320.jpg",
+      "scraped_at": "2026-07-01T03:33:01.886689"
     },
     {
       "title": "それいけ！アンパンマン パンタンと約束の星",
       "url": "https://eiga.com/movie/105459/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/105459/photo/3a56d8669344ff1d/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.645001"
+      "scraped_at": "2026-07-01T03:33:01.886746"
     },
     {
-      "title": "罪の棘",
-      "url": "https://eiga.com/movie/105894/",
+      "title": "エド・ケンパー",
+      "url": "https://eiga.com/movie/106218/",
       "release_date": "6月26日",
-      "thumbnail": "https://media.eiga.com/images/movie/105894/photo/14c767477232d4e9/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.645049"
+      "thumbnail": "https://media.eiga.com/images/movie/106218/photo/ff31cd1a7613e733/320.jpg",
+      "scraped_at": "2026-07-01T03:33:01.886802"
     },
     {
       "title": "家族という病",
       "url": "https://eiga.com/movie/99520/",
       "release_date": "6月26日",
       "thumbnail": "https://media.eiga.com/images/movie/99520/photo/3d38e267b0f25bc2/320.jpg",
-      "scraped_at": "2026-06-30T03:24:14.645095"
+      "scraped_at": "2026-07-01T03:33:01.886859"
+    },
+    {
+      "title": "罪の棘",
+      "url": "https://eiga.com/movie/105894/",
+      "release_date": "6月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/105894/photo/14c767477232d4e9/320.jpg",
+      "scraped_at": "2026-07-01T03:33:01.886915"
     }
   ]
 }
