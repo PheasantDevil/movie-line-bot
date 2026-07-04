@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T02:41:35.110829",
+  "updated_at": "2026-07-04T02:37:36.980416",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/103487/",
       "release_date": "7月4日",
       "thumbnail": "https://media.eiga.com/images/movie/103487/photo/5ffa634f3c9df857/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.053221"
+      "scraped_at": "2026-07-04T02:37:36.165772"
+    },
+    {
+      "title": "ビートルズがいた夏",
+      "url": "https://eiga.com/movie/105874/",
+      "release_date": "7月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/105874/photo/80f5e3eab38bd0d2/320.jpg",
+      "scraped_at": "2026-07-04T02:37:36.165884"
+    },
+    {
+      "title": "記憶の解凍",
+      "url": "https://eiga.com/movie/106173/",
+      "release_date": "7月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/106173/photo/4f9b0a04f00c47b7/320.jpg",
+      "scraped_at": "2026-07-04T02:37:36.165964"
+    },
+    {
+      "title": "詩人iidabii ある宗教2世の記録",
+      "url": "https://eiga.com/movie/106096/",
+      "release_date": "7月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/106096/photo/2dc169d528cb4cfd/320.jpg",
+      "scraped_at": "2026-07-04T02:37:36.166037"
+    },
+    {
+      "title": "チャオ・パンタン",
+      "url": "https://eiga.com/movie/46757/",
+      "release_date": "7月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/46757/photo/3ac73ec4b2be5859/320.jpg",
+      "scraped_at": "2026-07-04T02:37:36.166111"
+    },
+    {
+      "title": "MOTHERLAND",
+      "url": "https://eiga.com/movie/106129/",
+      "release_date": "7月4日",
+      "thumbnail": "https://media.eiga.com/images/movie/106129/photo/cbd0f4579e9004ce/320.jpg",
+      "scraped_at": "2026-07-04T02:37:36.166180"
     },
     {
       "title": "トイ・ストーリー5",
       "url": "https://eiga.com/movie/104002/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/104002/photo/b5b4a03d5ee99770/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.053332"
+      "scraped_at": "2026-07-04T02:37:36.166248"
     },
     {
       "title": "サヨナラの引力",
       "url": "https://eiga.com/movie/105990/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105990/photo/1cd8fb1d57028890/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.053411"
+      "scraped_at": "2026-07-04T02:37:36.166346"
     },
     {
       "title": "口に関するアンケート",
       "url": "https://eiga.com/movie/105111/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105111/photo/f459a5ef7f810ec5/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.053488"
+      "scraped_at": "2026-07-04T02:37:36.166426"
     },
     {
       "title": "氷血",
       "url": "https://eiga.com/movie/105729/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105729/photo/4566e8e20b2e20dd/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.053567"
+      "scraped_at": "2026-07-04T02:37:36.166492"
     },
     {
       "title": "死ねばいいのに",
       "url": "https://eiga.com/movie/105796/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105796/photo/9dcb8a1ccc273cdd/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.053638"
+      "scraped_at": "2026-07-04T02:37:36.166557"
     },
     {
       "title": "ラブ≠コメディ",
       "url": "https://eiga.com/movie/105673/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105673/photo/0bc871f2a5e85832/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.053706"
+      "scraped_at": "2026-07-04T02:37:36.166622"
     },
     {
       "title": "THE ORIGIN OF ULTRAMAN",
       "url": "https://eiga.com/movie/106059/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/106059/photo/3b03ea5b601b950d/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.053777"
+      "scraped_at": "2026-07-04T02:37:36.166685"
     },
     {
       "title": "きれっぱしの愛",
       "url": "https://eiga.com/movie/105012/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105012/photo/58ca9301dc144ce7/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.053844"
+      "scraped_at": "2026-07-04T02:37:36.166746"
     },
     {
       "title": "カウント・ベイシー",
       "url": "https://eiga.com/movie/106196/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/106196/photo/c8ce8992aa5a5270/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.053909"
+      "scraped_at": "2026-07-04T02:37:36.166813"
     },
     {
       "title": "デスストーカー",
       "url": "https://eiga.com/movie/105325/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105325/photo/b8146f538126ed19/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.053973"
+      "scraped_at": "2026-07-04T02:37:36.166876"
     },
     {
       "title": "ビトゥーカ ミルトン・ナシメント フェアウェルツアー",
       "url": "https://eiga.com/movie/104329/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/104329/photo/6b455e95916bd850/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.054037"
+      "scraped_at": "2026-07-04T02:37:36.166940"
     },
     {
       "title": "春樹",
       "url": "https://eiga.com/movie/104757/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/104757/photo/ea6b1f8b494706b3/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.054099"
+      "scraped_at": "2026-07-04T02:37:36.167004"
     },
     {
       "title": "フランキー・フリーコ",
       "url": "https://eiga.com/movie/103187/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/103187/photo/32e3c8226048361a/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.054161"
+      "scraped_at": "2026-07-04T02:37:36.167071"
     },
     {
       "title": "英国ロイヤル・バレエ＆オペラ in シネマ 2025/26 ロイヤル・オペラ「魔笛」",
       "url": "https://eiga.com/movie/105025/",
       "release_date": "7月3日",
       "thumbnail": "https://media.eiga.com/images/movie/105025/photo/8df6a0168f53dded/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.054247"
-    },
-    {
-      "title": "シルビアのいる街で",
-      "url": "https://eiga.com/movie/55520/",
-      "release_date": "7月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/55520/photo/e0c6dc6d7917d142/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.054315"
-    },
-    {
-      "title": "みつけた、みつけた 分別と多感",
-      "url": "https://eiga.com/movie/106122/",
-      "release_date": "7月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/106122/photo/042eb7842c54830a/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.054379"
-    },
-    {
-      "title": "よき谷の物語",
-      "url": "https://eiga.com/movie/106225/",
-      "release_date": "7月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/106225/photo/4d4432cff0e0c1d5/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.054450"
-    },
-    {
-      "title": "ルオムの黄昏",
-      "url": "https://eiga.com/movie/106192/",
-      "release_date": "7月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/106192/photo/6b4d9a46bbd49e99/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.054516"
-    },
-    {
-      "title": "バナ穴 BANA_ANA",
-      "url": "https://eiga.com/movie/106033/",
-      "release_date": "6月27日",
-      "thumbnail": "https://media.eiga.com/images/movie/106033/photo/68e7edc2a18d19be/320.jpg",
-      "scraped_at": "2026-07-03T02:41:35.054579"
+      "scraped_at": "2026-07-04T02:37:36.167134"
     }
   ]
 }
