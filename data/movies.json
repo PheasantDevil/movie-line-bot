@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T02:09:46.928395",
+  "updated_at": "2026-07-15T02:07:43.015571",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/106427/",
       "release_date": "7月11日",
       "thumbnail": "https://media.eiga.com/images/movie/106427/photo/025384d20e53cd82/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872067"
+      "scraped_at": "2026-07-15T02:07:42.961972"
     },
     {
       "title": "ロックンロウル",
       "url": "https://eiga.com/movie/106198/",
       "release_date": "7月11日",
       "thumbnail": "https://media.eiga.com/images/movie/106198/photo/b38fa081964241f6/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872168"
+      "scraped_at": "2026-07-15T02:07:42.962069"
     },
     {
       "title": "大統領のケーキ",
       "url": "https://eiga.com/movie/104925/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/104925/photo/a2f366ec9d6bd7f5/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872250"
+      "scraped_at": "2026-07-15T02:07:42.962139"
     },
     {
       "title": "ブリング・ハー・バック",
       "url": "https://eiga.com/movie/104044/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/104044/photo/7cde4cbcd78d994f/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872323"
+      "scraped_at": "2026-07-15T02:07:42.962201"
     },
     {
       "title": "GOOD BOY グッドボーイ",
       "url": "https://eiga.com/movie/104818/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/104818/photo/e1fa4a891e20771b/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872397"
-    },
-    {
-      "title": "ヌーヴェルヴァーグ",
-      "url": "https://eiga.com/movie/103730/",
-      "release_date": "7月10日",
-      "thumbnail": "https://media.eiga.com/images/movie/103730/photo/d80eb1dc70350d6d/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872466"
+      "scraped_at": "2026-07-15T02:07:42.962262"
     },
     {
       "title": "トロフィー",
       "url": "https://eiga.com/movie/105893/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/105893/photo/5c75c4ebde147197/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872534"
+      "scraped_at": "2026-07-15T02:07:42.962318"
     },
     {
-      "title": "ドゥランダル作戦",
-      "url": "https://eiga.com/movie/105207/",
+      "title": "ヌーヴェルヴァーグ",
+      "url": "https://eiga.com/movie/103730/",
       "release_date": "7月10日",
-      "thumbnail": "https://media.eiga.com/images/movie/105207/photo/a4c76e3aecd2085a/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872629"
-    },
-    {
-      "title": "パッセンジャー",
-      "url": "https://eiga.com/movie/106248/",
-      "release_date": "7月10日",
-      "thumbnail": "https://media.eiga.com/images/movie/106248/photo/d8f896b7aad94102/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872698"
-    },
-    {
-      "title": "タービュランス 絶空16,000フィート",
-      "url": "https://eiga.com/movie/106114/",
-      "release_date": "7月10日",
-      "thumbnail": "https://media.eiga.com/images/movie/106114/photo/74eeefff0404243d/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872763"
+      "thumbnail": "https://media.eiga.com/images/movie/103730/photo/d80eb1dc70350d6d/320.jpg",
+      "scraped_at": "2026-07-15T02:07:42.962371"
     },
     {
       "title": "死亡遊戯で飯を食う。 44:CLOUDY BEACH",
       "url": "https://eiga.com/movie/105933/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/105933/photo/fa1a8ecae0b7701d/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872826"
+      "scraped_at": "2026-07-15T02:07:42.962452"
+    },
+    {
+      "title": "ドゥランダル作戦",
+      "url": "https://eiga.com/movie/105207/",
+      "release_date": "7月10日",
+      "thumbnail": "https://media.eiga.com/images/movie/105207/photo/a4c76e3aecd2085a/320.jpg",
+      "scraped_at": "2026-07-15T02:07:42.962505"
+    },
+    {
+      "title": "パッセンジャー",
+      "url": "https://eiga.com/movie/106248/",
+      "release_date": "7月10日",
+      "thumbnail": "https://media.eiga.com/images/movie/106248/photo/d8f896b7aad94102/320.jpg",
+      "scraped_at": "2026-07-15T02:07:42.962555"
+    },
+    {
+      "title": "タービュランス 絶空16,000フィート",
+      "url": "https://eiga.com/movie/106114/",
+      "release_date": "7月10日",
+      "thumbnail": "https://media.eiga.com/images/movie/106114/photo/74eeefff0404243d/320.jpg",
+      "scraped_at": "2026-07-15T02:07:42.962611"
     },
     {
       "title": "ザ・レイジ",
       "url": "https://eiga.com/movie/105943/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/105943/photo/bee3aafe3ebfd265/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872890"
+      "scraped_at": "2026-07-15T02:07:42.962663"
     },
     {
       "title": "劇場版 魔法少女まどか☆マギカ 前編 始まりの物語",
       "url": "https://eiga.com/movie/58111/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/58111/photo/67e9b34ac3ff954c/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.872955"
+      "scraped_at": "2026-07-15T02:07:42.962713"
     },
     {
       "title": "ユースフル・ゴースト",
       "url": "https://eiga.com/movie/105993/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/105993/photo/daa2eb142517c69a/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.873018"
+      "scraped_at": "2026-07-15T02:07:42.962763"
     },
     {
       "title": "海辺の一日",
       "url": "https://eiga.com/movie/85779/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/85779/photo/808e2a015b2bea0f/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.873086"
+      "scraped_at": "2026-07-15T02:07:42.962812"
     },
     {
       "title": "フォー・トレイルズ 限界を超えてゆけ",
       "url": "https://eiga.com/movie/104891/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/104891/photo/f5df2e4b1b743b85/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.873150"
+      "scraped_at": "2026-07-15T02:07:42.962860"
     },
     {
       "title": "ホームカミング MLB東京シリーズ",
       "url": "https://eiga.com/movie/106263/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/106263/photo/71ca837512612a9d/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.873212"
+      "scraped_at": "2026-07-15T02:07:42.962913"
     },
     {
       "title": "ENHYPEN IMMERSION IN CINEMAS",
       "url": "https://eiga.com/movie/106366/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/106366/photo/5fd8b2512ae8061b/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.873274"
-    },
-    {
-      "title": "超英雄祭2026 DAY2 SUPER SENTAI 50th",
-      "url": "https://eiga.com/movie/106105/",
-      "release_date": "7月10日",
-      "thumbnail": "https://media.eiga.com/images/movie/106105/photo/d3c143140d59d2ca/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.873362"
+      "scraped_at": "2026-07-15T02:07:42.962959"
     },
     {
       "title": "METライブビューイング2025-26 ガブリエラ・リーナ・フランク《フリーダとディエゴ 最後の夢》",
       "url": "https://eiga.com/movie/104192/",
       "release_date": "7月10日",
       "thumbnail": "https://media.eiga.com/images/movie/104192/photo/f7ebf1b51c9efddd/320.jpg",
-      "scraped_at": "2026-07-14T02:09:46.873474"
+      "scraped_at": "2026-07-15T02:07:42.963009"
+    },
+    {
+      "title": "超英雄祭2026 DAY2 SUPER SENTAI 50th",
+      "url": "https://eiga.com/movie/106105/",
+      "release_date": "7月10日",
+      "thumbnail": "https://media.eiga.com/images/movie/106105/photo/d3c143140d59d2ca/320.jpg",
+      "scraped_at": "2026-07-15T02:07:42.963055"
     }
   ]
 }
