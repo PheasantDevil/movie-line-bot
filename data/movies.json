@@ -1,104 +1,111 @@
 {
-  "updated_at": "2026-07-17T02:24:32.188285",
-  "count": 14,
+  "updated_at": "2026-07-18T02:09:02.078287",
+  "count": 15,
   "movies": [
+    {
+      "title": "原爆資料館 語り継ぐものたち",
+      "url": "https://eiga.com/movie/106117/",
+      "release_date": "7月18日",
+      "thumbnail": "https://media.eiga.com/images/movie/106117/photo/929365fc81b423f0/320.jpg",
+      "scraped_at": "2026-07-18T02:09:02.018658"
+    },
+    {
+      "title": "わたしのバタフライ",
+      "url": "https://eiga.com/movie/106351/",
+      "release_date": "7月18日",
+      "thumbnail": "https://media.eiga.com/images/movie/106351/photo/c0697c4d83597ff1/320.jpg",
+      "scraped_at": "2026-07-18T02:09:02.018764"
+    },
     {
       "title": "我々のものではない世界",
       "url": "https://eiga.com/movie/79472/",
       "release_date": "7月18日",
       "thumbnail": "https://media.eiga.com/images/movie/79472/photo/e5a2f0e4f3d93264/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107371"
+      "scraped_at": "2026-07-18T02:09:02.018844"
+    },
+    {
+      "title": "きっと青春大革命！カルラ8年の記録",
+      "url": "https://eiga.com/movie/106299/",
+      "release_date": "7月18日",
+      "thumbnail": "https://media.eiga.com/images/movie/106299/photo/2e2e50119e2ff444/320.jpg",
+      "scraped_at": "2026-07-18T02:09:02.018920"
     },
     {
       "title": "キングダム 魂の決戦",
       "url": "https://eiga.com/movie/104266/",
       "release_date": "7月17日",
       "thumbnail": "https://media.eiga.com/images/movie/104266/photo/c829986aabe99339/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107447"
+      "scraped_at": "2026-07-18T02:09:02.018996"
     },
     {
       "title": "オブセッション 災愛",
       "url": "https://eiga.com/movie/106213/",
       "release_date": "7月17日",
       "thumbnail": "https://media.eiga.com/images/movie/106213/photo/14af5c5b055159f1/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107501"
-    },
-    {
-      "title": "デッドマンズ・ワイヤー",
-      "url": "https://eiga.com/movie/105873/",
-      "release_date": "7月17日",
-      "thumbnail": "https://media.eiga.com/images/movie/105873/photo/2f6dc00c9afe4227/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107550"
+      "scraped_at": "2026-07-18T02:09:02.019066"
     },
     {
       "title": "君と花火と約束と",
       "url": "https://eiga.com/movie/105462/",
       "release_date": "7月17日",
       "thumbnail": "https://media.eiga.com/images/movie/105462/photo/809921944341a803/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107597"
+      "scraped_at": "2026-07-18T02:09:02.019133"
+    },
+    {
+      "title": "デッドマンズ・ワイヤー",
+      "url": "https://eiga.com/movie/105873/",
+      "release_date": "7月17日",
+      "thumbnail": "https://media.eiga.com/images/movie/105873/photo/2f6dc00c9afe4227/320.jpg",
+      "scraped_at": "2026-07-18T02:09:02.019206"
     },
     {
       "title": "チルド",
       "url": "https://eiga.com/movie/105408/",
       "release_date": "7月17日",
       "thumbnail": "https://media.eiga.com/images/movie/105408/photo/38f32bde6ad5c720/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107639"
-    },
-    {
-      "title": "ストレンジ・ハーベスト インランド・エンパイアの怪事件",
-      "url": "https://eiga.com/movie/106107/",
-      "release_date": "7月17日",
-      "thumbnail": "https://media.eiga.com/images/movie/106107/photo/a0de79c7c52d5b56/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107680"
+      "scraped_at": "2026-07-18T02:09:02.019274"
     },
     {
       "title": "新凱旋門物語",
       "url": "https://eiga.com/movie/105617/",
       "release_date": "7月17日",
       "thumbnail": "https://media.eiga.com/images/movie/105617/photo/e85d54fa0771204e/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107735"
+      "scraped_at": "2026-07-18T02:09:02.019345"
+    },
+    {
+      "title": "ストレンジ・ハーベスト インランド・エンパイアの怪事件",
+      "url": "https://eiga.com/movie/106107/",
+      "release_date": "7月17日",
+      "thumbnail": "https://media.eiga.com/images/movie/106107/photo/a0de79c7c52d5b56/320.jpg",
+      "scraped_at": "2026-07-18T02:09:02.019411"
     },
     {
       "title": "劇場版 魔法少女まどか☆マギカ 後編 永遠の物語",
       "url": "https://eiga.com/movie/58112/",
       "release_date": "7月17日",
       "thumbnail": "https://media.eiga.com/images/movie/58112/photo/4a4b7a7fc1ae7bf0/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107776"
+      "scraped_at": "2026-07-18T02:09:02.019500"
     },
     {
       "title": "夢物語 The Living Dragon",
       "url": "https://eiga.com/movie/105861/",
       "release_date": "7月17日",
       "thumbnail": "https://media.eiga.com/images/movie/105861/photo/e2b4b7ee6613936d/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107815"
+      "scraped_at": "2026-07-18T02:09:02.019575"
     },
     {
       "title": "残響のメロディ 魂の放浪者ニコ、最後の旅路",
       "url": "https://eiga.com/movie/105995/",
       "release_date": "7月17日",
       "thumbnail": "https://media.eiga.com/images/movie/105995/photo/e29661663842f8af/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107854"
+      "scraped_at": "2026-07-18T02:09:02.019641"
     },
     {
       "title": "太福 DAIFUKU",
       "url": "https://eiga.com/movie/106496/",
       "release_date": "7月17日",
       "thumbnail": "https://media.eiga.com/images/movie/106496/photo/cf21fff68901edb4/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107894"
-    },
-    {
-      "title": "ひちりん",
-      "url": "https://eiga.com/movie/106427/",
-      "release_date": "7月11日",
-      "thumbnail": "https://media.eiga.com/images/movie/106427/photo/025384d20e53cd82/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107930"
-    },
-    {
-      "title": "ロックンロウル",
-      "url": "https://eiga.com/movie/106198/",
-      "release_date": "7月11日",
-      "thumbnail": "https://media.eiga.com/images/movie/106198/photo/b38fa081964241f6/320.jpg",
-      "scraped_at": "2026-07-17T02:24:32.107966"
+      "scraped_at": "2026-07-18T02:09:02.019706"
     }
   ]
 }
