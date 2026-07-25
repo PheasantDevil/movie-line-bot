@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-07-24T02:25:57.033420",
+  "updated_at": "2026-07-25T02:24:01.279946",
   "count": 20,
   "movies": [
     {
-      "title": "だぁれかさんとアソぼ？",
-      "url": "https://eiga.com/movie/105899/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/105899/photo/5922fad2cbc22d3e/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.951699"
+      "title": "私の血に流れる血",
+      "url": "https://eiga.com/movie/83162/",
+      "release_date": "7月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/83162/photo/3ae7f5819dfbb96a/320.jpg",
+      "scraped_at": "2026-07-25T02:24:01.212831"
+    },
+    {
+      "title": "無敵なカタチ",
+      "url": "https://eiga.com/movie/106101/",
+      "release_date": "7月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/106101/photo/9c0cee04d60e15df/320.jpg",
+      "scraped_at": "2026-07-25T02:24:01.212929"
+    },
+    {
+      "title": "いってらっしゃいの花",
+      "url": "https://eiga.com/movie/106234/",
+      "release_date": "7月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/106234/photo/b9ced34ead5d2e2a/320.jpg",
+      "scraped_at": "2026-07-25T02:24:01.212995"
+    },
+    {
+      "title": "心耳 耳を澄まさぬ表現者たち",
+      "url": "https://eiga.com/movie/106041/",
+      "release_date": "7月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/106041/photo/1daa577797ac819d/320.jpg",
+      "scraped_at": "2026-07-25T02:24:01.213060"
+    },
+    {
+      "title": "メレディス・モンク 踊る声、歌う身体",
+      "url": "https://eiga.com/movie/106103/",
+      "release_date": "7月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/106103/photo/12431c9c6f1cd2f6/320.jpg",
+      "scraped_at": "2026-07-25T02:24:01.213138"
     },
     {
       "title": "映画ちいかわ 人魚の島のひみつ",
       "url": "https://eiga.com/movie/105109/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.951777"
+      "scraped_at": "2026-07-25T02:24:01.213197"
+    },
+    {
+      "title": "だぁれかさんとアソぼ？",
+      "url": "https://eiga.com/movie/105899/",
+      "release_date": "7月24日",
+      "thumbnail": "https://media.eiga.com/images/movie/105899/photo/5922fad2cbc22d3e/320.jpg",
+      "scraped_at": "2026-07-25T02:24:01.213249"
     },
     {
       "title": "隣人たち",
       "url": "https://eiga.com/movie/105907/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/105907/photo/d9ce2707e2f585ff/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.951831"
+      "scraped_at": "2026-07-25T02:24:01.213306"
     },
     {
       "title": "プライベート・ケース",
       "url": "https://eiga.com/movie/105612/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/105612/photo/9802d7cc1cf24b2a/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.951878"
+      "scraped_at": "2026-07-25T02:24:01.213364"
     },
     {
       "title": "ぐるりのこと。",
       "url": "https://eiga.com/movie/53383/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/53383/photo/55298a019cd5269f/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.951927"
+      "scraped_at": "2026-07-25T02:24:01.213414"
     },
     {
       "title": "勝手にしやがれ",
       "url": "https://eiga.com/movie/8002/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/8002/photo/e017f1e5818901fe/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.951971"
+      "scraped_at": "2026-07-25T02:24:01.213464"
     },
     {
       "title": "ハッシュ！",
       "url": "https://eiga.com/movie/40525/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/40525/photo/87539e566b0d90c0/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952012"
-    },
-    {
-      "title": "ポパイ・ザ・スレイヤー・マン",
-      "url": "https://eiga.com/movie/106235/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/106235/photo/e08dc910d9a0c70d/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952057"
+      "scraped_at": "2026-07-25T02:24:01.213513"
     },
     {
       "title": "PEACOCK ピーコック",
       "url": "https://eiga.com/movie/106220/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/106220/photo/55572ad86653c749/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952097"
+      "scraped_at": "2026-07-25T02:24:01.213567"
+    },
+    {
+      "title": "ポパイ・ザ・スレイヤー・マン",
+      "url": "https://eiga.com/movie/106235/",
+      "release_date": "7月24日",
+      "thumbnail": "https://media.eiga.com/images/movie/106235/photo/e08dc910d9a0c70d/320.jpg",
+      "scraped_at": "2026-07-25T02:24:01.213615"
     },
     {
       "title": "パウ・パトロール ザ・ダイノ・ムービー",
       "url": "https://eiga.com/movie/105057/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/105057/photo/020ad36a95ab4e0a/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952137"
+      "scraped_at": "2026-07-25T02:24:01.213682"
     },
     {
       "title": "Return to My Blue",
       "url": "https://eiga.com/movie/106109/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/106109/photo/aab1145ba60dac22/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952176"
+      "scraped_at": "2026-07-25T02:24:01.213734"
     },
     {
       "title": "美しく、黙りなさい",
       "url": "https://eiga.com/movie/104382/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/104382/photo/aa10f31dfd90fe10/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952214"
+      "scraped_at": "2026-07-25T02:24:01.213781"
     },
     {
       "title": "怪奇タクシー 布告を知らぬ者達に",
       "url": "https://eiga.com/movie/106028/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/106028/photo/3c6ac93ca7a798db/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952257"
+      "scraped_at": "2026-07-25T02:24:01.213828"
     },
     {
       "title": "ネネットとボニ",
       "url": "https://eiga.com/movie/47642/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/47642/photo/39d0e4417f26d024/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952297"
+      "scraped_at": "2026-07-25T02:24:01.213876"
     },
     {
       "title": "怪奇！死肉の男",
       "url": "https://eiga.com/movie/105580/",
       "release_date": "7月24日",
       "thumbnail": "https://media.eiga.com/images/movie/105580/photo/e71899826128789e/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952334"
-    },
-    {
-      "title": "あいつのロシェル",
-      "url": "https://eiga.com/movie/106378/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/106378/photo/55404f546cc0a755/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952372"
-    },
-    {
-      "title": "俺の血はピンクの血 映画俳優久保新二",
-      "url": "https://eiga.com/movie/106441/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/106441/photo/45521403e94d19d9/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952409"
-    },
-    {
-      "title": "原爆資料館 語り継ぐものたち",
-      "url": "https://eiga.com/movie/106117/",
-      "release_date": "7月18日",
-      "thumbnail": "https://media.eiga.com/images/movie/106117/photo/929365fc81b423f0/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952445"
-    },
-    {
-      "title": "わたしのバタフライ",
-      "url": "https://eiga.com/movie/106351/",
-      "release_date": "7月18日",
-      "thumbnail": "https://media.eiga.com/images/movie/106351/photo/c0697c4d83597ff1/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952482"
-    },
-    {
-      "title": "きっと青春大革命！カルラ8年の記録",
-      "url": "https://eiga.com/movie/106299/",
-      "release_date": "7月18日",
-      "thumbnail": "https://media.eiga.com/images/movie/106299/photo/2e2e50119e2ff444/320.jpg",
-      "scraped_at": "2026-07-24T02:25:56.952518"
+      "scraped_at": "2026-07-25T02:24:01.213923"
     }
   ]
 }
