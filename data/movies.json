@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-07-30T02:05:00.387305",
+  "updated_at": "2026-07-31T02:32:18.825437",
   "count": 20,
   "movies": [
+    {
+      "title": "開戦前夜",
+      "url": "https://eiga.com/movie/105306/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/105306/photo/8c4e01a1515dbdea/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.762607"
+    },
+    {
+      "title": "モアナと伝説の海",
+      "url": "https://eiga.com/movie/104003/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/104003/photo/91cc8db174ff20d0/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.762710"
+    },
     {
       "title": "スパイダーマン ブランド・ニュー・デイ",
       "url": "https://eiga.com/movie/102846/",
       "release_date": "7月31日",
       "thumbnail": "https://media.eiga.com/images/movie/102846/photo/5013d4bb24b0ccc2/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304371"
+      "scraped_at": "2026-07-31T02:32:18.762812"
+    },
+    {
+      "title": "ヒトラーの毒見役",
+      "url": "https://eiga.com/movie/106108/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/106108/photo/528d15b530b5447c/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.762889"
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "url": "https://eiga.com/movie/105228/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/105228/photo/84365bd02b461fc7/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.762964"
+    },
+    {
+      "title": "怪速急行■■行き",
+      "url": "https://eiga.com/movie/106065/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/106065/photo/a221871a5e44a9d4/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.763034"
+    },
+    {
+      "title": "レンタル家族",
+      "url": "https://eiga.com/movie/104669/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/104669/photo/2350eca8b68c592b/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.763105"
+    },
+    {
+      "title": "気狂いピエロ",
+      "url": "https://eiga.com/movie/9134/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/9134/photo/f9036546b550e85f/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.763177"
+    },
+    {
+      "title": "インビジブルハーフ",
+      "url": "https://eiga.com/movie/105767/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/105767/photo/a0b59d99f3a71740/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.763249"
+    },
+    {
+      "title": "四十九 SEEK",
+      "url": "https://eiga.com/movie/104298/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/104298/photo/b8d2e78780c022e4/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.763315"
+    },
+    {
+      "title": "トーキョーナイトフォール",
+      "url": "https://eiga.com/movie/105909/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/105909/photo/1b823d0d79d0406a/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.763380"
+    },
+    {
+      "title": "エレファント6レコーディング・カンパニー",
+      "url": "https://eiga.com/movie/106237/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/106237/photo/e441c8f2e3f878ab/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.763444"
+    },
+    {
+      "title": "9月のアル・ラシード通り",
+      "url": "https://eiga.com/movie/106231/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/106231/photo/477e0c9eafcd89bb/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.763508"
+    },
+    {
+      "title": "劇場版 かげる針路",
+      "url": "https://eiga.com/movie/106130/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/106130/photo/6caa421c235c4758/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.763570"
+    },
+    {
+      "title": "身土不二（しんどふじ）",
+      "url": "https://eiga.com/movie/106046/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/106046/photo/e0fab8223b91d329/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.763634"
+    },
+    {
+      "title": "BREAK SHOT",
+      "url": "https://eiga.com/movie/106320/",
+      "release_date": "7月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/106320/photo/fd90257bdfe52f35/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.763699"
     },
     {
       "title": "私の血に流れる血",
       "url": "https://eiga.com/movie/83162/",
       "release_date": "7月25日",
       "thumbnail": "https://media.eiga.com/images/movie/83162/photo/3ae7f5819dfbb96a/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304457"
+      "scraped_at": "2026-07-31T02:32:18.763800"
     },
     {
       "title": "メレディス・モンク 踊る声、歌う身体",
       "url": "https://eiga.com/movie/106103/",
       "release_date": "7月25日",
       "thumbnail": "https://media.eiga.com/images/movie/106103/photo/12431c9c6f1cd2f6/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304503"
-    },
-    {
-      "title": "無敵なカタチ",
-      "url": "https://eiga.com/movie/106101/",
-      "release_date": "7月25日",
-      "thumbnail": "https://media.eiga.com/images/movie/106101/photo/9c0cee04d60e15df/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304546"
+      "scraped_at": "2026-07-31T02:32:18.763896"
     },
     {
       "title": "いってらっしゃいの花",
       "url": "https://eiga.com/movie/106234/",
       "release_date": "7月25日",
       "thumbnail": "https://media.eiga.com/images/movie/106234/photo/b9ced34ead5d2e2a/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304590"
+      "scraped_at": "2026-07-31T02:32:18.763966"
     },
     {
-      "title": "心耳 耳を澄まさぬ表現者たち",
-      "url": "https://eiga.com/movie/106041/",
+      "title": "無敵なカタチ",
+      "url": "https://eiga.com/movie/106101/",
       "release_date": "7月25日",
-      "thumbnail": "https://media.eiga.com/images/movie/106041/photo/1daa577797ac819d/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304631"
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "url": "https://eiga.com/movie/105109/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304671"
-    },
-    {
-      "title": "だぁれかさんとアソぼ？",
-      "url": "https://eiga.com/movie/105899/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/105899/photo/5922fad2cbc22d3e/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304713"
-    },
-    {
-      "title": "隣人たち",
-      "url": "https://eiga.com/movie/105907/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/105907/photo/d9ce2707e2f585ff/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304751"
-    },
-    {
-      "title": "パウ・パトロール ザ・ダイノ・ムービー",
-      "url": "https://eiga.com/movie/105057/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/105057/photo/020ad36a95ab4e0a/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304788"
-    },
-    {
-      "title": "プライベート・ケース",
-      "url": "https://eiga.com/movie/105612/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/105612/photo/9802d7cc1cf24b2a/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304823"
-    },
-    {
-      "title": "ぐるりのこと。",
-      "url": "https://eiga.com/movie/53383/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/53383/photo/55298a019cd5269f/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304857"
-    },
-    {
-      "title": "勝手にしやがれ",
-      "url": "https://eiga.com/movie/8002/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/8002/photo/e017f1e5818901fe/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304891"
-    },
-    {
-      "title": "PEACOCK ピーコック",
-      "url": "https://eiga.com/movie/106220/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/106220/photo/55572ad86653c749/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304926"
-    },
-    {
-      "title": "ポパイ・ザ・スレイヤー・マン",
-      "url": "https://eiga.com/movie/106235/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/106235/photo/e08dc910d9a0c70d/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.304966"
-    },
-    {
-      "title": "ハッシュ！",
-      "url": "https://eiga.com/movie/40525/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/40525/photo/87539e566b0d90c0/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.305014"
-    },
-    {
-      "title": "怪奇タクシー 布告を知らぬ者達に",
-      "url": "https://eiga.com/movie/106028/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/106028/photo/3c6ac93ca7a798db/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.305062"
-    },
-    {
-      "title": "Return to My Blue",
-      "url": "https://eiga.com/movie/106109/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/106109/photo/aab1145ba60dac22/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.305103"
-    },
-    {
-      "title": "美しく、黙りなさい",
-      "url": "https://eiga.com/movie/104382/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/104382/photo/aa10f31dfd90fe10/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.305139"
-    },
-    {
-      "title": "怪奇！死肉の男",
-      "url": "https://eiga.com/movie/105580/",
-      "release_date": "7月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/105580/photo/e71899826128789e/320.jpg",
-      "scraped_at": "2026-07-30T02:05:00.305174"
+      "thumbnail": "https://media.eiga.com/images/movie/106101/photo/9c0cee04d60e15df/320.jpg",
+      "scraped_at": "2026-07-31T02:32:18.764033"
     }
   ]
 }
