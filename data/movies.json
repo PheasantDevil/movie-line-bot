@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T01:24:24.997389",
+  "updated_at": "2026-08-10T01:26:00.460268",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/106045/",
       "release_date": "8月8日",
       "thumbnail": "https://media.eiga.com/images/movie/106045/photo/3c4867c89e5ff80e/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.924973"
+      "scraped_at": "2026-08-10T01:26:00.397299"
     },
     {
       "title": "床一面こんな感じ",
       "url": "https://eiga.com/movie/105335/",
       "release_date": "8月8日",
       "thumbnail": "https://media.eiga.com/images/movie/105335/photo/4f5aed4b9861d9a3/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925084"
+      "scraped_at": "2026-08-10T01:26:00.397401"
     },
     {
       "title": "あの星が降る丘で、君とまた出会いたい。",
       "url": "https://eiga.com/movie/104441/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/104441/photo/3555e316096140ba/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925151"
+      "scraped_at": "2026-08-10T01:26:00.397479"
     },
     {
       "title": "ブルーロック",
       "url": "https://eiga.com/movie/104707/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/104707/photo/87fcd4e165d9103a/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925211"
+      "scraped_at": "2026-08-10T01:26:00.397611"
     },
     {
       "title": "ミニオンズ＆モンスターズ",
       "url": "https://eiga.com/movie/105870/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/105870/photo/a2234570d16b23af/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925273"
+      "scraped_at": "2026-08-10T01:26:00.397690"
     },
     {
       "title": "プリミティヴ・ウォー 恐竜戦争",
       "url": "https://eiga.com/movie/106040/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106040/photo/be3583e6384eece9/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925328"
+      "scraped_at": "2026-08-10T01:26:00.397759"
     },
     {
       "title": "白パンと独裁者",
       "url": "https://eiga.com/movie/106053/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106053/photo/c35334aebde065ba/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925379"
+      "scraped_at": "2026-08-10T01:26:00.397831"
     },
     {
       "title": "マイ・プライベート・アイダホ",
       "url": "https://eiga.com/movie/28423/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/28423/photo/d10ee0f896633f7e/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925439"
+      "scraped_at": "2026-08-10T01:26:00.397904"
     },
     {
       "title": "ハチミツとクローバー",
       "url": "https://eiga.com/movie/1414/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/1414/photo/a33005b6ccd13d44/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925491"
+      "scraped_at": "2026-08-10T01:26:00.397972"
     },
     {
       "title": "バグダッド・メッシ 片足のサッカー少年",
       "url": "https://eiga.com/movie/106275/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106275/photo/5f015d815236219f/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925542"
+      "scraped_at": "2026-08-10T01:26:00.398066"
     },
     {
       "title": "ニホンジン",
       "url": "https://eiga.com/movie/106224/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106224/photo/61cc55f9609d1895/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925590"
-    },
-    {
-      "title": "劇場版 ほんとうにあった怖い話 ゾクゾク変な間取り",
-      "url": "https://eiga.com/movie/106454/",
-      "release_date": "8月7日",
-      "thumbnail": "https://media.eiga.com/images/movie/106454/photo/38eed369ff4ff20b/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925638"
+      "scraped_at": "2026-08-10T01:26:00.398132"
     },
     {
       "title": "鯨が消えた入り江",
       "url": "https://eiga.com/movie/104119/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/104119/photo/74ae1abccaa41e0c/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925688"
+      "scraped_at": "2026-08-10T01:26:00.398197"
+    },
+    {
+      "title": "劇場版 ほんとうにあった怖い話 ゾクゾク変な間取り",
+      "url": "https://eiga.com/movie/106454/",
+      "release_date": "8月7日",
+      "thumbnail": "https://media.eiga.com/images/movie/106454/photo/38eed369ff4ff20b/320.jpg",
+      "scraped_at": "2026-08-10T01:26:00.398266"
     },
     {
       "title": "ウィー・ハブ・ア・ドリーム",
       "url": "https://eiga.com/movie/106031/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106031/photo/fa7f3558fd7790e6/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925737"
+      "scraped_at": "2026-08-10T01:26:00.398330"
     },
     {
       "title": "叛逆のサウンドトラック",
       "url": "https://eiga.com/movie/106029/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106029/photo/c6c519cc3187ac32/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925785"
+      "scraped_at": "2026-08-10T01:26:00.398395"
     },
     {
       "title": "血を吸うスマトラオオコンニャク",
       "url": "https://eiga.com/movie/106567/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106567/photo/425f584fc9b7f527/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925835"
+      "scraped_at": "2026-08-10T01:26:00.398459"
     },
     {
       "title": "THE BELDHAM ベルダム",
       "url": "https://eiga.com/movie/106448/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106448/photo/1bc01644d976d2ef/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925882"
-    },
-    {
-      "title": "アフリカの女王",
-      "url": "https://eiga.com/movie/3650/",
-      "release_date": "8月7日",
-      "thumbnail": "https://media.eiga.com/images/movie/3650/photo/1e31aa78a9a47d3e/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925929"
-    },
-    {
-      "title": "赤い風車",
-      "url": "https://eiga.com/movie/2876/",
-      "release_date": "8月7日",
-      "thumbnail": "https://media.eiga.com/images/movie/2876/photo/75f8aa879fb66098/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.925978"
+      "scraped_at": "2026-08-10T01:26:00.398523"
     },
     {
       "title": "ワイズ・ブラッド",
       "url": "https://eiga.com/movie/106298/",
       "release_date": "8月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106298/photo/59de780d613ff927/320.jpg",
-      "scraped_at": "2026-08-09T01:24:24.926024"
+      "scraped_at": "2026-08-10T01:26:00.398586"
+    },
+    {
+      "title": "火山のもとで",
+      "url": "https://eiga.com/movie/7831/",
+      "release_date": "8月7日",
+      "thumbnail": "https://media.eiga.com/images/movie/7831/photo/8312947eec80fca5/320.jpg",
+      "scraped_at": "2026-08-10T01:26:00.398651"
+    },
+    {
+      "title": "A Window of Memories",
+      "url": "https://eiga.com/movie/101264/",
+      "release_date": "8月7日",
+      "thumbnail": "https://media.eiga.com/images/movie/101264/photo/fea553105e78c39a/320.jpg",
+      "scraped_at": "2026-08-10T01:26:00.398714"
     }
   ]
 }
