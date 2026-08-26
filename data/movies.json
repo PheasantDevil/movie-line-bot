@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T01:04:23.015985",
+  "updated_at": "2026-08-26T01:06:05.767864",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/105735/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/105735/photo/7d787e4174f1cdd1/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.950801"
+      "scraped_at": "2026-08-26T01:06:05.702328"
     },
     {
       "title": "ひまつぶし、のようなもの",
       "url": "https://eiga.com/movie/106522/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/106522/photo/39b031026d5b367b/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.950921"
+      "scraped_at": "2026-08-26T01:06:05.702467"
     },
     {
       "title": "八月の杜",
       "url": "https://eiga.com/movie/106236/",
       "release_date": "8月22日",
       "thumbnail": "https://media.eiga.com/images/movie/106236/photo/f688644060bed66a/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951005"
+      "scraped_at": "2026-08-26T01:06:05.702551"
     },
     {
       "title": "ナイトシフト",
       "url": "https://eiga.com/movie/106326/",
       "release_date": "8月22日",
       "thumbnail": "https://media.eiga.com/images/movie/106326/photo/2716d13d155f7831/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951083"
+      "scraped_at": "2026-08-26T01:06:05.702628"
     },
     {
       "title": "ケルト・ユートピア",
       "url": "https://eiga.com/movie/106415/",
       "release_date": "8月22日",
       "thumbnail": "https://media.eiga.com/images/movie/106415/photo/fb5f7eccfae58168/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951160"
+      "scraped_at": "2026-08-26T01:06:05.702706"
     },
     {
       "title": "つぐない payment",
       "url": "https://eiga.com/movie/106317/",
       "release_date": "8月22日",
       "thumbnail": "https://media.eiga.com/images/movie/106317/photo/752f7ef94ed66e5f/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951238"
+      "scraped_at": "2026-08-26T01:06:05.702783"
     },
     {
       "title": "ザ・ゴールドディガーズ",
       "url": "https://eiga.com/movie/106325/",
       "release_date": "8月22日",
       "thumbnail": "https://media.eiga.com/images/movie/106325/photo/5862c73a4a513ecb/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951310"
+      "scraped_at": "2026-08-26T01:06:05.702857"
     },
     {
       "title": "グレイ・ミッション",
       "url": "https://eiga.com/movie/106214/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/106214/photo/d7cf60c3dcd758e9/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951385"
+      "scraped_at": "2026-08-26T01:06:05.702942"
     },
     {
       "title": "ドラマなふたり",
       "url": "https://eiga.com/movie/105977/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/105977/photo/ea7b93d692a8ecbd/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951455"
+      "scraped_at": "2026-08-26T01:06:05.703011"
     },
     {
       "title": "八月の声を運ぶ男",
       "url": "https://eiga.com/movie/106362/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/106362/photo/13ce285b99e81ce3/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951547"
+      "scraped_at": "2026-08-26T01:06:05.703078"
     },
     {
       "title": "ムカデ人間",
       "url": "https://eiga.com/movie/56219/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/56219/photo/7f98c5ee63c07ae9/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951617"
+      "scraped_at": "2026-08-26T01:06:05.703145"
     },
     {
       "title": "しらぬひ",
       "url": "https://eiga.com/movie/105730/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/105730/photo/28b0959e53972af3/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951684"
+      "scraped_at": "2026-08-26T01:06:05.703212"
     },
     {
       "title": "Mirai 運命の戦士",
       "url": "https://eiga.com/movie/105951/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/105951/photo/23b6ebfa605f162a/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951757"
+      "scraped_at": "2026-08-26T01:06:05.703278"
     },
     {
       "title": "フィッシュストーリー",
       "url": "https://eiga.com/movie/53771/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/53771/photo/1fb91efee7291280/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951826"
+      "scraped_at": "2026-08-26T01:06:05.703345"
     },
     {
       "title": "あなたを殺す旅 第一章 旅のはじまり",
       "url": "https://eiga.com/movie/106306/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/106306/photo/01ad63bf3fd1241c/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951898"
+      "scraped_at": "2026-08-26T01:06:05.703443"
     },
     {
       "title": "君の見る世界をなぞる",
       "url": "https://eiga.com/movie/105616/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/105616/photo/e1b0334a3fd3f1e3/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.951965"
+      "scraped_at": "2026-08-26T01:06:05.703517"
     },
     {
       "title": "恐怖分子",
       "url": "https://eiga.com/movie/9588/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/9588/photo/2d65bd1dbe60409a/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.952035"
-    },
-    {
-      "title": "星の時",
-      "url": "https://eiga.com/movie/106200/",
-      "release_date": "8月21日",
-      "thumbnail": "https://media.eiga.com/images/movie/106200/photo/b1e11d02367d6fd7/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.952102"
+      "scraped_at": "2026-08-26T01:06:05.703586"
     },
     {
       "title": "ウォーターガーディアンズ",
       "url": "https://eiga.com/movie/106106/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/106106/photo/21747584e1aca971/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.952173"
+      "scraped_at": "2026-08-26T01:06:05.703652"
+    },
+    {
+      "title": "星の時",
+      "url": "https://eiga.com/movie/106200/",
+      "release_date": "8月21日",
+      "thumbnail": "https://media.eiga.com/images/movie/106200/photo/b1e11d02367d6fd7/320.jpg",
+      "scraped_at": "2026-08-26T01:06:05.703719"
     },
     {
       "title": "マイ・リトル・クイーンズ",
       "url": "https://eiga.com/movie/106363/",
       "release_date": "8月21日",
       "thumbnail": "https://media.eiga.com/images/movie/106363/photo/91705b75270189fe/320.jpg",
-      "scraped_at": "2026-08-25T01:04:22.952240"
+      "scraped_at": "2026-08-26T01:06:05.703784"
     }
   ]
 }
