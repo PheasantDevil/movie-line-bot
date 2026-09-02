@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-09-01T03:28:07.123245",
+  "updated_at": "2026-09-02T02:46:01.772612",
   "count": 20,
   "movies": [
+    {
+      "title": "Katy Perry：THE LIFETIMES TOUR - LIVE FROM PARIS",
+      "url": "https://eiga.com/movie/106560/",
+      "release_date": "9月2日",
+      "thumbnail": "https://media.eiga.com/images/movie/106560/photo/5480fc76dc031ec8/320.jpg",
+      "scraped_at": "2026-09-02T02:46:01.706419"
+    },
     {
       "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
       "url": "https://eiga.com/movie/106658/",
       "release_date": "9月1日",
       "thumbnail": "https://media.eiga.com/images/movie/106658/photo/ca14e7846dc497e4/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.064540"
+      "scraped_at": "2026-09-02T02:46:01.706527"
     },
     {
       "title": "ナウ・アンド・ゼン",
       "url": "https://eiga.com/movie/106318/",
       "release_date": "8月29日",
       "thumbnail": "https://media.eiga.com/images/movie/106318/photo/97f4b6ecd6ec6bc9/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.064634"
+      "scraped_at": "2026-09-02T02:46:01.706606"
     },
     {
       "title": "嘘もまことも",
       "url": "https://eiga.com/movie/106221/",
       "release_date": "8月29日",
       "thumbnail": "https://media.eiga.com/images/movie/106221/photo/7b970a406ace5a64/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.064699"
+      "scraped_at": "2026-09-02T02:46:01.706692"
     },
     {
       "title": "もどらないかげ",
       "url": "https://eiga.com/movie/106364/",
       "release_date": "8月29日",
       "thumbnail": "https://media.eiga.com/images/movie/106364/photo/a88e7b60112be6c8/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.064765"
+      "scraped_at": "2026-09-02T02:46:01.706795"
     },
     {
       "title": "時には懺悔を",
       "url": "https://eiga.com/movie/103169/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/103169/photo/2f1c46fb9646779d/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.064826"
+      "scraped_at": "2026-09-02T02:46:01.706873"
     },
     {
       "title": "劇場版 魔法少女まどか☆マギカ ワルプルギスの廻天",
       "url": "https://eiga.com/movie/94928/",
       "release_date": "8月28日",
-      "thumbnail": "https://media.eiga.com/images/movie/94928/photo/62655b3406343362/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.064882"
+      "thumbnail": "https://media.eiga.com/images/movie/94928/photo/b684484813bf09f0/320.jpg",
+      "scraped_at": "2026-09-02T02:46:01.706944"
     },
     {
       "title": "ラスト・サバイバー",
       "url": "https://eiga.com/movie/104000/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/104000/photo/778ed02ebae5c77e/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.064934"
+      "scraped_at": "2026-09-02T02:46:01.707020"
     },
     {
       "title": "私はあなたを知らない、",
       "url": "https://eiga.com/movie/105511/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/105511/photo/a850bcb8d78b1952/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.064994"
+      "scraped_at": "2026-09-02T02:46:01.707092"
     },
     {
       "title": "平行と垂直",
       "url": "https://eiga.com/movie/105571/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/105571/photo/a5a679f4402b86ef/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065048"
+      "scraped_at": "2026-09-02T02:46:01.707161"
     },
     {
       "title": "シェルター",
       "url": "https://eiga.com/movie/105507/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/105507/photo/28b8442a19fbd09d/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065111"
+      "scraped_at": "2026-09-02T02:46:01.707228"
     },
     {
       "title": "見えない娘 THE INVISIBLES",
       "url": "https://eiga.com/movie/105735/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/105735/photo/7d787e4174f1cdd1/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065160"
+      "scraped_at": "2026-09-02T02:46:01.707296"
     },
     {
       "title": "ハリー・ポッターと賢者の石",
       "url": "https://eiga.com/movie/1076/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/1076/photo/7d36293a0aea57b6/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065215"
+      "scraped_at": "2026-09-02T02:46:01.707364"
     },
     {
       "title": "顔 かお",
       "url": "https://eiga.com/movie/106195/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/106195/photo/47279f513aa5f36d/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065262"
+      "scraped_at": "2026-09-02T02:46:01.707431"
     },
     {
       "title": "ナイトボーン 夜哭",
       "url": "https://eiga.com/movie/105013/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/105013/photo/37bcbea402f4a21a/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065308"
+      "scraped_at": "2026-09-02T02:46:01.707497"
     },
     {
       "title": "劇場版 TUBE 40th Anniversary Live & Documentary 40周年の航海記",
       "url": "https://eiga.com/movie/106424/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/106424/photo/26d9f5c04ebaacac/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065352"
+      "scraped_at": "2026-09-02T02:46:01.707569"
     },
     {
       "title": "ヘンリー",
       "url": "https://eiga.com/movie/49236/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/49236/photo/9c4d74c15d97f4cc/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065403"
+      "scraped_at": "2026-09-02T02:46:01.707637"
     },
     {
       "title": "こぐまとパルマの物語",
       "url": "https://eiga.com/movie/106219/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/106219/photo/3914c6d93f14a331/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065448"
+      "scraped_at": "2026-09-02T02:46:01.707703"
     },
     {
       "title": "エリック・クラプトン ライヴ・アット・ステイプルズ・センター2001",
       "url": "https://eiga.com/movie/106336/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/106336/photo/acd19620417a2725/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065494"
+      "scraped_at": "2026-09-02T02:46:01.707795"
     },
     {
       "title": "沈黙の女",
       "url": "https://eiga.com/movie/46810/",
       "release_date": "8月28日",
       "thumbnail": "https://media.eiga.com/images/movie/46810/photo/8af2f493e43137ab/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065540"
-    },
-    {
-      "title": "銀座ル・ジャルダンへようこそ2 1986年",
-      "url": "https://eiga.com/movie/106553/",
-      "release_date": "8月28日",
-      "thumbnail": "https://media.eiga.com/images/movie/106553/photo/b1cef7a16a62d1a7/320.jpg",
-      "scraped_at": "2026-09-01T03:28:07.065588"
+      "scraped_at": "2026-09-02T02:46:01.707863"
     }
   ]
 }
