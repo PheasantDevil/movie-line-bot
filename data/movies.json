@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-09-04T02:49:25.774620",
+  "updated_at": "2026-09-05T02:51:24.202856",
   "count": 20,
   "movies": [
+    {
+      "title": "沼影市民プール",
+      "url": "https://eiga.com/movie/106311/",
+      "release_date": "9月5日",
+      "thumbnail": "https://media.eiga.com/images/movie/106311/photo/48458a01ed09e8ff/320.jpg",
+      "scraped_at": "2026-09-05T02:51:24.139543"
+    },
+    {
+      "title": "100万カットの記憶",
+      "url": "https://eiga.com/movie/106124/",
+      "release_date": "9月5日",
+      "thumbnail": "https://media.eiga.com/images/movie/106124/photo/eb4d67e397f74218/320.jpg",
+      "scraped_at": "2026-09-05T02:51:24.139645"
+    },
+    {
+      "title": "零下五十度の抑留者",
+      "url": "https://eiga.com/movie/106425/",
+      "release_date": "9月5日",
+      "thumbnail": "https://media.eiga.com/images/movie/106425/photo/f7ec22e4472bbb5f/320.jpg",
+      "scraped_at": "2026-09-05T02:51:24.139723"
+    },
     {
       "title": "白鳥とコウモリ",
       "url": "https://eiga.com/movie/105470/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/105470/photo/d45472f50a97c678/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.711699"
+      "scraped_at": "2026-09-05T02:51:24.139819"
     },
     {
       "title": "バックルームズ",
       "url": "https://eiga.com/movie/106287/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/106287/photo/d9d010bd78f3cfcc/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.711796"
+      "scraped_at": "2026-09-05T02:51:24.139909"
     },
     {
       "title": "SEKIRO: NO DEFEAT",
       "url": "https://eiga.com/movie/105845/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/105845/photo/8595b6ec0b82476e/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.711862"
+      "scraped_at": "2026-09-05T02:51:24.139984"
     },
     {
       "title": "ヒンド・ラジャブの声",
       "url": "https://eiga.com/movie/104398/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/104398/photo/1f9a65f4ac80efba/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.711921"
+      "scraped_at": "2026-09-05T02:51:24.140053"
     },
     {
       "title": "温泉シャーク2 九州大決戦",
       "url": "https://eiga.com/movie/104446/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/104446/photo/2c2d40dba0e86dcf/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.711981"
+      "scraped_at": "2026-09-05T02:51:24.140126"
     },
     {
       "title": "THE RIBBON HERO リボンヒーロー",
       "url": "https://eiga.com/movie/106064/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/106064/photo/b623e8c8623479b2/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712036"
+      "scraped_at": "2026-09-05T02:51:24.140195"
     },
     {
       "title": "ホーム スイート ホーム",
       "url": "https://eiga.com/movie/105804/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/105804/photo/106d141665a12986/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712098"
+      "scraped_at": "2026-09-05T02:51:24.140262"
     },
     {
       "title": "劇場版 THE ALFEE 3000PREMIUM トラベリングバンドが刻んだ3000本の奇跡と軌跡",
       "url": "https://eiga.com/movie/106598/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/106598/photo/1fdc527596aae1d1/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712156"
+      "scraped_at": "2026-09-05T02:51:24.140327"
     },
     {
       "title": "カーズ",
       "url": "https://eiga.com/movie/1030/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/1030/photo/40f65e989fc8e86c/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712208"
+      "scraped_at": "2026-09-05T02:51:24.140392"
     },
     {
       "title": "戦場0地点",
       "url": "https://eiga.com/movie/106417/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/106417/photo/26f19f6c387b0cbe/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712258"
+      "scraped_at": "2026-09-05T02:51:24.140457"
     },
     {
       "title": "ハルバーシュタットの埋蔵金",
       "url": "https://eiga.com/movie/104483/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/104483/photo/0f126185dedf018e/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712305"
+      "scraped_at": "2026-09-05T02:51:24.140521"
     },
     {
       "title": "スワロウテイル",
       "url": "https://eiga.com/movie/17126/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/17126/photo/463c006dced40415/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712366"
+      "scraped_at": "2026-09-05T02:51:24.140591"
     },
     {
       "title": "冴えないボクと映えるキミ",
       "url": "https://eiga.com/movie/106285/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/106285/photo/89237db0146ab5ef/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712414"
+      "scraped_at": "2026-09-05T02:51:24.140657"
     },
     {
       "title": "猫たちと7000マイルの旅",
       "url": "https://eiga.com/movie/106319/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/106319/photo/4c0fd6c3d4438286/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712462"
+      "scraped_at": "2026-09-05T02:51:24.140727"
     },
     {
       "title": "べべフィン・ザ・ムービー うたとまほうのピンキッツワールド",
       "url": "https://eiga.com/movie/106052/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/106052/photo/cd3c8a8fe3a1c705/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712514"
+      "scraped_at": "2026-09-05T02:51:24.140809"
     },
     {
       "title": "6DAYS",
       "url": "https://eiga.com/movie/106558/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/106558/photo/cd19a17caf357d98/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712561"
+      "scraped_at": "2026-09-05T02:51:24.140885"
     },
     {
       "title": "僕の一年、君の一日",
       "url": "https://eiga.com/movie/106646/",
       "release_date": "9月4日",
       "thumbnail": "https://media.eiga.com/images/movie/106646/photo/cea60df71f9d1308/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712607"
-    },
-    {
-      "title": "GUN FISH あなたの知らないフグの世界",
-      "url": "https://eiga.com/movie/106456/",
-      "release_date": "9月4日",
-      "thumbnail": "https://media.eiga.com/images/movie/106456/photo/b555759fdac0f1a1/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712653"
-    },
-    {
-      "title": "グルスポングの奇跡",
-      "url": "https://eiga.com/movie/106552/",
-      "release_date": "9月4日",
-      "thumbnail": "https://media.eiga.com/images/movie/106552/photo/493034eb83d7e998/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712703"
-    },
-    {
-      "title": "ラブ・ライズ",
-      "url": "https://eiga.com/movie/102645/",
-      "release_date": "9月4日",
-      "thumbnail": "https://media.eiga.com/images/movie/102645/photo/e2a78e17e729e99d/320.jpg",
-      "scraped_at": "2026-09-04T02:49:25.712749"
+      "scraped_at": "2026-09-05T02:51:24.140954"
     }
   ]
 }
