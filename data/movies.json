@@ -1,146 +1,139 @@
 {
-  "updated_at": "2026-09-11T02:54:54.903330",
-  "count": 20,
+  "updated_at": "2026-09-12T03:01:34.852788",
+  "count": 19,
   "movies": [
+    {
+      "title": "骨とか毒とかカスタネットとか？",
+      "url": "https://eiga.com/movie/106490/",
+      "release_date": "9月12日",
+      "thumbnail": "https://media.eiga.com/images/movie/106490/photo/5adae1d857b12527/320.jpg",
+      "scraped_at": "2026-09-12T03:01:34.591988"
+    },
     {
       "title": "オデュッセイア",
       "url": "https://eiga.com/movie/104267/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/104267/photo/dc451218e0054670/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.671493"
+      "scraped_at": "2026-09-12T03:01:34.592115"
     },
     {
       "title": "ルックバック",
       "url": "https://eiga.com/movie/105185/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/105185/photo/2207a11effeeec0d/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.671596"
+      "scraped_at": "2026-09-12T03:01:34.592196"
     },
     {
       "title": "5秒で完全犯罪を生成する方法",
       "url": "https://eiga.com/movie/105699/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/105699/photo/54d24bdc7c80a833/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.671661"
+      "scraped_at": "2026-09-12T03:01:34.592271"
     },
     {
       "title": "ネルソンさん、あなたは人を殺しましたか？",
       "url": "https://eiga.com/movie/105911/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/105911/photo/4e6bf60e94be3492/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.671721"
+      "scraped_at": "2026-09-12T03:01:34.592353"
     },
     {
       "title": "私たちは、ちょうどいい。",
       "url": "https://eiga.com/movie/106388/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/106388/photo/5f3a352148cecf29/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.671782"
+      "scraped_at": "2026-09-12T03:01:34.592432"
     },
     {
       "title": "オアシス ドント・ルック・バック・イン・アンガー",
       "url": "https://eiga.com/movie/106463/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/106463/photo/20b0fa9e583d0b36/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.671837"
+      "scraped_at": "2026-09-12T03:01:34.592501"
     },
     {
       "title": "最終楽章 響け！ユーフォニアム 後編",
       "url": "https://eiga.com/movie/106095/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/106095/photo/9b4e0e68e7c96c5e/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.671889"
+      "scraped_at": "2026-09-12T03:01:34.592574"
     },
     {
       "title": "オペレーション：カブール 極限救出48時間",
       "url": "https://eiga.com/movie/106396/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/106396/photo/c6169b72b873e7a5/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.671948"
+      "scraped_at": "2026-09-12T03:01:34.592643"
     },
     {
       "title": "スターヴ・エイカー 召喚",
       "url": "https://eiga.com/movie/106546/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/106546/photo/26530ba1797824bc/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672017"
+      "scraped_at": "2026-09-12T03:01:34.592711"
     },
     {
       "title": "クロノス・カイロス",
       "url": "https://eiga.com/movie/106561/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/106561/photo/ba195aa4451603db/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672070"
+      "scraped_at": "2026-09-12T03:01:34.592776"
     },
     {
       "title": "TAVERNA DE GAGA 人生はまだまだ面白い",
       "url": "https://eiga.com/movie/106514/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/106514/photo/279b768b6014f058/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672118"
+      "scraped_at": "2026-09-12T03:01:34.592842"
     },
     {
       "title": "Man",
       "url": "https://eiga.com/movie/105481/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/105481/photo/064824744a2005d8/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672167"
+      "scraped_at": "2026-09-12T03:01:34.592907"
     },
     {
       "title": "リンカ リンカ あの夏の先",
       "url": "https://eiga.com/movie/104767/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/104767/photo/f3e6032d7388f81f/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672214"
+      "scraped_at": "2026-09-12T03:01:34.592972"
     },
     {
       "title": "エルミタージュ幻想",
       "url": "https://eiga.com/movie/51842/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/51842/photo/29f9e3a79fa58709/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672263"
+      "scraped_at": "2026-09-12T03:01:34.593043"
     },
     {
       "title": "地上げ屋",
       "url": "https://eiga.com/movie/106691/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/106691/photo/ccb1e9bdee09109e/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672311"
+      "scraped_at": "2026-09-12T03:01:34.593133"
     },
     {
       "title": "映画「宇宙なんちゃら こてつくん」うっかり出てきた宇宙人を探せ！",
       "url": "https://eiga.com/movie/106395/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/106395/photo/43f9def1e8a4be82/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672359"
+      "scraped_at": "2026-09-12T03:01:34.593199"
     },
     {
       "title": "BULLY ブリー",
       "url": "https://eiga.com/movie/51925/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/51925/photo/eb8691cb44ff076a/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672406"
+      "scraped_at": "2026-09-12T03:01:34.593264"
     },
     {
       "title": "マッチモンド",
       "url": "https://eiga.com/movie/104390/",
       "release_date": "9月11日",
       "thumbnail": "https://media.eiga.com/images/movie/104390/photo/9c46034222a3608c/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672453"
-    },
-    {
-      "title": "沼影市民プール",
-      "url": "https://eiga.com/movie/106311/",
-      "release_date": "9月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/106311/photo/48458a01ed09e8ff/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672500"
-    },
-    {
-      "title": "零下五十度の抑留者",
-      "url": "https://eiga.com/movie/106425/",
-      "release_date": "9月5日",
-      "thumbnail": "https://media.eiga.com/images/movie/106425/photo/f7ec22e4472bbb5f/320.jpg",
-      "scraped_at": "2026-09-11T02:54:54.672546"
+      "scraped_at": "2026-09-12T03:01:34.593329"
     }
   ]
 }
