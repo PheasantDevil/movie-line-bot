@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T03:12:46.624540",
+  "updated_at": "2026-09-24T03:03:13.866210",
   "count": 16,
   "movies": [
     {
@@ -7,112 +7,112 @@
       "url": "https://eiga.com/movie/106590/",
       "release_date": "9月23日",
       "thumbnail": "https://media.eiga.com/images/movie/106590/photo/25bbcbf1166812ba/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562256"
+      "scraped_at": "2026-09-24T03:03:13.463613"
     },
     {
       "title": "ブロークン・ヴォイス",
       "url": "https://eiga.com/movie/106230/",
       "release_date": "9月19日",
       "thumbnail": "https://media.eiga.com/images/movie/106230/photo/fdcead242540f1dc/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562330"
+      "scraped_at": "2026-09-24T03:03:13.463688"
     },
     {
       "title": "見え見え",
       "url": "https://eiga.com/movie/104450/",
       "release_date": "9月19日",
       "thumbnail": "https://media.eiga.com/images/movie/104450/photo/1cd1481ccb7aa62c/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562386"
+      "scraped_at": "2026-09-24T03:03:13.463738"
     },
     {
       "title": "劇情",
       "url": "https://eiga.com/movie/106713/",
       "release_date": "9月19日",
       "thumbnail": "https://media.eiga.com/images/movie/106713/photo/aaf2e7460f0a3367/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562433"
+      "scraped_at": "2026-09-24T03:03:13.463785"
     },
     {
       "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
       "url": "https://eiga.com/movie/103045/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/103045/photo/7aa8ee64d24d9b41/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562481"
+      "scraped_at": "2026-09-24T03:03:13.463835"
     },
     {
       "title": "八つ墓村",
       "url": "https://eiga.com/movie/105477/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/105477/photo/22ae70136e47747c/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562524"
+      "scraped_at": "2026-09-24T03:03:13.463877"
     },
     {
       "title": "さとこはいつも",
       "url": "https://eiga.com/movie/106146/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/106146/photo/c4dd888bdc81c95e/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562564"
+      "scraped_at": "2026-09-24T03:03:13.463916"
     },
     {
       "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
       "url": "https://eiga.com/movie/105969/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/105969/photo/d57c18dbd6b98e78/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562608"
+      "scraped_at": "2026-09-24T03:03:13.463960"
     },
     {
       "title": "ワンオペレーション",
       "url": "https://eiga.com/movie/103469/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/103469/photo/e1895496f3358f36/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562648"
+      "scraped_at": "2026-09-24T03:03:13.464000"
     },
     {
       "title": "モネと時間旅行",
       "url": "https://eiga.com/movie/106358/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/106358/photo/fa449782e423d7dc/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562688"
+      "scraped_at": "2026-09-24T03:03:13.464038"
     },
     {
       "title": "リサ・ラーソンがいた時間",
       "url": "https://eiga.com/movie/106444/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/106444/photo/6eb8e38a36e9bd69/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562727"
+      "scraped_at": "2026-09-24T03:03:13.464076"
     },
     {
       "title": "カーンターラ 炎の決戦",
       "url": "https://eiga.com/movie/104817/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/104817/photo/3576c4aad1b9f0ea/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562765"
+      "scraped_at": "2026-09-24T03:03:13.464113"
     },
     {
       "title": "ドラッグストア・カウボーイ",
       "url": "https://eiga.com/movie/21804/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/21804/photo/b9bc0ca904e4af61/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562802"
+      "scraped_at": "2026-09-24T03:03:13.464150"
     },
     {
       "title": "多摩川の男",
       "url": "https://eiga.com/movie/106734/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/106734/photo/adf0f3131c9d4f09/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562838"
+      "scraped_at": "2026-09-24T03:03:13.464185"
     },
     {
       "title": "ノクターン・イン・ブラック",
       "url": "https://eiga.com/movie/106380/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/106380/photo/bfe2648654eb6998/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562874"
+      "scraped_at": "2026-09-24T03:03:13.464221"
     },
     {
       "title": "チャオ・ヤングの墓",
       "url": "https://eiga.com/movie/106520/",
       "release_date": "9月18日",
       "thumbnail": "https://media.eiga.com/images/movie/106520/photo/0c92c4362e35f3b0/320.jpg",
-      "scraped_at": "2026-09-23T03:12:46.562910"
+      "scraped_at": "2026-09-24T03:03:13.464256"
     }
   ]
 }
