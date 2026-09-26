@@ -1,5 +1,146 @@
 {
-  "updated_at": "2026-09-25T03:20:23.431424",
-  "count": 0,
-  "movies": []
+  "updated_at": "2026-09-26T03:25:11.757145",
+  "count": 20,
+  "movies": [
+    {
+      "title": "拝啓アシタ DEAR TOMORROW",
+      "url": "https://eiga.com/movie/106488/",
+      "release_date": "9月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/106488/photo/87a743502c7ccfa9/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648441"
+    },
+    {
+      "title": "百姓、わらう。",
+      "url": "https://eiga.com/movie/106587/",
+      "release_date": "9月26日",
+      "thumbnail": "https://media.eiga.com/images/movie/106587/photo/9476f341a00f6141/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648515"
+    },
+    {
+      "title": "ハート・オブ・ビースト",
+      "url": "https://eiga.com/movie/106332/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/106332/photo/7cca6653fde1f9cc/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648581"
+    },
+    {
+      "title": "藁にもすがる獣たち",
+      "url": "https://eiga.com/movie/105942/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105942/photo/b92297c359c18ee4/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648629"
+    },
+    {
+      "title": "シャドウワーク",
+      "url": "https://eiga.com/movie/105621/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105621/photo/93313e63fd2f98f9/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648676"
+    },
+    {
+      "title": "マッチング TRUE LOVE",
+      "url": "https://eiga.com/movie/105204/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105204/photo/e215d457fa6b18f9/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648727"
+    },
+    {
+      "title": "ナギダイアリー",
+      "url": "https://eiga.com/movie/105726/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105726/photo/4349ed9777933ecb/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648768"
+    },
+    {
+      "title": "我々は宇宙人",
+      "url": "https://eiga.com/movie/105075/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105075/photo/1d3bc3c7c5e4ce26/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648811"
+    },
+    {
+      "title": "しびれ",
+      "url": "https://eiga.com/movie/104885/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/104885/photo/bb9511fc940c6188/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648851"
+    },
+    {
+      "title": "襲名",
+      "url": "https://eiga.com/movie/106215/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/106215/photo/ed083bd538f56349/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648889"
+    },
+    {
+      "title": "眺めのいい部屋",
+      "url": "https://eiga.com/movie/47435/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/47435/photo/74f6470341edc920/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648927"
+    },
+    {
+      "title": "ユートピア 狂宴",
+      "url": "https://eiga.com/movie/106557/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/106557/photo/c82844469abcecb0/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.648963"
+    },
+    {
+      "title": "雌鶏",
+      "url": "https://eiga.com/movie/104752/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/104752/photo/02cf55ae4cc743cf/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.649001"
+    },
+    {
+      "title": "ファーストライド",
+      "url": "https://eiga.com/movie/105327/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105327/photo/cf551168354c6485/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.649036"
+    },
+    {
+      "title": "縁の手紙",
+      "url": "https://eiga.com/movie/105225/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/105225/photo/95c440ad0e553ff7/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.649071"
+    },
+    {
+      "title": "ベイ・シティ・ローラーズ ウッディ・ウッドが語る真実",
+      "url": "https://eiga.com/movie/106465/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/106465/photo/552caf84f81e3295/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.649107"
+    },
+    {
+      "title": "3670",
+      "url": "https://eiga.com/movie/106505/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/106505/photo/1e4c25645bc544cd/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.649143"
+    },
+    {
+      "title": "審判（1962）",
+      "url": "https://eiga.com/movie/45735/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/45735/photo/792cb113ba1838cb/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.649179"
+    },
+    {
+      "title": "劇場版 RE:cycle of the PENGUINDRUM 前編 君の列車は生存戦略",
+      "url": "https://eiga.com/movie/94821/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/94821/photo/557dbde99860e37b/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.649218"
+    },
+    {
+      "title": "デス・バイ・メタル デス・メタルを作った男",
+      "url": "https://eiga.com/movie/106733/",
+      "release_date": "9月25日",
+      "thumbnail": "https://media.eiga.com/images/movie/106733/photo/300ce4ce4c7b70d4/320.jpg",
+      "scraped_at": "2026-09-26T03:25:11.649255"
+    }
+  ]
 }
