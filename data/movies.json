@@ -1,139 +1,132 @@
 {
-  "updated_at": "2026-10-09T04:28:28.213998",
-  "count": 19,
+  "updated_at": "2026-10-10T04:14:00.537641",
+  "count": 18,
   "movies": [
     {
-      "title": "DIGGER ディガー",
-      "url": "https://eiga.com/movie/105275/",
-      "release_date": "10月9日",
-      "thumbnail": "https://media.eiga.com/images/movie/105275/photo/1126d7139b341ab3/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.154580"
+      "title": "東京上空300メートル",
+      "url": "https://eiga.com/movie/106445/",
+      "release_date": "10月10日",
+      "thumbnail": "https://media.eiga.com/images/movie/106445/photo/2341fe4fa3357413/320.jpg",
+      "scraped_at": "2026-10-10T04:14:00.116299"
+    },
+    {
+      "title": "逃亡者狂騒曲",
+      "url": "https://eiga.com/movie/101666/",
+      "release_date": "10月10日",
+      "thumbnail": "https://media.eiga.com/images/movie/101666/photo/3309333cf37fd097/320.jpg",
+      "scraped_at": "2026-10-10T04:14:00.116362"
     },
     {
       "title": "バイオハザード",
       "url": "https://eiga.com/movie/106123/",
       "release_date": "10月9日",
       "thumbnail": "https://media.eiga.com/images/movie/106123/photo/91595e98277060d1/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.154706"
+      "scraped_at": "2026-10-10T04:14:00.116402"
+    },
+    {
+      "title": "DIGGER ディガー",
+      "url": "https://eiga.com/movie/105275/",
+      "release_date": "10月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/105275/photo/1126d7139b341ab3/320.jpg",
+      "scraped_at": "2026-10-10T04:14:00.116441"
     },
     {
       "title": "汝、星のごとく",
       "url": "https://eiga.com/movie/104217/",
       "release_date": "10月9日",
       "thumbnail": "https://media.eiga.com/images/movie/104217/photo/1851208b7444526e/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.154789"
+      "scraped_at": "2026-10-10T04:14:00.116479"
     },
     {
       "title": "どこよりも遠い場所にいる君へ",
       "url": "https://eiga.com/movie/105503/",
       "release_date": "10月9日",
       "thumbnail": "https://media.eiga.com/images/movie/105503/photo/f598ae4cea35505c/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.154863"
-    },
-    {
-      "title": "遥かな町へ",
-      "url": "https://eiga.com/movie/106025/",
-      "release_date": "10月9日",
-      "thumbnail": "https://media.eiga.com/images/movie/106025/photo/40ba82f64ce5522d/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.154943"
-    },
-    {
-      "title": "ハードボイルド",
-      "url": "https://eiga.com/movie/106585/",
-      "release_date": "10月9日",
-      "thumbnail": "https://media.eiga.com/images/movie/106585/photo/e3c5914a02c3c9a3/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155014"
-    },
-    {
-      "title": "あぶない刑事",
-      "url": "https://eiga.com/movie/34600/",
-      "release_date": "10月9日",
-      "thumbnail": "https://media.eiga.com/images/movie/34600/photo/00eaae245672d706/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155087"
+      "scraped_at": "2026-10-10T04:14:00.116513"
     },
     {
       "title": "ガールズ＆パンツァー 最終章 第5話",
       "url": "https://eiga.com/movie/105083/",
       "release_date": "10月9日",
       "thumbnail": "https://media.eiga.com/images/movie/105083/photo/6cdc695b5eca6d16/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155159"
+      "scraped_at": "2026-10-10T04:14:00.116548"
+    },
+    {
+      "title": "遥かな町へ",
+      "url": "https://eiga.com/movie/106025/",
+      "release_date": "10月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/106025/photo/40ba82f64ce5522d/320.jpg",
+      "scraped_at": "2026-10-10T04:14:00.116583"
+    },
+    {
+      "title": "あぶない刑事",
+      "url": "https://eiga.com/movie/34600/",
+      "release_date": "10月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/34600/photo/00eaae245672d706/320.jpg",
+      "scraped_at": "2026-10-10T04:14:00.116615"
+    },
+    {
+      "title": "ハードボイルド",
+      "url": "https://eiga.com/movie/106585/",
+      "release_date": "10月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/106585/photo/e3c5914a02c3c9a3/320.jpg",
+      "scraped_at": "2026-10-10T04:14:00.116645"
     },
     {
       "title": "エヴィレンコ",
       "url": "https://eiga.com/movie/106491/",
       "release_date": "10月9日",
       "thumbnail": "https://media.eiga.com/images/movie/106491/photo/77bea5a044b0e1b1/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155226"
+      "scraped_at": "2026-10-10T04:14:00.116675"
     },
     {
       "title": "憎しみ",
       "url": "https://eiga.com/movie/47508/",
       "release_date": "10月9日",
       "thumbnail": "https://media.eiga.com/images/movie/47508/photo/8ca1dd2bb60f4d4c/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155293"
+      "scraped_at": "2026-10-10T04:14:00.116703"
     },
     {
       "title": "ミッシェル・ガン・エレファント“THEE MOVIE” LAST HEAVEN 031011",
       "url": "https://eiga.com/movie/55066/",
       "release_date": "10月9日",
       "thumbnail": "https://media.eiga.com/images/movie/55066/photo/bd9447105a1bb886/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155358"
+      "scraped_at": "2026-10-10T04:14:00.116732"
     },
     {
       "title": "The Ozu Diaries 小津ダイアリー",
       "url": "https://eiga.com/movie/104799/",
       "release_date": "10月9日",
       "thumbnail": "https://media.eiga.com/images/movie/104799/photo/df81e09c1dff84b6/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155423"
+      "scraped_at": "2026-10-10T04:14:00.116761"
     },
     {
       "title": "遠近を抱えた女 完全版",
       "url": "https://eiga.com/movie/106577/",
       "release_date": "10月9日",
       "thumbnail": "https://media.eiga.com/images/movie/106577/photo/384db9eed7993be1/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155488"
-    },
-    {
-      "title": "サクラマスのラストワルツ",
-      "url": "https://eiga.com/movie/106254/",
-      "release_date": "10月9日",
-      "thumbnail": "https://media.eiga.com/images/movie/106254/photo/bf264b094d874168/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155552"
+      "scraped_at": "2026-10-10T04:14:00.116790"
     },
     {
       "title": "インビジブル・ビューティー ランウェイの革命",
       "url": "https://eiga.com/movie/106647/",
       "release_date": "10月9日",
       "thumbnail": "https://media.eiga.com/images/movie/106647/photo/b2a6acb8958fd797/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155616"
+      "scraped_at": "2026-10-10T04:14:00.116830"
+    },
+    {
+      "title": "サクラマスのラストワルツ",
+      "url": "https://eiga.com/movie/106254/",
+      "release_date": "10月9日",
+      "thumbnail": "https://media.eiga.com/images/movie/106254/photo/bf264b094d874168/320.jpg",
+      "scraped_at": "2026-10-10T04:14:00.116860"
     },
     {
       "title": "クイーン ブダペスト",
       "url": "https://eiga.com/movie/106578/",
       "release_date": "10月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106578/photo/824a6da0bbbe88d8/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155704"
-    },
-    {
-      "title": "プーチンの愛国教室",
-      "url": "https://eiga.com/movie/105515/",
-      "release_date": "10月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/105515/photo/cb10b1e92791f719/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155771"
-    },
-    {
-      "title": "ドルフィ田イル香の偏屈なダンス",
-      "url": "https://eiga.com/movie/106821/",
-      "release_date": "10月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/106821/photo/8af523dc8b2780b7/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155836"
-    },
-    {
-      "title": "still dark",
-      "url": "https://eiga.com/movie/106604/",
-      "release_date": "10月3日",
-      "thumbnail": "https://media.eiga.com/images/movie/106604/photo/b284f5dc9596de1a/320.jpg",
-      "scraped_at": "2026-10-09T04:28:28.155900"
+      "scraped_at": "2026-10-10T04:14:00.116889"
     }
   ]
 }
