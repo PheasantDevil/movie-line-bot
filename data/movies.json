@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T02:54:47.396597",
+  "updated_at": "2026-10-18T02:56:14.868007",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/106649/",
       "release_date": "10月17日",
       "thumbnail": "https://media.eiga.com/images/movie/106649/photo/f4377a0edd641a03/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.329503"
+      "scraped_at": "2026-10-18T02:56:14.439050"
     },
     {
       "title": "愛しのサキュバス",
       "url": "https://eiga.com/movie/106694/",
       "release_date": "10月17日",
       "thumbnail": "https://media.eiga.com/images/movie/106694/photo/f0cd0baea8285a28/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.329636"
-    },
-    {
-      "title": "うそがほんとに ほんとがうそに",
-      "url": "https://eiga.com/movie/106859/",
-      "release_date": "10月17日",
-      "thumbnail": "https://media.eiga.com/images/movie/106859/photo/b2a6b14a3acd414e/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.329725"
+      "scraped_at": "2026-10-18T02:56:14.439113"
     },
     {
       "title": "ワンカモ",
       "url": "https://eiga.com/movie/106707/",
       "release_date": "10月17日",
       "thumbnail": "https://media.eiga.com/images/movie/106707/photo/cd5ca9372b7d5bcc/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.329802"
+      "scraped_at": "2026-10-18T02:56:14.439151"
+    },
+    {
+      "title": "うそがほんとに ほんとがうそに",
+      "url": "https://eiga.com/movie/106859/",
+      "release_date": "10月17日",
+      "thumbnail": "https://media.eiga.com/images/movie/106859/photo/b2a6b14a3acd414e/320.jpg",
+      "scraped_at": "2026-10-18T02:56:14.439188"
     },
     {
       "title": "わたしの知らない子どもたち",
       "url": "https://eiga.com/movie/106187/",
       "release_date": "10月16日",
       "thumbnail": "https://media.eiga.com/images/movie/106187/photo/d0cc1a7ff1d5ac32/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.329885"
+      "scraped_at": "2026-10-18T02:56:14.439234"
     },
     {
       "title": "mentor",
       "url": "https://eiga.com/movie/104992/",
       "release_date": "10月16日",
       "thumbnail": "https://media.eiga.com/images/movie/104992/photo/6e63d2147745fd2e/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.329958"
+      "scraped_at": "2026-10-18T02:56:14.439267"
     },
     {
       "title": "クジラに落ちた男",
       "url": "https://eiga.com/movie/106324/",
       "release_date": "10月16日",
       "thumbnail": "https://media.eiga.com/images/movie/106324/photo/a853f38c6b83bf4a/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330028"
+      "scraped_at": "2026-10-18T02:56:14.439299"
     },
     {
       "title": "ストリートファイター ザ・ムービー",
       "url": "https://eiga.com/movie/105732/",
       "release_date": "10月16日",
       "thumbnail": "https://media.eiga.com/images/movie/105732/photo/dee223d17c41163c/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330102"
-    },
-    {
-      "title": "ミッション",
-      "url": "https://eiga.com/movie/49890/",
-      "release_date": "10月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/49890/photo/fc201091b37b51a5/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330171"
+      "scraped_at": "2026-10-18T02:56:14.439334"
     },
     {
       "title": "影を売る女",
       "url": "https://eiga.com/movie/105906/",
       "release_date": "10月16日",
       "thumbnail": "https://media.eiga.com/images/movie/105906/photo/4b6ea79578761f42/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330237"
+      "scraped_at": "2026-10-18T02:56:14.439365"
     },
     {
-      "title": "太陽を盗んだ男",
-      "url": "https://eiga.com/movie/37677/",
+      "title": "ミッション",
+      "url": "https://eiga.com/movie/49890/",
       "release_date": "10月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/37677/photo/4c97eac4b69eb517/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330302"
-    },
-    {
-      "title": "真実と反逆 ナチスと闘った若きレジスタンス",
-      "url": "https://eiga.com/movie/106369/",
-      "release_date": "10月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/106369/photo/5c43052e057e19a2/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330367"
+      "thumbnail": "https://media.eiga.com/images/movie/49890/photo/fc201091b37b51a5/320.jpg",
+      "scraped_at": "2026-10-18T02:56:14.439395"
     },
     {
       "title": "青春ブタ野郎はディアフレンドの夢を見ない",
       "url": "https://eiga.com/movie/104715/",
       "release_date": "10月16日",
       "thumbnail": "https://media.eiga.com/images/movie/104715/photo/e4ccea857b37e685/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330433"
+      "scraped_at": "2026-10-18T02:56:14.439424"
     },
     {
-      "title": "呪区",
-      "url": "https://eiga.com/movie/106115/",
+      "title": "太陽を盗んだ男",
+      "url": "https://eiga.com/movie/37677/",
       "release_date": "10月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/106115/photo/805f3aaa5f7d657d/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330498"
+      "thumbnail": "https://media.eiga.com/images/movie/37677/photo/4c97eac4b69eb517/320.jpg",
+      "scraped_at": "2026-10-18T02:56:14.439452"
     },
     {
       "title": "ハイファイブ！",
       "url": "https://eiga.com/movie/105328/",
       "release_date": "10月16日",
       "thumbnail": "https://media.eiga.com/images/movie/105328/photo/6210ca0c19fc0d5f/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330607"
+      "scraped_at": "2026-10-18T02:56:14.439479"
     },
     {
-      "title": "演歌の坂道",
-      "url": "https://eiga.com/movie/106532/",
+      "title": "呪区",
+      "url": "https://eiga.com/movie/106115/",
       "release_date": "10月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/106532/photo/7a842da7ffbed94d/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330677"
+      "thumbnail": "https://media.eiga.com/images/movie/106115/photo/805f3aaa5f7d657d/320.jpg",
+      "scraped_at": "2026-10-18T02:56:14.439506"
     },
     {
       "title": "BanG Dream! Ave Mujica prima aurora",
       "url": "https://eiga.com/movie/104473/",
       "release_date": "10月16日",
       "thumbnail": "https://media.eiga.com/images/movie/104473/photo/0cd6d8163ed53068/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330744"
+      "scraped_at": "2026-10-18T02:56:14.439533"
     },
     {
-      "title": "ジェームズ・ディーンにさよならを",
-      "url": "https://eiga.com/movie/106643/",
+      "title": "真実と反逆 ナチスと闘った若きレジスタンス",
+      "url": "https://eiga.com/movie/106369/",
       "release_date": "10月16日",
-      "thumbnail": "https://media.eiga.com/images/movie/106643/photo/d598ef2246666185/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330809"
+      "thumbnail": "https://media.eiga.com/images/movie/106369/photo/5c43052e057e19a2/320.jpg",
+      "scraped_at": "2026-10-18T02:56:14.439561"
+    },
+    {
+      "title": "演歌の坂道",
+      "url": "https://eiga.com/movie/106532/",
+      "release_date": "10月16日",
+      "thumbnail": "https://media.eiga.com/images/movie/106532/photo/7a842da7ffbed94d/320.jpg",
+      "scraped_at": "2026-10-18T02:56:14.439590"
     },
     {
       "title": "椎名林檎 党大会 令和八年列島巡回",
       "url": "https://eiga.com/movie/106976/",
       "release_date": "10月16日",
       "thumbnail": "https://media.eiga.com/images/movie/106976/photo/c5d0f63fa49d6e60/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330882"
+      "scraped_at": "2026-10-18T02:56:14.439617"
+    },
+    {
+      "title": "ジェームズ・ディーンにさよならを",
+      "url": "https://eiga.com/movie/106643/",
+      "release_date": "10月16日",
+      "thumbnail": "https://media.eiga.com/images/movie/106643/photo/d598ef2246666185/320.jpg",
+      "scraped_at": "2026-10-18T02:56:14.439644"
     },
     {
       "title": "ナショナル・シアター・ライブ「危険な関係」",
       "url": "https://eiga.com/movie/105885/",
       "release_date": "10月16日",
       "thumbnail": "https://media.eiga.com/images/movie/105885/photo/a9073125189d9bc9/320.jpg",
-      "scraped_at": "2026-10-17T02:54:47.330948"
+      "scraped_at": "2026-10-18T02:56:14.439670"
     }
   ]
 }
