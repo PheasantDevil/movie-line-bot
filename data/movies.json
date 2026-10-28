@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T03:37:26.392957",
+  "updated_at": "2026-10-28T03:53:45.292765",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/106834/",
       "release_date": "10月24日",
       "thumbnail": "https://media.eiga.com/images/movie/106834/photo/fe061e0e9558072b/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.997528"
+      "scraped_at": "2026-10-28T03:53:45.186187"
     },
     {
       "title": "魂のきせき",
       "url": "https://eiga.com/movie/104792/",
       "release_date": "10月24日",
       "thumbnail": "https://media.eiga.com/images/movie/104792/photo/5e29772f9adb31ed/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.997658"
+      "scraped_at": "2026-10-28T03:53:45.186293"
     },
     {
       "title": "YAMANEKO",
       "url": "https://eiga.com/movie/106952/",
       "release_date": "10月24日",
       "thumbnail": "https://media.eiga.com/images/movie/106952/photo/455365132fa74026/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.997740"
+      "scraped_at": "2026-10-28T03:53:45.186394"
     },
     {
       "title": "中国山地 牛と人風土記",
       "url": "https://eiga.com/movie/106583/",
       "release_date": "10月24日",
       "thumbnail": "https://media.eiga.com/images/movie/106583/photo/707786ce20702d22/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.997818"
+      "scraped_at": "2026-10-28T03:53:45.186473"
     },
     {
       "title": "バッド・ルーテナント：トウキョウ",
       "url": "https://eiga.com/movie/105831/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105831/photo/c71b09145d56830a/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.997893"
+      "scraped_at": "2026-10-28T03:53:45.186550"
     },
     {
       "title": "うるわしの宵の月",
       "url": "https://eiga.com/movie/105584/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105584/photo/989193627b2f6f36/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.997966"
+      "scraped_at": "2026-10-28T03:53:45.186621"
     },
     {
       "title": "メイドインアビス 目覚める神秘",
       "url": "https://eiga.com/movie/104435/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/104435/photo/faecc9244075ac11/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998035"
+      "scraped_at": "2026-10-28T03:53:45.186691"
     },
     {
       "title": "BOSS ボス",
       "url": "https://eiga.com/movie/106361/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/106361/photo/f822d745998a7fe0/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998108"
+      "scraped_at": "2026-10-28T03:53:45.186762"
     },
     {
       "title": "昨夜は殺れたかも",
       "url": "https://eiga.com/movie/106186/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/106186/photo/ec0ab46de248fae3/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998176"
+      "scraped_at": "2026-10-28T03:53:45.186829"
     },
     {
       "title": "耳をすませば（1995）",
       "url": "https://eiga.com/movie/39618/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/39618/photo/bad6af1af367de9d/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998242"
+      "scraped_at": "2026-10-28T03:53:45.186900"
     },
     {
       "title": "もしもの愛",
       "url": "https://eiga.com/movie/105451/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105451/photo/085d5b08f9fe94ed/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998307"
+      "scraped_at": "2026-10-28T03:53:45.186967"
     },
     {
       "title": "映画 ひつじのショーン かぼちゃ畑の怪物！",
       "url": "https://eiga.com/movie/105502/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105502/photo/50095c6e7b39a153/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998378"
+      "scraped_at": "2026-10-28T03:53:45.187031"
     },
     {
       "title": "劇場版「進撃の巨人」前編 紅蓮の弓矢",
       "url": "https://eiga.com/movie/80231/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/80231/photo/e9db8f05f6121761/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998444"
+      "scraped_at": "2026-10-28T03:53:45.187095"
     },
     {
       "title": "進行曲 マーチングボーイズ",
       "url": "https://eiga.com/movie/106506/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/106506/photo/daf4c54b7f369b76/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998508"
+      "scraped_at": "2026-10-28T03:53:45.187158"
     },
     {
       "title": "ザ・ハウスメAIド 服従",
       "url": "https://eiga.com/movie/106736/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/106736/photo/858c4ade51d1066c/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998595"
+      "scraped_at": "2026-10-28T03:53:45.187220"
     },
     {
       "title": "URCHIN アーチン",
       "url": "https://eiga.com/movie/106582/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/106582/photo/ed7649d6c6f09c45/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998664"
+      "scraped_at": "2026-10-28T03:53:45.187297"
     },
     {
       "title": "CBGB ニューヨーク、PUNKが生まれた場所",
       "url": "https://eiga.com/movie/106671/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/106671/photo/c8126166c152f775/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998732"
+      "scraped_at": "2026-10-28T03:53:45.187400"
     },
     {
       "title": "竜二",
       "url": "https://eiga.com/movie/40089/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/40089/photo/69467954685ad74b/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998797"
+      "scraped_at": "2026-10-28T03:53:45.187477"
     },
     {
       "title": "劇場版 前橋ウィッチーズ 魔女見習いのエモエモリーズ",
       "url": "https://eiga.com/movie/105887/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/105887/photo/b099e8d6c96130fb/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998868"
+      "scraped_at": "2026-10-28T03:53:45.187543"
     },
     {
       "title": "Blue Heron ブルーヘロン",
       "url": "https://eiga.com/movie/106645/",
       "release_date": "10月23日",
       "thumbnail": "https://media.eiga.com/images/movie/106645/photo/b2e2be13ae242afd/320.jpg",
-      "scraped_at": "2026-10-27T03:37:25.998936"
+      "scraped_at": "2026-10-28T03:53:45.187606"
     }
   ]
 }
