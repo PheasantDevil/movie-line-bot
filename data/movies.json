@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-10-30T04:17:03.807490",
+  "updated_at": "2026-10-31T03:57:30.832978",
   "count": 20,
   "movies": [
+    {
+      "title": "京都ALS患者嘱託殺人事件",
+      "url": "https://eiga.com/movie/106743/",
+      "release_date": "10月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/106743/photo/5930a105870d83cb/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.777653"
+    },
+    {
+      "title": "映画 すみっコぐらし 青い月夜のまほうのコ",
+      "url": "https://eiga.com/movie/94096/",
+      "release_date": "10月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/94096/photo/ad1c1b2beadb1ab8/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.777736"
+    },
+    {
+      "title": "私がまだ知らない沖縄",
+      "url": "https://eiga.com/movie/106862/",
+      "release_date": "10月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/106862/photo/108993cd4e02183e/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.777791"
+    },
+    {
+      "title": "イエロー・マシマシ・ラプソディ（仮）",
+      "url": "https://eiga.com/movie/106803/",
+      "release_date": "10月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/106803/photo/34cfe30d52367cde/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.777842"
+    },
+    {
+      "title": "鳥を導く",
+      "url": "https://eiga.com/movie/106832/",
+      "release_date": "10月31日",
+      "thumbnail": "https://media.eiga.com/images/movie/106832/photo/43ab828c73d922d9/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.777894"
+    },
     {
       "title": "RYUJI 竜二",
       "url": "https://eiga.com/movie/105714/",
       "release_date": "10月30日",
       "thumbnail": "https://media.eiga.com/images/movie/105714/photo/800b1226cabd7d19/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729270"
+      "scraped_at": "2026-10-31T03:57:30.777943"
     },
     {
       "title": "クレイフェイス",
       "url": "https://eiga.com/movie/106078/",
       "release_date": "10月30日",
       "thumbnail": "https://media.eiga.com/images/movie/106078/photo/9f0c8228378c0ce8/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729375"
-    },
-    {
-      "title": "見上げてごらん",
-      "url": "https://eiga.com/movie/106367/",
-      "release_date": "10月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/106367/photo/46384af095ec7679/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729443"
-    },
-    {
-      "title": "恒星の向こう側",
-      "url": "https://eiga.com/movie/104749/",
-      "release_date": "10月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/104749/photo/72dfe1ccdaf6072f/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729508"
-    },
-    {
-      "title": "映画 聲の形",
-      "url": "https://eiga.com/movie/83287/",
-      "release_date": "10月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/83287/photo/d07fe57628f6b84d/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729573"
-    },
-    {
-      "title": "COWBOY BEBOP 天国の扉",
-      "url": "https://eiga.com/movie/40347/",
-      "release_date": "10月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/40347/photo/1b608d25cbf8e432/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729636"
+      "scraped_at": "2026-10-31T03:57:30.777989"
     },
     {
       "title": "ヤマトよ永遠に REBEL3199 第七章 虹色の輪廻",
       "url": "https://eiga.com/movie/106416/",
       "release_date": "10月30日",
       "thumbnail": "https://media.eiga.com/images/movie/106416/photo/aa407faa56cc28fe/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729695"
+      "scraped_at": "2026-10-31T03:57:30.778044"
     },
     {
-      "title": "地球を守れ！",
-      "url": "https://eiga.com/movie/52796/",
+      "title": "見上げてごらん",
+      "url": "https://eiga.com/movie/106367/",
       "release_date": "10月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/52796/photo/4b3777ee91546a51/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729762"
+      "thumbnail": "https://media.eiga.com/images/movie/106367/photo/46384af095ec7679/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.778089"
+    },
+    {
+      "title": "恒星の向こう側",
+      "url": "https://eiga.com/movie/104749/",
+      "release_date": "10月30日",
+      "thumbnail": "https://media.eiga.com/images/movie/104749/photo/72dfe1ccdaf6072f/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.778147"
+    },
+    {
+      "title": "映画 聲の形",
+      "url": "https://eiga.com/movie/83287/",
+      "release_date": "10月30日",
+      "thumbnail": "https://media.eiga.com/images/movie/83287/photo/d07fe57628f6b84d/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.778194"
+    },
+    {
+      "title": "COWBOY BEBOP 天国の扉",
+      "url": "https://eiga.com/movie/40347/",
+      "release_date": "10月30日",
+      "thumbnail": "https://media.eiga.com/images/movie/40347/photo/1b608d25cbf8e432/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.778237"
     },
     {
       "title": "月影のゴールデン街",
       "url": "https://eiga.com/movie/106371/",
       "release_date": "10月30日",
       "thumbnail": "https://media.eiga.com/images/movie/106371/photo/69903f908666b5b1/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729821"
+      "scraped_at": "2026-10-31T03:57:30.778281"
     },
     {
-      "title": "韓国ミュージカル ON SCREEN フランケンシュタイン",
-      "url": "https://eiga.com/movie/106737/",
+      "title": "地球を守れ！",
+      "url": "https://eiga.com/movie/52796/",
       "release_date": "10月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/106737/photo/835b1d6a52504bea/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729879"
-    },
-    {
-      "title": "煙突の中の雀",
-      "url": "https://eiga.com/movie/102562/",
-      "release_date": "10月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/102562/photo/9057c70cfc34bf13/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729935"
+      "thumbnail": "https://media.eiga.com/images/movie/52796/photo/4b3777ee91546a51/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.778324"
     },
     {
       "title": "ラウ・チュー・ホア あの屋敷には、何かいる。",
       "url": "https://eiga.com/movie/106866/",
       "release_date": "10月30日",
       "thumbnail": "https://media.eiga.com/images/movie/106866/photo/645bb24c617a1e00/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.729993"
+      "scraped_at": "2026-10-31T03:57:30.778366"
     },
     {
-      "title": "ガール・アンド・スパイダー",
-      "url": "https://eiga.com/movie/97777/",
+      "title": "韓国ミュージカル ON SCREEN フランケンシュタイン",
+      "url": "https://eiga.com/movie/106737/",
       "release_date": "10月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/97777/photo/b7daf5ee967b5063/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.730050"
-    },
-    {
-      "title": "ストレンジ・リトル・キャット",
-      "url": "https://eiga.com/movie/98380/",
-      "release_date": "10月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/98380/photo/e765653e9608c98b/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.730106"
+      "thumbnail": "https://media.eiga.com/images/movie/106737/photo/835b1d6a52504bea/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.778408"
     },
     {
       "title": "TOMORROW X TOGETHER WORLD TOUR ʻACT : TOMORROWʼ",
       "url": "https://eiga.com/movie/106948/",
       "release_date": "10月30日",
       "thumbnail": "https://media.eiga.com/images/movie/106948/photo/326d3b2010b84f6f/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.730165"
+      "scraped_at": "2026-10-31T03:57:30.778451"
+    },
+    {
+      "title": "煙突の中の雀",
+      "url": "https://eiga.com/movie/102562/",
+      "release_date": "10月30日",
+      "thumbnail": "https://media.eiga.com/images/movie/102562/photo/9057c70cfc34bf13/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.778492"
+    },
+    {
+      "title": "ガール・アンド・スパイダー",
+      "url": "https://eiga.com/movie/97777/",
+      "release_date": "10月30日",
+      "thumbnail": "https://media.eiga.com/images/movie/97777/photo/b7daf5ee967b5063/320.jpg",
+      "scraped_at": "2026-10-31T03:57:30.778535"
     },
     {
       "title": "トリコロール 青の愛",
       "url": "https://eiga.com/movie/21401/",
       "release_date": "10月30日",
       "thumbnail": "https://media.eiga.com/images/movie/21401/photo/24cd4477fcc87c5d/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.730224"
-    },
-    {
-      "title": "トリコロール 赤の愛",
-      "url": "https://eiga.com/movie/21403/",
-      "release_date": "10月30日",
-      "thumbnail": "https://media.eiga.com/images/movie/21403/photo/af2dc842bec11091/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.730280"
-    },
-    {
-      "title": "NAZA ナザ",
-      "url": "https://eiga.com/movie/106834/",
-      "release_date": "10月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/106834/photo/fe061e0e9558072b/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.730347"
-    },
-    {
-      "title": "魂のきせき",
-      "url": "https://eiga.com/movie/104792/",
-      "release_date": "10月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/104792/photo/5e29772f9adb31ed/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.730405"
-    },
-    {
-      "title": "YAMANEKO",
-      "url": "https://eiga.com/movie/106952/",
-      "release_date": "10月24日",
-      "thumbnail": "https://media.eiga.com/images/movie/106952/photo/455365132fa74026/320.jpg",
-      "scraped_at": "2026-10-30T04:17:03.730461"
+      "scraped_at": "2026-10-31T03:57:30.778580"
     }
   ]
 }
