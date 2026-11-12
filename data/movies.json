@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-11-11T04:37:16.603743",
+  "updated_at": "2026-11-12T05:40:39.020485",
   "count": 20,
   "movies": [
     {
-      "title": "自画像 47KMの橋",
-      "url": "https://eiga.com/movie/107231/",
-      "release_date": "11月11日",
-      "thumbnail": "https://media.eiga.com/images/movie/107231/photo/b862a50cfca4c7ec/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.545918"
+      "title": "自画像 47KMの死",
+      "url": "https://eiga.com/movie/107232/",
+      "release_date": "11月12日",
+      "thumbnail": "https://media.eiga.com/images/movie/107232/photo/dac1c791cd320dd1/320.jpg",
+      "scraped_at": "2026-11-12T05:40:38.981082"
     },
     {
       "title": "カンダハール",
       "url": "https://eiga.com/movie/51482/",
       "release_date": "11月7日",
       "thumbnail": "https://media.eiga.com/images/movie/51482/photo/1c4dd3924985cbd7/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.545981"
+      "scraped_at": "2026-11-12T05:40:38.981151"
     },
     {
       "title": "日本前衛派の開拓者",
       "url": "https://eiga.com/movie/106891/",
       "release_date": "11月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106891/photo/6a9f9058801a4b2d/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546018"
+      "scraped_at": "2026-11-12T05:40:38.981190"
     },
     {
       "title": "となりのとらんす少女ちゃん",
       "url": "https://eiga.com/movie/104508/",
       "release_date": "11月7日",
       "thumbnail": "https://media.eiga.com/images/movie/104508/photo/79c9f6d87e1867fa/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546054"
+      "scraped_at": "2026-11-12T05:40:38.981226"
     },
     {
       "title": "済州島 声たち",
       "url": "https://eiga.com/movie/106744/",
       "release_date": "11月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106744/photo/32b10d2e0921e05c/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546090"
+      "scraped_at": "2026-11-12T05:40:38.981263"
     },
     {
       "title": "みらいしのほこう",
       "url": "https://eiga.com/movie/106648/",
       "release_date": "11月7日",
       "thumbnail": "https://media.eiga.com/images/movie/106648/photo/102bd95a167f63c6/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546124"
+      "scraped_at": "2026-11-12T05:40:38.981296"
     },
     {
       "title": "ヴェリティ 真実",
       "url": "https://eiga.com/movie/106119/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/106119/photo/1bf42a779941585b/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546155"
+      "scraped_at": "2026-11-12T05:40:38.981328"
     },
     {
       "title": "星の教室",
       "url": "https://eiga.com/movie/106193/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/106193/photo/10b8e70957768e0c/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546190"
+      "scraped_at": "2026-11-12T05:40:38.981362"
     },
     {
       "title": "仮面ライダーカブト 20th 天を継ぐもの",
       "url": "https://eiga.com/movie/105953/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105953/photo/5611d0f612face8d/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546220"
+      "scraped_at": "2026-11-12T05:40:38.981394"
     },
     {
       "title": "男ともだち",
       "url": "https://eiga.com/movie/106300/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/106300/photo/b92d2498cc0e77b1/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546250"
+      "scraped_at": "2026-11-12T05:40:38.981424"
     },
     {
       "title": "GROTESQQQUE グロテスク",
       "url": "https://eiga.com/movie/104218/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104218/photo/ed69ea195883d1f8/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546278"
+      "scraped_at": "2026-11-12T05:40:38.981455"
     },
     {
       "title": "3ミリの恋",
       "url": "https://eiga.com/movie/106216/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/106216/photo/97b6710a7ca46de2/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546306"
+      "scraped_at": "2026-11-12T05:40:38.981484"
     },
     {
       "title": "4アウト もう一度、プレイボール",
       "url": "https://eiga.com/movie/106315/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/106315/photo/04dc33ae0018385c/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546334"
+      "scraped_at": "2026-11-12T05:40:38.981512"
     },
     {
       "title": "ちっぽけな僕の、おおきな世界",
       "url": "https://eiga.com/movie/102527/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/102527/photo/e62e498bbc449869/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546361"
+      "scraped_at": "2026-11-12T05:40:38.981538"
     },
     {
       "title": "ブルネロ 静かなる先見者",
       "url": "https://eiga.com/movie/106782/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/106782/photo/288072b747fcf412/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546387"
+      "scraped_at": "2026-11-12T05:40:38.981565"
     },
     {
       "title": "冤罪のつくりかた",
       "url": "https://eiga.com/movie/106724/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/106724/photo/9fd0998d8468641f/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546415"
+      "scraped_at": "2026-11-12T05:40:38.981594"
     },
     {
       "title": "マルセル＆ムッシュ・パニョル",
       "url": "https://eiga.com/movie/105618/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105618/photo/c5daf5f03c6351a2/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546444"
+      "scraped_at": "2026-11-12T05:40:38.981622"
     },
     {
       "title": "アングスト 不安",
       "url": "https://eiga.com/movie/93074/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/93074/photo/3e2ae0a2ef10b6ed/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546471"
+      "scraped_at": "2026-11-12T05:40:38.981649"
     },
     {
       "title": "ダビデ 王になった少年",
       "url": "https://eiga.com/movie/105282/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/105282/photo/56144f2339e5b413/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546498"
+      "scraped_at": "2026-11-12T05:40:38.981677"
     },
     {
       "title": "ヒポクラテスの盲点",
       "url": "https://eiga.com/movie/104090/",
       "release_date": "11月6日",
       "thumbnail": "https://media.eiga.com/images/movie/104090/photo/04a1861746d88924/320.jpg",
-      "scraped_at": "2026-11-11T04:37:16.546526"
+      "scraped_at": "2026-11-12T05:40:38.981704"
     }
   ]
 }
