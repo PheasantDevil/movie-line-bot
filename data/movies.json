@@ -1,146 +1,146 @@
 {
-  "updated_at": "2026-11-13T04:57:45.129141",
+  "updated_at": "2026-11-14T04:51:02.798496",
   "count": 20,
   "movies": [
+    {
+      "title": "さよなら、私のロシア",
+      "url": "https://eiga.com/movie/106576/",
+      "release_date": "11月14日",
+      "thumbnail": "https://media.eiga.com/images/movie/106576/photo/e87e7544a062f072/320.jpg",
+      "scraped_at": "2026-11-14T04:51:02.710161"
+    },
+    {
+      "title": "デフリンピック・ストーリーズ",
+      "url": "https://eiga.com/movie/106883/",
+      "release_date": "11月14日",
+      "thumbnail": "https://media.eiga.com/images/movie/106883/photo/fbda5663bb0b1371/320.jpg",
+      "scraped_at": "2026-11-14T04:51:02.710266"
+    },
+    {
+      "title": "アマゾン、精霊が宿る川",
+      "url": "https://eiga.com/movie/106849/",
+      "release_date": "11月14日",
+      "thumbnail": "https://media.eiga.com/images/movie/106849/photo/6f7fd3bbd4feac86/320.jpg",
+      "scraped_at": "2026-11-14T04:51:02.710343"
+    },
+    {
+      "title": "嘘の逃げ道",
+      "url": "https://eiga.com/movie/106947/",
+      "release_date": "11月14日",
+      "thumbnail": "https://media.eiga.com/images/movie/106947/photo/58b5645bcfee70e7/320.jpg",
+      "scraped_at": "2026-11-14T04:51:02.710416"
+    },
+    {
+      "title": "自画像 47KMのスフィンクス",
+      "url": "https://eiga.com/movie/107234/",
+      "release_date": "11月14日",
+      "thumbnail": "https://media.eiga.com/images/movie/107234/photo/799ba42c8c39835e/320.jpg",
+      "scraped_at": "2026-11-14T04:51:02.710497"
+    },
+    {
+      "title": "巡る世界、巡る言葉",
+      "url": "https://eiga.com/movie/106903/",
+      "release_date": "11月14日",
+      "thumbnail": "https://media.eiga.com/images/movie/106903/photo/21cb9e65247f04c1/320.jpg",
+      "scraped_at": "2026-11-14T04:51:02.710570"
+    },
     {
       "title": "負けへんで",
       "url": "https://eiga.com/movie/106294/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/106294/photo/656dbdff2927f7f9/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.880805"
+      "scraped_at": "2026-11-14T04:51:02.710638"
     },
     {
       "title": "クリスマス・キャロル 3人のゴーストたち",
       "url": "https://eiga.com/movie/106556/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/106556/photo/4f102d61279908d4/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.880912"
+      "scraped_at": "2026-11-14T04:51:02.710709"
     },
     {
       "title": "すべて真夜中の恋人たち",
       "url": "https://eiga.com/movie/104828/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/104828/photo/6aa92f088b3766f7/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.880978"
+      "scraped_at": "2026-11-14T04:51:02.710776"
     },
     {
       "title": "呪いのスマホ",
       "url": "https://eiga.com/movie/105501/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/105501/photo/f1478b98aa0d9095/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881038"
+      "scraped_at": "2026-11-14T04:51:02.710840"
     },
     {
       "title": "大富豪になるための正しい殺し方",
       "url": "https://eiga.com/movie/105655/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/105655/photo/5dc944cd7069cfec/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881100"
+      "scraped_at": "2026-11-14T04:51:02.710928"
     },
     {
       "title": "南極料理人",
       "url": "https://eiga.com/movie/54331/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/54331/photo/cc62b8e1d5a318c1/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881157"
+      "scraped_at": "2026-11-14T04:51:02.710995"
     },
     {
       "title": "楽園追放 心のレゾナンス",
       "url": "https://eiga.com/movie/101149/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/101149/photo/75fb13700d8086d7/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881211"
+      "scraped_at": "2026-11-14T04:51:02.711059"
     },
     {
       "title": "トキシック・アベンジャー",
       "url": "https://eiga.com/movie/106771/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/106771/photo/80e6c74faa74df06/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881272"
+      "scraped_at": "2026-11-14T04:51:02.711121"
     },
     {
       "title": "1971、ハイジャック事件",
       "url": "https://eiga.com/movie/106712/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/106712/photo/567518457e6bf091/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881326"
+      "scraped_at": "2026-11-14T04:51:02.711184"
     },
     {
       "title": "ムクドリと人生とレモンパスタ",
       "url": "https://eiga.com/movie/106809/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/106809/photo/0df0916e8c942209/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881378"
+      "scraped_at": "2026-11-14T04:51:02.711249"
     },
     {
       "title": "風を継ぐもの はじまり",
       "url": "https://eiga.com/movie/105934/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/105934/photo/6e92ae2f7078ae4b/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881430"
+      "scraped_at": "2026-11-14T04:51:02.711313"
     },
     {
       "title": "55 FIFTY FIVE 番号で呼ばれた少年",
       "url": "https://eiga.com/movie/106869/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/106869/photo/08a6ae617cf285d8/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881480"
-    },
-    {
-      "title": "2126年、海の星をさがして",
-      "url": "https://eiga.com/movie/105277/",
-      "release_date": "11月13日",
-      "thumbnail": "https://media.eiga.com/images/movie/105277/photo/455ce64a63de5dd3/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881531"
+      "scraped_at": "2026-11-14T04:51:02.711375"
     },
     {
       "title": "世界で最後の愛しい娘！",
       "url": "https://eiga.com/movie/106034/",
       "release_date": "11月13日",
       "thumbnail": "https://media.eiga.com/images/movie/106034/photo/19f151a846ba8e3c/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881582"
+      "scraped_at": "2026-11-14T04:51:02.711439"
     },
     {
-      "title": "アット・ザ・ベンチ",
-      "url": "https://eiga.com/movie/102390/",
+      "title": "2126年、海の星をさがして",
+      "url": "https://eiga.com/movie/105277/",
       "release_date": "11月13日",
-      "thumbnail": "https://media.eiga.com/images/movie/102390/photo/f2aea07350ad58f6/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881632"
-    },
-    {
-      "title": "アフターバーン 世紀末の秘宝",
-      "url": "https://eiga.com/movie/106770/",
-      "release_date": "11月13日",
-      "thumbnail": "https://media.eiga.com/images/movie/106770/photo/86b0c3edf4d043e6/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881681"
-    },
-    {
-      "title": "アメリ",
-      "url": "https://eiga.com/movie/1254/",
-      "release_date": "11月13日",
-      "thumbnail": "https://media.eiga.com/images/movie/1254/photo/283ea05ef8c05f81/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881731"
-    },
-    {
-      "title": "刺青",
-      "url": "https://eiga.com/movie/106624/",
-      "release_date": "11月13日",
-      "thumbnail": "https://media.eiga.com/images/movie/106624/photo/2a913e9895e6abcc/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881780"
-    },
-    {
-      "title": "デスペア 光明への旅",
-      "url": "https://eiga.com/movie/106917/",
-      "release_date": "11月13日",
-      "thumbnail": "https://media.eiga.com/images/movie/106917/photo/69aa34c2c15c6897/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881830"
-    },
-    {
-      "title": "少しの愛だけでも",
-      "url": "https://eiga.com/movie/106918/",
-      "release_date": "11月13日",
-      "thumbnail": "https://media.eiga.com/images/movie/106918/photo/6f935c1ccf6d4d3a/320.jpg",
-      "scraped_at": "2026-11-13T04:57:44.881894"
+      "thumbnail": "https://media.eiga.com/images/movie/105277/photo/455ce64a63de5dd3/320.jpg",
+      "scraped_at": "2026-11-14T04:51:02.711503"
     }
   ]
 }
