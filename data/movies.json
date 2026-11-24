@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T05:40:06.624774",
+  "updated_at": "2026-11-24T08:17:48.808995",
   "count": 20,
   "movies": [
     {
@@ -7,140 +7,140 @@
       "url": "https://eiga.com/movie/106208/",
       "release_date": "11月27日",
       "thumbnail": "https://media.eiga.com/images/movie/106208/photo/76bd8a89312694be/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.194278"
+      "scraped_at": "2026-11-24T08:17:48.488217"
     },
     {
       "title": "OiBokkeShi 99歳の看板俳優",
       "url": "https://eiga.com/movie/106915/",
       "release_date": "11月27日",
       "thumbnail": "https://media.eiga.com/images/movie/106915/photo/8812e7a8db9c42ab/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.194387"
+      "scraped_at": "2026-11-24T08:17:48.488289"
     },
     {
       "title": "いつかの走馬灯で",
       "url": "https://eiga.com/movie/106500/",
       "release_date": "11月21日",
       "thumbnail": "https://media.eiga.com/images/movie/106500/photo/d3832bf5a28a3475/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.194465"
-    },
-    {
-      "title": "魔法使いの夜",
-      "url": "https://eiga.com/movie/96352/",
-      "release_date": "11月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/96352/photo/dbc6963b468956c7/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.194560"
-    },
-    {
-      "title": "月がみている",
-      "url": "https://eiga.com/movie/106250/",
-      "release_date": "11月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/106250/photo/84baefbf9411f598/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.194643"
+      "scraped_at": "2026-11-24T08:17:48.488338"
     },
     {
       "title": "装甲騎兵ボトムズ 灰色の魔女（ヘクセ）",
       "url": "https://eiga.com/movie/106190/",
       "release_date": "11月20日",
       "thumbnail": "https://media.eiga.com/images/movie/106190/photo/bb783c99ca6bf89b/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.194715"
+      "scraped_at": "2026-11-24T08:17:48.488383"
+    },
+    {
+      "title": "魔法使いの夜",
+      "url": "https://eiga.com/movie/96352/",
+      "release_date": "11月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/96352/photo/3986e3dae1b52fa9/320.jpg",
+      "scraped_at": "2026-11-24T08:17:48.488429"
+    },
+    {
+      "title": "月がみている",
+      "url": "https://eiga.com/movie/106250/",
+      "release_date": "11月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/106250/photo/84baefbf9411f598/320.jpg",
+      "scraped_at": "2026-11-24T08:17:48.488470"
     },
     {
       "title": "ないものねだりの君に光の花束を",
       "url": "https://eiga.com/movie/106199/",
       "release_date": "11月20日",
       "thumbnail": "https://media.eiga.com/images/movie/106199/photo/f35fd3801d155010/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.194781"
-    },
-    {
-      "title": "アザー・マミー",
-      "url": "https://eiga.com/movie/106848/",
-      "release_date": "11月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/106848/photo/13c68002ec401b03/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.194851"
-    },
-    {
-      "title": "日曜のあと",
-      "url": "https://eiga.com/movie/106661/",
-      "release_date": "11月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/106661/photo/c52ed357fd64da6c/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.194919"
+      "scraped_at": "2026-11-24T08:17:48.488509"
     },
     {
       "title": "ファーザー マザー シスター ブラザー",
       "url": "https://eiga.com/movie/104404/",
       "release_date": "11月20日",
       "thumbnail": "https://media.eiga.com/images/movie/104404/photo/615276a81882819c/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.194982"
+      "scraped_at": "2026-11-24T08:17:48.488553"
+    },
+    {
+      "title": "アザー・マミー",
+      "url": "https://eiga.com/movie/106848/",
+      "release_date": "11月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/106848/photo/13c68002ec401b03/320.jpg",
+      "scraped_at": "2026-11-24T08:17:48.488591"
+    },
+    {
+      "title": "日曜のあと",
+      "url": "https://eiga.com/movie/106661/",
+      "release_date": "11月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/106661/photo/c52ed357fd64da6c/320.jpg",
+      "scraped_at": "2026-11-24T08:17:48.488630"
     },
     {
       "title": "あなたが母親の手料理を食べられる回数は、あとどれくらい残ってますか？",
       "url": "https://eiga.com/movie/106680/",
       "release_date": "11月20日",
       "thumbnail": "https://media.eiga.com/images/movie/106680/photo/35bf41748a888148/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.195044"
+      "scraped_at": "2026-11-24T08:17:48.488667"
     },
     {
       "title": "サッカー日本代表 FIFAワールドカップ2026 「最高の景色」への挑戦 ONE CREATURE 2nd Leg",
       "url": "https://eiga.com/movie/107112/",
       "release_date": "11月20日",
       "thumbnail": "https://media.eiga.com/images/movie/107112/photo/ac5a5a19963f3259/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.195107"
+      "scraped_at": "2026-11-24T08:17:48.488704"
     },
     {
       "title": "はじまりのさよなら",
       "url": "https://eiga.com/movie/106501/",
       "release_date": "11月20日",
       "thumbnail": "https://media.eiga.com/images/movie/106501/photo/ef46d206841c07bb/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.195176"
+      "scraped_at": "2026-11-24T08:17:48.488741"
     },
     {
       "title": "1977 あの写真の私たち",
       "url": "https://eiga.com/movie/106820/",
       "release_date": "11月20日",
       "thumbnail": "https://media.eiga.com/images/movie/106820/photo/29f509aab3a69414/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.195240"
+      "scraped_at": "2026-11-24T08:17:48.488778"
     },
     {
       "title": "劇場版 遊☆戯☆王 THE DARK SIDE OF DIMENSIONS",
       "url": "https://eiga.com/movie/81516/",
       "release_date": "11月20日",
       "thumbnail": "https://media.eiga.com/images/movie/81516/photo/34e72c8ddd976863/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.195302"
-    },
-    {
-      "title": "オルモと夏のステレオ",
-      "url": "https://eiga.com/movie/106825/",
-      "release_date": "11月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/106825/photo/dc5f6bcd85bc914d/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.195369"
-    },
-    {
-      "title": "Creepy Nuts - North America Tour: LIVE in NY & Documentary Film",
-      "url": "https://eiga.com/movie/106805/",
-      "release_date": "11月20日",
-      "thumbnail": "https://media.eiga.com/images/movie/106805/photo/9ec1e1b9647fe933/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.195433"
+      "scraped_at": "2026-11-24T08:17:48.488814"
     },
     {
       "title": "ラブル＆クルー IN シアター 2026",
       "url": "https://eiga.com/movie/106644/",
       "release_date": "11月20日",
       "thumbnail": "https://media.eiga.com/images/movie/106644/photo/118d249314599287/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.195495"
+      "scraped_at": "2026-11-24T08:17:48.488852"
     },
     {
       "title": "悪魔の毒々モンスター",
       "url": "https://eiga.com/movie/41989/",
       "release_date": "11月20日",
       "thumbnail": "https://media.eiga.com/images/movie/41989/photo/70472218e0a86f5e/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.195574"
+      "scraped_at": "2026-11-24T08:17:48.488888"
+    },
+    {
+      "title": "Creepy Nuts - North America Tour: LIVE in NY & Documentary Film",
+      "url": "https://eiga.com/movie/106805/",
+      "release_date": "11月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/106805/photo/9ec1e1b9647fe933/320.jpg",
+      "scraped_at": "2026-11-24T08:17:48.488924"
+    },
+    {
+      "title": "オルモと夏のステレオ",
+      "url": "https://eiga.com/movie/106825/",
+      "release_date": "11月20日",
+      "thumbnail": "https://media.eiga.com/images/movie/106825/photo/dc5f6bcd85bc914d/320.jpg",
+      "scraped_at": "2026-11-24T08:17:48.488962"
     },
     {
       "title": "ターナー、光に愛を求めて",
       "url": "https://eiga.com/movie/81223/",
       "release_date": "11月20日",
       "thumbnail": "https://media.eiga.com/images/movie/81223/photo/f3c9705f2a3e4126/320.jpg",
-      "scraped_at": "2026-11-23T05:40:06.195646"
+      "scraped_at": "2026-11-24T08:17:48.488998"
     }
   ]
 }
